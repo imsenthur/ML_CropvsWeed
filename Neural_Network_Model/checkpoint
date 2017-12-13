@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/holy_cow/Penseive/ML_CropvsWeed/Neural_Network_Model/CropvsWeed-0.001-6ConvBasic10epochs.model"
+all_model_checkpoint_paths: "/media/holy_cow/Penseive/ML_CropvsWeed/Neural_Network_Model/CropvsWeed-0.001-6ConvBasic10epochs.model"
