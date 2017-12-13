@@ -1,0 +1,356 @@
+<!DOCTYPE  html>
+<html lang="de" >
+<head><meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<title>Mail Domain – Ihre perfekte Wunschdomain!</title>
+<meta name="description" content="Mit Mail Domain starten Sie jetzt Ihre Onlinepräsenz. Sie erhalten 1 Domain, 25 Mail-Adressen, 2.5 GB Mail Speicher, Spamschutz und eine Domain-Umleitung." />
+<meta name="robots" content="index, follow, noodp, noydir" />
+<meta property="lp:type" content="website" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Mit Mail Domain starten Sie jetzt Ihre Onlinepräsenz. Sie erhalten 1 Domain, 25 Mail-Adressen, 2.5 GB Mail Speicher, Spamschutz und eine Domain-Umleitung." />
+<meta property="og:title" content="Mail Domain – Ihre perfekte Wunschdomain!" />
+<meta property="og:site_name" content="freenet.de E-Mail" />
+<meta property="og:image" content="//blob.freent.de/contentblob/1973262/data/freenet_fb_logo.png" /><link rel="stylesheet" type="text/css" href="https://email.freenet.de/code/5626266/16233496996579/_EmailLib.css"  />
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="https://email.freenet.de/code/5622882/2/ie8.css"  />
+<![endif]--><!-- start[head] -->
+<!-- end[head] -->
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="https://blob.freent.de/contentblob/5625134/1/data/freenet-32x32.ico" />
+<meta name="robots" content="index, follow, noodp, noydir" />
+<meta name="google-site-verification" content="PJtIcqLvd5pbgvoQy4P_OdtdXej4E0lIu5gIpNdZG5w" />
+<meta name="language" content="de" />
+<meta name="copyright" content="freenet.de GmbH" />
+<meta name="organization" content="freenet.de GmbH" />
+<meta name="author" content="freenet.de - freenet" />
+<meta name="publisher" content="freenet.de - freenet" />
+<meta property="fb:app_id" content="140319285993092" />
+<meta property="fb:admins" content="1195671585, 100000487061078, 100000318309384" />
+<script type='text/javascript'>
+var isLoggedIn = '0';
+var webmailAdress = 'https://webmail.freenet.de/';
+</script>
+<script type="text/javascript" src="https://email.freenet.de/code/5626204/332392/EmailLib.js" ></script>
+<!-- @@ partnerHead @@ -->
+</head>
+<body class="mailDomain">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MTLVWB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTLVWB');</script>
+<!-- End Google Tag Manager -->
+<div id="frnMain">
+<div id="frnKopf_Neu" >
+<div id="frnKopfRechts">
+<div id="frnLogo">
+<img src="https://blob.freent.de/contentblob/5622948/1/original/emaillogoshade.gif" width="3" height="2" alt="" />
+</div>
+<div id="frnKopfLogo">
+<div id="frnKopfLinkleiste" class="frnNoTopicHeadline">
+<div id="shopHead">
+<div id="shopHeadTop">
+<div id="shopHeadContent" class="shopBoxes">
+<div id="freenetMailLogo"><a href="https://www.freenet.de/index.html"><div class="icon-icon_shop_freenet_de_logo"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span></div></a></div>
+<a id="shopHeadLinkEMIG" href="https://email.freenet.de/emig/index.html"><div id="shopSiegelEMIG" class="shopSprite2017"></div></a>
+<a id="shopHeadLinkCloud" href="https://email.freenet.de/cloud/index.html"><div id="shopSiegelCloud" class="shopSprite2017"></div></a>
+<div id="shopLoginButton">
+<div id="shopLoginButtonBlue" class="shopSprite" onmouseover="$('#freenetLogins').show();">
+<div id="shopLoginButtonText" style="float:left;">Login</div>
+<div id="shopLoginButtonArrow" class="shopSprite"></div>
+</div>
+<div id="freenetLogins">
+<div onclick="EMO_Login.showLoginBox('freenet');" class="freenetLoginDropdown freenetBasic">freenet</div>
+<div onclick="EMO_Login.showLoginBox('domain');" class="freenetLoginDropdown freenetDomain">Domain</div>
+</div>
+</div>
+<div id="loginBox">
+<div class="headerLoginBoxes" id="domainLoginBox">
+<form action="https://hosting.freenet.de/cgi-bin/lifesales/life-service.pl" method="post" name="loginform" id="loginForm">
+<input type="hidden" value="freenet" name="mode">
+<input type="hidden" value="servicelogin" name="_page">
+<input type="hidden" value="freenet_domainlogin" name="page_basic">
+<div id="domainLoginBoxDomainwahl">
+<input type="text" class="registrationElements placeholder" value="Domainname" onblur="EMO_Login.checkDomainValue()" onfocus="EMO_Login.removeDomainValue()" id="frn_DomainLoginName" name="domain">
+<select class="registrationElements" id="domainTld" name="tld">
+<option selected="selected" value=".de">.DE</option>
+<option value=".com">.COM</option>
+<option value=".net">.NET</option>
+<option value=".org">.ORG</option>
+<option value=".info">.INFO</option>
+<option value=".biz">.BIZ</option>
+<option value=".tv">.TV</option>
+<option value=".ws">.WS</option>
+<option value=".us">.US</option>
+<option value=".cn">.CN</option>
+<option value=".name">.NAME</option>
+<option value=".at">.AT</option>
+<option value=".ch">.CH</option>
+<option value=".li">.LI</option>
+<option value=".pl">.PL</option>
+<option value=".eu">.EU</option>
+</select>
+</div>
+<input type="text" onfocus="EMO_Login.changeDomainPasswordField();" value="Passwort" class="registrationElements placeholder" name="passtext" style="display: inline;" id="passtextDomain">
+<input type="password" onblur="EMO_Login.checkDomainPasswordField()" style="display: none;" class="registrationElements" id="frn_DomainLoginPassword" name="passwort">
+<div class="domainLoginBoxHelpLink">
+<a target="_blank" href="https://hosting.freenet.de/cgi-bin/lifesales/lifesales.pl?_show=pwvergessen&amp;page_aktuell=index_pwanfrage&amp;mode=freenet">Brauchen Sie Hilfe?</a>
+</div>
+<input type="submit" value="Domain Login" class="mailDomainButtons" id="domainLoginBoxSubmit">
+</form>
+</div>
+<div class="headerLoginBoxes" id="freenetLoginBox">
+<form action="https://auth.freenet.de/mail/login.php" method="post" name="loginform" id="loginForm">
+<input type="hidden" value="2" name="world">
+<input type="hidden" value="http://webmail.freenet.de/?goTo=showCSCDomain" id="callback" name="callback">
+<input type="text" class="registrationElements placeholder" value="Benutzername" onblur="EMO_Login.checkUsernameValue()" onfocus="EMO_Login.removeUsernameValue()" id="username" name="u">
+<input type="text" onfocus="EMO_Login.changePasswordField();" value="Passwort" class="registrationElements placeholder" name="passtext" style="display: inline;" id="passtext">
+<input type="password" onblur="EMO_Login.checkPasswordField()" style="display: none;" class="registrationElements" id="password" name="password">
+<div class="domainLoginBoxHelpLink">
+<a target="_blank" href="http://kundenservice.freenet.de">Brauchen Sie Hilfe?</a>
+</div>
+<input type="submit" value="freenet Login" class="mailDomainButtons" id="freenetLoginBoxSubmit">
+</form>
+</div>
+</div>
+<script type="text/javascript">
+$(document).click(function(e) {
+var loginBox = $('#loginBox');
+var shopLoginButton = $('#shopLoginButton');
+if ((!loginBox.is(e.target) &amp;&amp; loginBox.has(e.target).length === 0) &amp;&amp; (!shopLoginButton.is(e.target) &amp;&amp; shopLoginButton.has(e.target).length === 0)) {
+$('#domainLoginBox').hide();
+$('#freenetLoginBox').hide();
+}
+});
+</script>
+</div>
+</div>
+<div id="shopHeaderMenue">
+<div id="shopHeaderMenueWrapper" class="shopBoxes">
+<a id="naviHome" href="https://www.freenet.de/index.html" target="_blank"><div id="shopMenueHome" class="shopSprite2017"></div></a>
+<a id="naviBasic" href="https://email.freenet.de/index.html"><div id="shopMenueBasic" class="shopMenueBoxes">Basic</div></a>
+<a id="naviBasicplus" href="https://email.freenet.de/basicplus/index.html"><div id="shopMenueBasicplus" class="shopMenueBoxes">Basic <span style="font-size:0.6em;vertical-align:top;">plus</span></div></a>
+<a id="naviStart" href="https://email.freenet.de/start/index.html"><div id="shopMenueStart" class="shopMenueBoxes">Start</div></a>
+<a id="naviClassic" href="https://email.freenet.de/classic/index.html"><div id="shopMenueClassic" class="shopMenueBoxes">Classic</div></a>
+<a id="naviSicherheit" href="https://email.freenet.de/onlinesicherheit/index.html"><div id="shopMenueSicherheit" class="shopMenueBoxes">Norton</div></a>
+<a id="naviIdschutz" href="https://email.freenet.de/idschutz/index.html"><div id="shopMenueIdschutz" class="shopMenueBoxes">ID Schutz+</div></a>
+</div>
+</div>
+<div class="shopHeadTrenner"></div>
+</div>
+<script type="text/javascript">
+$('body.mailUebersicht #shopMenueBasic, body.mailStart #shopMenueStart, body.mailClassic #shopMenueClassic').addClass('activeMenue');
+</script>
+</div>
+<a href="http://www.freenet.de" id="frnKopfLogoLink" title="Startseite"></a>
+</div>
+<div id="frnKopfWelcome"></div>
+</div>
+</div>
+<div id="frnRahmenWrapper">
+<div id="frnRahmen">
+<script type="text/javascript">
+/* <![CDATA[ */
+initThemenFlyout();
+initNaviHorizontal();
+/* ]]> */</script>
+<div style="clear: both;"></div>
+<!-- bo Layouttable -->
+<div id="frnContentGutter">
+<div id="frnContentTop">
+<div class="lay4">
+</div>
+</div>
+<div id="frnTopic" class="frn_col5_typ0MR ">
+<div id="frnContentMain" class="frn_col5_typ0M">
+<!-- CONTENT[ -->
+<div class="lay5">
+<div id="mailDomainContent">
+<div id="mailDomainRegistrationWrapper">
+<div id="mailDomainRegistrationContent" class="shopBoxes">
+<div id="mailDomainRegistrationLeft">
+<h1>Ihre perfekte Wunschdomain!</h1>
+<p id="mailDomainRegistrationLeftDesc">
+Mit <span class="normal">Mail Domain</span> starten Sie jetzt Ihre Onlinepr&auml;senz. F&uuml;r nur
+<span class="bold">0,99 &euro;</span> pro Monat erhalten
+Sie <span class="normal">kostenlos 1 Domain, 25 Mail-Adressen, 2.500 MB Speicher, Spamschutz</span>
+und eine <span class="normal">Domain-Umleitung</span>.
+</p>
+<div id="mailDomainRegistrationWunschdomain">
+<input type="text" name="wunschdomain" id="wunschdomain" value="Meine Wunschdomain.de" class="registrationElements placeholder" placeholder="Meine Wunschdomain.de">
+<div id="wunschdomainSubmit" class="registrationElements" onclick="EMO_Shop.sendWunschdomain();">Los</div>
+</div>
+</div>
+</div>
+</div>
+<div class="shopTrennerIcon shopSprite" style="margin-top:-37px;"></div>
+<div id="mailDomainHomepageWrapper" class="shopGrey">
+<div id="mailDomainHomepageContent" class="shopBoxes">
+<div id="mailDomainHomepageContentLeft">
+<img src="https://blob.freent.de/contentblob/5635064/1/data/grafikperfektehomepage.png" alt="Ohne Vorkenntnisse zu Ihrer perfekten Homepage">
+</div>
+<div id="mailDomainHomepageContentRight">
+<h1>Ohne Vorkenntnisse zu Ihrer perfekten Homepage!</h1>
+<p>
+Mit dem <span style="font-weight: normal;">STRATO Homepage-Baukasten</span> von CM4all
+erstellen und bearbeiten Sie Ihre Webseite ohne Vorkenntnisse oder zus&auml;tzliche Software.
+Alles, was Sie dazu brauchen, ist ein Computer mit Internet-Zugang.
+</p>
+<a href="https://www.zanox-affiliate.de/ppc/?27654264C1896583414T" target="_blank" style="text-decoration:none;"><div id="mailDomainHomepageButton" class="mailDomainButtons">Homepage erstellen</div></a>
+</div>
+</div>
+</div>
+<div class="shopTrennerIcon shopSprite" style="margin-top:-37px;"></div>
+<div id="mailDomainWebprojekteWrapper">
+<div id="mailDomainWebprojekteContent" class="shopBoxes">
+<div id="mailDomainWebprojekteContentLeft">
+<h1>STRATO Hosting - f&uuml;r professionelle Web-Projekte!</h1>
+<p>
+Maximale <span style="font-weight: normal;">Sicherheit &amp; Verf&uuml;gbarkeit</span> dank
+neuester Technologie und bis zu <span style="font-weight: normal;">100 GB flexibler Mailspace</span>
+f&uuml;r Ihre Postf&auml;cher inklusive. F&uuml;r jede Anforderung bieten wir Ihnen die richtige L&ouml;sung.
+</p>
+<a href="https://www.zanox-affiliate.de/ppc/?27700503C858233803T" target="_blank" style="text-decoration:none;"><div id="mailDomainHomepageButton" class="mailDomainButtons">Jetzt bestellen</div></a>
+</div>
+<div id="mailDomainWebprojekteContentRight">
+<img src="https://blob.freent.de/contentblob/5635066/1/data/grafikwebprojekte.png" alt="STARTO Hosting - f&uuml;r professionelle Web-Projekte"/>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$('#wunschdomain').blur(function() {
+if($('#wunschdomain').val() == '' || $('#wunschdomain').val() == $('#wunschdomain').attr('placeholder')){
+$('#wunschdomain').val($('#wunschdomain').attr('placeholder'));
+$('#wunschdomain').addClass('placeholder');
+} else {
+$('#wunschdomain').removeClass('placeholder');
+}
+});
+$('#wunschdomain').focus(function() {
+if($('#wunschdomain').val() == '' || $('#wunschdomain').val() == $('#wunschdomain').attr('placeholder')){
+$('#wunschdomain').val('');
+$('#wunschdomain').removeClass('placeholder');
+}
+});
+</script>
+<div class="clearBoth"></div>
+</div>
+<!-- ] -->
+</div>
+</div>
+<div style="clear: both;"></div>
+<div id="frnContentBottom">
+<!-- CONTENT[ -->
+<div class="lay5">
+</div>
+<!-- ] -->
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+initLazyImages(false);
+/* ]]> */</script>
+</div>
+<!-- eo Layouttable -->
+<div style="clear: both;"></div>
+<div id="frnGreen"></div>
+</div>
+<div id="frnFoot">
+<div id="footer">
+<div id="footerContent" class="shopBoxes">
+<div id="footerContentWrapper">
+<div class="footerColumn">
+<div class="footerColumnText">
+<div><a href="http://kontakt.freenet.de" target="_blank">Kontakt</a></div>
+<div><a href="http://kundenservice.freenet.de/" target="_blank">Online-Hilfe</a></div>
+<div><a href="https://www.facebook.com/freenet/" target="_blank">Facebook</a></div>
+<div><a id="footerTarifvergleich" href="https://blob.freent.de/contentblob/4784972/16/data/lb-freenetmail.pdf">Tarifvergleich</a></div>
+</div>
+</div>
+<div class="footerColumn">
+<div class="footerColumnText">
+<div><a href="http://www.freenet-group.de/index.html" target="_blank">freenet Group</a></div>
+<div><a href="http://www.freenet-group.de/karriere/index.html" target="_blank">Karriere</a></div>
+<div><a href="http://werbung.freenet.de/" target="_blank">Mediadaten</a></div>
+<div><a href="https://www.freenet.de/impressum/index.html" target="_blank">Impressum</a></div>
+</div>
+</div>
+<div class="footerColumn">
+<div class="footerColumnText">
+<div><a href="https://www.freenet.de/agb/index.html" target="_blank">AGB</a></div>
+<div><a href="https://www.freenet.de/datenschutz/index.html" target="_blank">Datenschutz</a></div>
+<div><a href="https://email.freenet.de/index.html">Mail & Cloud</a></div>
+<div><a href="https://www.freenet.tv/" target="_blank">freenet TV</a></div>
+</div>
+</div>
+<div class="footerColumn">
+<div class="footerColumnText">
+<div><a href="https://www.freenetmobile.de/index.php" target="_blank">freenetmobile</a></div>
+<div><a href="http://community.freenet.de/index.html?pid=10343246096" target="_blank">Community</a></div>
+</div>
+</div>
+<div class="footerColumn2">
+<div class="footer_icon_container">
+<div class="footer_icons icon-icon_shop_sepa"></div>
+<div class="footer_icons icon-icon_master_card"></div>
+<div class="footer_icons icon-icon_shop_visa"></div>
+<div class="footer_icons icon-icon_shop_pay_pal"></div>
+</div>
+<div id="mailFooterRegistrationSiegel">
+<a href="https://email.freenet.de/emig/index.html?ipid=i9900000178"><div id="mailFooterRegistrationEMIG" class="shopSprite2017"></div></a>
+<a href="https://email.freenet.de/cloud/index.html?ipid=i9900000179"><div id="mailFooterRegistrationCloud" class="shopSprite2017"></div></a>
+<a href="https://email.freenet.de/gruener-strom/index.html"><div id="mailFooterRegistrationGreen" class="shopSprite2017"></div></a>
+<div id="mailFooterRegistrationSSL" class="shopSprite2017"></div>
+</div>
+</div>
+</div>
+<div id="footerGroup">Eine Marke der freenet Group</div>
+</div>
+</div>
+<div id="footerTexte">
+<div id="footerTexteContent" class="shopBoxes">
+<h3>Mit freenetmail unterwegs</h3>
+<p>Sie möchten ständigen Zugriff auf Ihr E-Mail Postfach haben? Mit freenet Mail mobil kein Problem! Sie können mit jedem internetfähigen Handy immer und überall auf Ihre E-Mails, Kontakte und Ihren Kalender zugfreifen. Selbstverständlich stehen Ihnen Ihre kostenlosen SMS auch mobil zur Verfügung.<br />Mit der freenet Mail App haben Sie Ihre E-Mails und Ihr Adressbuch auch auf ihrem Android oder iOS Smartphone immer dabei und können bequem und synchron auf allen Geräten kommunizieren.</p>
+<h3>Mehr als nur eine kostenlose E-Mail Adresse</h3>
+<p>freenet Mail bietet Ihnen mehr als nur ein bedienerfreundliches E-Mail Postfach, kostenlose E-Mail Adressen und genügend online Speicherplatz für Ihre persönlichen Daten. So können Sie Ihr E-Mail Postfach ebenfalls nutzen, um kostenlose SMS zu verschicken. Bereits als freenet Mail basic Mitglied stehen Ihnen monatlich 3 Frei SMS zur Verfügung.</p>
+<h3>Das Organisationstalent</h3>
+<p>Das übersichtliche und leicht zu bedienende Adressbuch online hilft Ihnen Ordnung in Ihren Kontaktdaten zu halten. Zusätzlich steht Ihnen der Online Kalender zur Verfügung. Kombinieren Sie beides und Sie werden nie wieder wichtige Anlässe wie z.B. Geburtstage Ihrer Freunde vergessen. Lassen Sie sich über den Kalender einfach erinnern und schicken Sie Ihren Freunden Grußkarten kostenlos zu. Bei freenet Mail haben Sie eine große Auswahl an Motiven zu besonderen Anlässen (Geburtstag, Hochzeit, Ostern, Weihnachten, Muttertag,Liebe, Comic, Smileys und viele mehr ...)! Hierbei stehen Ihnen alle E-Karten kostenlos zur Verfügung.</p>
+<h3>CLOUD SPEICHER FÜR IHRE BILDER, VIDEOS, MUSIK UND ANDERE DATEN</h3>
+<p>Wussten Sie, dass Sie als freenet Mail Kunde über einen großen Online Speicher für Ihre Bilder, Videos, Musik und andere Daten verfügen?<br />Ihre Daten liegen sicher auf unserem deutschen Cloud Server in Düsseldorf und Sie können rund um die Uhr überall auf der Welt darauf zugreifen.<br />Ihre Daten bleiben dabei stets zu Ihrer Sicherheit in Deutschland und sind nach modernsten Verfahren verschlüsselt.<br /><br /><strong style="text-decoration:underline;">Jetzt neu:</strong> Mit unserer App <a target="_blank" href="https://www.amazon.de/freenet-de-GmbH-freenet-Cloud-Foto-Viewer/dp/B0752BC2TL/ref=sr_1_1?ie=UTF8&qid=1504592923&sr=8-1&keywords=freenet+Cloud+foto-Viewer">Foto-Viewer für den Amazon Fire TV</a> können Sie Ihre Fotos aus der freenet Cloud auch ganz bequem von Ihrem Sofa aus auf dem Fernseher ansehen. Sie benötigen keine lästigen USB-Sticks oder Verbindungskabel mehr.</p>
+</div>
+</div>
+</div>
+</div> <div id="frnIVW"><!-- IVW/SZM VERSION="2.0" -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var iam_data = {
+"mg":"yes",
+"st":"freenet",
+"cp":"stat/freenet/mail/landingpages",
+"oc":"26171230",
+"sv":"ke"
+};
+if(typeof szmMobile !== "undefined" && szmMobile === true){iam_data.st = "mobfreen";}
+iom.c(iam_data);
+/* ]]> */</script>
+<!--/IVW/SZM -->
+<script type="text/javascript">
+/* <![CDATA[ */var evCnt=["26171230","freenet/email","/domain/index/index.html","p","stat/freenet/mail/landingpages"];
+if (typeof(frn_Ivw) == "object" ) { frn_Ivw.setKeyVal('fCnt',false) };
+/* ]]> */</script>
+</div><div id="frnBanner">
+<div id="frnBannerAd">
+<div id="fnbanner"><!-- PH Banner  -->
+</div>
+</div>
+</div>
+<!-- PH Sky -->
+</div>
+<!-- PH SWF -->
+<!-- PH Popunder -->
+<!-- PH ad99 -->
+<!-- Wed Dec 13 00:57:39 CET 2017, host: 'cm7-cae01.core.freenet-rz.de', app: '1', rev: 'Revision Id: 5e1db8f976d2b9f23db3c72c4f00f4d33cedb8cc : 28.11.2017 13:32' --></body>
+</html>

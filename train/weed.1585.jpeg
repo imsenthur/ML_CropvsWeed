@@ -1,0 +1,366 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<!--##START##-->
+<head id="head"><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" /><title>Crop Science Danmark</title><link rel="stylesheet" type="text/css" href="/Styles/Bayer CropScience/Internet/standard.css" />
+      <link type="text/css" rel="stylesheet" href="/Styles/Bayer CropScience/Internet/rd.css">
+    <link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script src="/Scripts/Bayer CropScience/Internet/modernizr.custom.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/Bayer CropScience/Internet/standard.js"></script>
+    <script type="text/javascript" src="/services/DictionaryScript.ashx?l=da-DK"></script><link rel="stylesheet" type="text/css" href="/Styles/Bayer CropScience/Scope/Scandinavia/scandinavia.css" /><title>
+
+</title></head>
+  <body id="" class="grey" lang="da">
+		<form method="post" action="/" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjYxNjEwMDU0D2QWBAIFEGRkFgYCDw9kFgICAQ9kFgJmDw8WAh4HVmlzaWJsZWhkFgJmD2QWBgIHDxQrAAJkZGQCCQ8UKwACZGRkAgsPFCsAAmRkZAIVD2QWAgIBD2QWAmYPZBYEAgEPZBYEZg9kFgJmD2QWBAIDDxYCHgtfIUl0ZW1Db3VudAIUFigCAQ9kFgICAQ8WAh4FY2xhc3MFCHNlbGVjdGVkFgICAQ8WAh4EVGV4dAUBMWQCAg9kFgICAQ9kFgICAQ8WAh8DBQEyZAIDD2QWAgIBD2QWAgIBDxYCHwMFATNkAgQPZBYCAgEPZBYCAgEPFgIfAwUBNGQCBQ9kFgICAQ9kFgICAQ8WAh8DBQE1ZAIGD2QWAgIBD2QWAgIBDxYCHwMFATZkAgcPZBYCAgEPZBYCAgEPFgIfAwUBN2QCCA9kFgICAQ9kFgICAQ8WAh8DBQE4ZAIJD2QWAgIBD2QWAgIBDxYCHwMFATlkAgoPZBYCAgEPZBYCAgEPFgIfAwUCMTBkAgsPZBYCAgEPZBYCAgEPFgIfAwUCMTFkAgwPZBYCAgEPZBYCAgEPFgIfAwUCMTJkAg0PZBYCAgEPZBYCAgEPFgIfAwUCMTNkAg4PZBYCAgEPZBYCAgEPFgIfAwUCMTRkAg8PZBYCAgEPZBYCAgEPFgIfAwUCMTVkAhAPZBYCAgEPZBYCAgEPFgIfAwUCMTZkAhEPZBYCAgEPZBYCAgEPFgIfAwUCMTdkAhIPZBYCAgEPZBYCAgEPFgIfAwUCMThkAhMPZBYCAgEPZBYCAgEPFgIfAwUCMTlkAhQPZBYCAgEPZBYCAgEPFgIfAwUCMjBkAgcPFgIfAQIUFipmD2QWAgICDxYCHwMFAjIwZAIBD2QWAgIBDxYCHwMFATBkAgIPZBYCAgEPFgIfAwUBMWQCAw9kFgICAQ8WAh8DBQEyZAIED2QWAgIBDxYCHwMFATNkAgUPZBYCAgEPFgIfAwUBNGQCBg9kFgICAQ8WAh8DBQE1ZAIHD2QWAgIBDxYCHwMFATZkAggPZBYCAgEPFgIfAwUBN2QCCQ9kFgICAQ8WAh8DBQE4ZAIKD2QWAgIBDxYCHwMFATlkAgsPZBYCAgEPFgIfAwUCMTBkAgwPZBYCAgEPFgIfAwUCMTFkAg0PZBYCAgEPFgIfAwUCMTJkAg4PZBYCAgEPFgIfAwUCMTNkAg8PZBYCAgEPFgIfAwUCMTRkAhAPZBYCAgEPFgIfAwUCMTVkAhEPZBYCAgEPFgIfAwUCMTZkAhIPZBYCAgEPFgIfAwUCMTdkAhMPZBYCAgEPFgIfAwUCMThkAhQPZBYCAgEPFgIfAwUCMTlkAgEPZBYCZg9kFgICAw8WAh8BAgUWCmYPZBYIAgEPDxYCHgtOYXZpZ2F0ZVVybAUwL1Jlc291cmNlcy9OZXdzLzIwMTcvUHJvcHVsc2UtZWZ0ZXJhYXItMjAxNy5hc3B4ZGQCBQ8PFgQfAwU5RGV0IG55ZSB2w6ViZW4gdGlsIGJlc2t5dHRlbHNlIGFmIGZhbmVibGFkZXQgbW9kIHNlcHRvcmlhHwQFMC9SZXNvdXJjZXMvTmV3cy8yMDE3L1Byb3B1bHNlLWVmdGVyYWFyLTIwMTcuYXNweGRkAgcPFgIfAwWOAVByb3B1bHNlIGVyIGRldCBueWUgU0RISS1taWRkZWwgbW9kIHNlcHRvcmlhIGkgdmludGVyaHZlZGUsIG9nIGRldCBzaWtyZXN0ZSB2YWxnIHRpbCBiZXNreXR0ZWxzZSBhZg0KZmFuZWJsYWRldCBtZWQgZW4gYmVoYW5kbGluZyBpIHN0LiAzNy0zOS5kAgkPDxYEHwQFMC9SZXNvdXJjZXMvTmV3cy8yMDE3L1Byb3B1bHNlLWVmdGVyYWFyLTIwMTcuYXNweB8DBQfCuyBtZXJlZGQCAg9kFggCAQ8PFgIfBAVHL1Jlc291cmNlcy9OZXdzLzIwMTcvSHVzc2FyLVBsdXMtZ3JhZXN1a3J1ZHQtdmFhcmJ5Zy1lZnRlcmFhci0yMDE3LmFzcHhkZAIFDw8WBB8DBSpHcsOmc3VrcnVkdCBza2FsIG9nc8OlIGJla8OmbXBlcyBpIHbDpXJieWcfBAVHL1Jlc291cmNlcy9OZXdzLzIwMTcvSHVzc2FyLVBsdXMtZ3JhZXN1a3J1ZHQtdmFhcmJ5Zy1lZnRlcmFhci0yMDE3LmFzcHhkZAIHDxYCHwMFaUh1c3NhciBQbHVzIE9EIGVyIGRldCBlbmVzdGUgdWtydWR0c21pZGRlbCwgZGVyIGJla8OmbXBlciBiw6VkZSBncsOmc3NlciBvZyB0b2tpbWJsYWRldCB1a3J1ZHQgaSB2w6VyYnlnLmQCCQ8PFgQfBAVHL1Jlc291cmNlcy9OZXdzLzIwMTcvSHVzc2FyLVBsdXMtZ3JhZXN1a3J1ZHQtdmFhcmJ5Zy1lZnRlcmFhci0yMDE3LmFzcHgfAwUHwrsgbWVyZWRkAgQPZBYIAgEPDxYCHwQFIy9SZXNvdXJjZXMvTmV3cy8yMDE3L1dlZWRzY291dC5hc3B4ZGQCBQ8PFgQfAwUiV0VFRFNDT1VUIC0gbnl0IGRpZ2l0YWx0IHbDpnJrdMO4ah8EBSMvUmVzb3VyY2VzL05ld3MvMjAxNy9XZWVkc2NvdXQuYXNweGRkAgcPFgIfAwWLAkkgQmF5ZXIgYXJiZWpkZXIgdmkgbWVkIGJlZ3JlYmV0IOKAnURpZ2l0YWwgRmFybWluZ+KAnSwgc29tIGVyIGRpZ2l0YWxlIG1hcmt2w6Zya3TDuGplciwgZHUgc29tIGxhbmRtYW5kIGthbiBicnVnZSBpIGRpbiBtYXJrLiBWaSBlciBudSBrbGFyIG1lZCBldCBwcm9qZWt0IGthbGRldCBXRUVEU0NPVVQuIFdFRURTQ09VVCBlciBlbiBhcHAsIGRlciBrYW4gaGrDpmxwZSBtZWQgYXQgaWRlbnRpZmljZXJlIG5vZ2xlIGFmIGRlIGJyZWRibGFkZWRlIHVrcnVkdGFydGVyLmQCCQ8PFgQfBAUjL1Jlc291cmNlcy9OZXdzLzIwMTcvV2VlZHNjb3V0LmFzcHgfAwUHwrsgbWVyZWRkAgYPZBYIAgEPDxYCHwQFJi9SZXNvdXJjZXMvTmV3cy8yMDE3L0dvZHQtYmVneW5kdC5hc3B4ZGQCBQ8PFgQfAwU1TcOlbHJldHRldCB1a3J1ZHRzYmVrw6ZtcGVsc2UgLSBzw6UgZXIgZHUgZ29kdCBpIGdhbmcfBAUmL1Jlc291cmNlcy9OZXdzLzIwMTcvR29kdC1iZWd5bmR0LmFzcHhkZAIHDxYCHwMFO0luZHNhdHNlbiBtb2QgdWtydWR0IG9tIGVmdGVyw6VyZXQgc2thbCBtw6VscmV0dGVzIGJlaG92ZXQuZAIJDw8WBB8EBSYvUmVzb3VyY2VzL05ld3MvMjAxNy9Hb2R0LWJlZ3luZHQuYXNweB8DBQfCuyBtZXJlZGQCCA9kFggCAQ8PFgIfBAUpL1Jlc291cmNlcy9OZXdzLzIwMTcvUG9ycHVsc2UtaS1tYWpzLmFzcHhkZAIFDw8WBB8DBSZIb2xkIG1hanNlbiBmcmlzayBvZyBzdW5kIG1lZCBQcm9wdWxzZR8EBSkvUmVzb3VyY2VzL05ld3MvMjAxNy9Qb3JwdWxzZS1pLW1hanMuYXNweGRkAgcPFgIfAwWdAkF0IGjDuHN0ZSBmcmlza2Ugc3VuZGUgbWFqc3BsYW50ZXIgZXIgdml0YWwgZm9yIGF0IGhvbGRlIGVuIGjDuGogZm9kZXJrdmFsaXRldCBzb20gc2lrcmVyIGVuIGdvZCDDpmRlbHlzdCBob3Mga8O4ZXJuZS4gRXQgZHlrIGkgw6ZkZWx5c3QgYmV0eWRlciBldCBkeWsgaSBtw6Zsa2V5ZGVsc2UuIERldCBueWUgc3ZhbXBlbWlkZGVsLCBQcm9wdWxzZSBtZWR2aXJrZXIgdGlsIGF0IGhvbGRlIG1hanNwbGFudGVybmUgZ3LDuG5uZSBvZyBzdW5kZSBvZyBzaWtyZXIgZW4gaMO4aiBmb2Rlcmt2YWxpdGV0LmQCCQ8PFgQfBAUpL1Jlc291cmNlcy9OZXdzLzIwMTcvUG9ycHVsc2UtaS1tYWpzLmFzcHgfAwUHwrsgbWVyZWRkAgMPZBYCZg9kFgJmD2QWAmYPFgIfAQIFFgoCAQ9kFgQCAQ8PFgQfAwUJQWZncsO4ZGVyHwQFDy9BZmdyb2VkZXIuYXNweGRkAgMPFgIfAwXEAUhvcyBCYXllciBhcmJlamRlciB2aSBoZWxlIHRpZGVuIHAmYXJpbmc7IGF0IHVkdmlrbGUgbnllIG1pZGxlciwgZGVyIGJlc2t5dHRlciBwbGFudGVyIG1vZCBzeWdkb21tZSwgc2thZGVkeXIgb2cgdWtydWR0LiBMJmFlbGlnO3MgbWVyZSBvbSBhZmdyJm9zbGFzaDtkZXJuZSBoZXJ1bmRlciBlbGxlciBzZSBpIG1lbnVlbiB0aWwgdmVuc3RyZS5kAgIPZBYEAgEPDxYEHwMFCVByb2R1a3Rlch8EBQ8vUHJvZHVrdGVyLmFzcHhkZAIDDxYCHwMFL0R1IGtlbmRlciBkaW5lIGFmZ3LDuGRlcg0KLSB2aSBoYXIgbMO4c25pbmdlcm5lZAIDD2QWBAIBDw8WBB8DBQ1CYXllciBBZ3JvIFRWHwQFJy9CYXllci1BZ3JvLVNlcnZpY2VzL0JheWVyLUFncm8tVFYuYXNweGRkAgMPFgIfAwUZRmplcm5zeW4gZm9yIHBsYW50ZWF2bGVyZWQCBA9kFgQCAQ8PFgQfAwUTQmF5ZXIgQWdybyBTZXJ2aWNlcx8EBRkvQmF5ZXItQWdyby1TZXJ2aWNlcy5hc3B4ZGQCAw8WAh8DBfcBRm9yIGF0IHNrYWJlIGV0IHN0w7hycmUgb3ZlcmJsaWsgb3ZlciBkZSBzZXJ2aWNlcyB2aSB0aWxieWRlciwgaGFyIHZpIGkgQmF5ZXIgdmFsZ3QgYXQgbMOmZ2dlIGRlbSB1bmRlciDDqXQgbmF2biBuZW1saWcgQmF5ZXIgQWdybyBTZXJ2aWNlcy4NCkkgdGVrc3RlbiBoZXJ1bmRlciBmaW5kZXIgZHUgZWtzcGVtcGxlciBww6UgdHJlIGFmIHZvcmVzIHNlcnZpY2VzIC0gZGUgYW5kcmUgZmluZGVzIGkgbWVudWVuIHRpbCB2ZW5zdHJlLmQCBQ9kFgQCAQ8PFgQfAwUOQsOmcmVkeWd0aWdoZWQfBAUUL0JhZXJlZHlndGlnaGVkLmFzcHhkZAIDDxYCHwMFowJCYXllcidzIHZpcmtzb21oZWQgZXIgcmVndWxlcmV0IGFmIGRlIGxvdmUgb2cgcmVnbGVyLCBzb20gZyZhZWxpZztsZGVyIGkgRGFubWFyaywgbWVuIHZvcmVzIGFtYml0aW9uZXIgZm9yIG1pbGomb3NsYXNoO2V0IHImYWVsaWc7a2tlciBtZWdldCBsJmFlbGlnO25nZXJlLiBEZXJmb3IgdmlsIHZpIGdlcm5lIGZvcnQmYWVsaWc7bGxlIGxpZHQgb20gZGUgcHJvamVrdGVyLCB2aSBhcmJlamRlciBwJmFyaW5nOy4gQmxpdiBpbnNwaXJlcmV0IGhlcnVuZGVyIG9nIHNlIG1lcmUgaSBtZW51ZW4gdGlsIHZlbnN0cmVkAhkPZBYCAgUPZBYCAgEPZBYCZg9kFgJmDxQrAAIPFgQeC18hRGF0YUJvdW5kZx8BZmRkZAIHD2QWAmYPZBYCZg8WAh8AZxYMAgEPFgIfAwUULmJheWVyY3JvcHNjaWVuY2UuZGtkAgMPFgIfAwUQaHR0cHM6Ly9sb2dzMTI0MmQCBQ8WAh8DBQY1MTgzNTBkAgcPFgIfAwUBMWQCCQ8WAh8DBQdGb3JzaWRlZAILDxYCHgNzcmMFRmh0dHBzOi8vbG9nczEyNDIueGl0aS5jb20vaGl0LnhpdGk/cz01MTgzNTAmczI9MSZwPUZvcnNpZGUmZGk9JmFuPSZhYz1kGAQFFXBocmlnaHRfMSR0ZWFzZXJzTGlzdA88KwAOAwhmDGYNAv////8PZAUSY3RsMjEkbHZCcmFuZExpbmtzD2dkBQ5jdGwyMSRsdkJyYW5kcw9nZAUYY3RsMjEkbHZDYXRlZ29yaWVPcHRpb25zD2dkXgSiVXgS/5MzedBY223oLu0Q1gw=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="38716118" />
+</div>
+    <div id="header">
+        <!-- googleoff: index -->
+        <img src="/~/media/Bayer CropScience/Scandinavia/Images/Naming area/namingarea-danmark.ashx" alt="Crop Science Danmark" width="750" height="85" />
+        <a id="logo" href="http://www.bayer.com" title="Bayer Group"><img src="~/media/Bayer CropScience/common/logo.ashx" alt="Bayer CropScience" title="Bayer CropScience" /></a>
+        <ul class="hor nav" id="support"><li><a class="frst " href="/Kontakt.aspx">Kontakt</a></li><li><a href="/Om-Os.aspx">Om Os</a></li><li><a href="/Sitemap.aspx">Sitemap</a></li><li></li><li><a href="http://www.bayer.com" class="bgroup">» Bayer Group</a></li></ul>
+        <!-- googleon: index -->
+    </div>
+    <div class="mobilenav">
+        <!-- googleoff: index -->
+        <ul class="nobulls"><li><a class="mnav" href="#nav">Menu</a></li><li><a class="msearch" href="#search">Søg</a></li></ul>
+        <!-- googleon: index -->
+    </div>
+    <div id="navi">
+        <!-- googleoff: index -->
+      <ul id="nav" class="sf-menu  home"><li class="n1"><a href="/">Forside</a></li><li class="n2"><a href="/Afgroeder.aspx" class="sf-with-ul">Afgrøder</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Afgroeder.aspx">Overblik</a></li><li class=""><a href="/Afgroeder/Frugt-og-baer.aspx">Frugt og bær</a></li><li class=""><a href="/Afgroeder/Graes.aspx">Græs og græsfrø</a></li><li class=""><a href="/Afgroeder/Groentsager.aspx">Grøntsager</a></li><li class=""><a href="/Afgroeder/Kartofler.aspx">Kartofler</a></li><li class=""><a href="/Afgroeder/Korn.aspx">Korn</a></li><li class=""><a href="/Afgroeder/Majs.aspx">Majs</a></li><li class=""><a href="/Afgroeder/Prydplanter.aspx">Prydplanter</a></li><li class=""><a href="/Afgroeder/Raps.aspx">Raps</a></li><li class=""><a href="/Afgroeder/Roer.aspx">Roer</a></li></ul></li><li class="n3"><a href="/Produkter.aspx" class="sf-with-ul">Produkter</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Produkter.aspx">Overblik</a></li><li class=""><a href="/Produkter/Aliette-WG.aspx">Aliette </a></li><li class=""><a href="/Produkter/Atlantis-OD.aspx">Atlantis OD</a></li><li class=""><a href="/Produkter/Betanal.aspx">Betanal</a></li><li class=""><a href="/Produkter/Betanal-Power.aspx">Betanal Power</a></li><li class=""><a href="/Produkter/Biscaya.aspx">Biscaya</a></li><li class=""><a href="/Produkter/Buctril.aspx">Buctril</a></li><li class=""><a href="/Produkter/Cerone.aspx">Cerone</a></li><li class=""><a href="/Produkter/Confidor.aspx">Confidor</a></li><li class=""><a href="/Produkter/Consento.aspx">Consento</a></li><li class=""><a href="/Produkter/Contans.aspx">Contans WG</a></li><li class=""><a href="/Produkter/Cossack.aspx">Cossack</a></li><li class=""><a href="/Produkter/DFF.aspx">DFF</a></li><li class=""><a href="/Produkter/Input.aspx">Input</a></li><li class=""><a href="/Produkter/Fenix.aspx">Fenix</a></li><li class=""><a href="/Produkter/Flocter.aspx">Flocter</a></li><li class=""><a href="/Produkter/Folicur.aspx">Folicur</a></li><li class=""><a href="/Produkter/FolicurXpert.aspx">Folicur Xpert</a></li><li class=""><a href="/Produkter/Gaucho.aspx">Gaucho</a></li><li class=""><a href="/Produkter/Hussar-OD.aspx">Hussar </a></li><li class=""><a href="/Produkter/Hussar-Plus-OD.aspx">Hussar Plus OD</a></li><li class=""><a href="/Produkter/Kemifam-Power.aspx">Kemifam Power</a></li><li class=""><a href="/Produkter/MaisTer.aspx">MaisTer</a></li><li class=""><a href="/Produkter/Mero.aspx">Mero</a></li><li class=""><a href="/Produkter/MoncerenDS.aspx">Monceren DS 12,5</a></li><li class=""><a href="/Produkter/MoncerenFS.aspx">Monceren FS 250</a></li><li class=""><a href="/Produkter/Movento.aspx">Movento</a></li><li class=""><a href="/Produkter/Nortron.aspx">Nortron </a></li><li class=""><a href="/Produkter/Othello.aspx">Othello</a></li><li class=""><a href="/Produkter/Prestige.aspx">Prestige</a></li><li class=""><a href="/Produkter/Previcur-Energy.aspx">Previcur Energy</a></li><li class=""><a href="/Produkter/Primera-Super.aspx">Primera Super</a></li><li class=""><a href="/Produkter/Proline.aspx">Proline</a></li><li class=""><a href="/Produkter/ProlineXpert.aspx">Proline Xpert</a></li><li class=""><a href="/Produkter/Propulse.aspx">Propulse</a></li><li class=""><a href="/Produkter/Prosaro.aspx">Prosaro</a></li><li class=""><a href="/Produkter/Redigo-Pro.aspx">Redigo Pro</a></li><li class=""><a href="/Produkter/Serenade.aspx">Serenade ASO</a></li><li class=""><a href="/Produkter/Teldor-WG-50.aspx">Teldor </a></li></ul></li><li class="n4"><a href="/Bayer-Agro-Services.aspx" class="sf-with-ul">Bayer Agro Services</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Bayer-Agro-Services.aspx">Overblik</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Mobil.aspx">Bayer Agro APP</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Klub.aspx">Bayer Agro Klub</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools.aspx" class="sf-with-ul">Bayer Agro Værktøj</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt.aspx" class="sf-with-ul">Bredbladet ukrudt</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Agermynte.aspx">Agermynte</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Agersennep.aspx">Agersennep</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Agerstedmoder.aspx">Agerstedmoder</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Agersvinemaalk.aspx">Agersvinemælk</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Agertidsel.aspx">Agertidsel</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Alm-Brandbaeger.aspx">Alm. brandbæger</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Alm-Pengeurt.aspx">Alm. pengeurt</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Alm-Spergel.aspx">Alm. spergel</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Blegpileurt.aspx">Blegpileurt</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Burresnerre.aspx">Burresnerre</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Bynke-graa.aspx">Bynke, grå</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Ferskenpileurt.aspx">Ferskenpileurt</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Foelfod.aspx">Følfod</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Forglemmigej.aspx">Forglemmigej</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Fuglegraes.aspx">Fuglegræs</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Gul-Okseoeje.aspx">Gul okseøje</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Haremad.aspx">Haremad</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Hejrenaeb.aspx">Hejrenæb</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Hundepersille.aspx">Hundepersille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Hvidmelet-gaasefod.aspx">Hvidmelet gåsefod</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Hyrdetaske.aspx">Hyrdetaske</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Korn-Valmue.aspx">Korn valmue</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Laege-Jordroeg.aspx">Læge jordrøg</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Liden-naelde.aspx">Liden nælde</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Lugtloes-kamille.aspx">Lugtløs kamille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Pragtstjerne-aften-dag.aspx">Pragtstjerne, aften-, dag-</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Roed-arve.aspx">Rød arve</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Roed-tvetand.aspx">Rød tvetand</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Skivekamille.aspx">Skivekamille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Snerlepileurt.aspx">Snerlepileurt</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Sort-Natskygge.aspx">Sort natskygge</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Spildraps.aspx">Spildraps</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Storkenaeb.aspx">Storkenæb</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Storkronet-aerenpris.aspx">Storkronet ærenpris</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Svinemaelde.aspx">Svinemælde</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Vedbend-aerenpris.aspx">Vedbend ærenpris</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Bredbladet-ukrudt/Vejpileurt.aspx">Vejpileurt</a></li></ul></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt.aspx" class="sf-with-ul">Græsukrudt</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Agerhejre.aspx">Agerhejre</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Agerraevehale.aspx">Agerraevehale</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Alm-kvik.aspx">Alm kvik</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Alm-rajgraes.aspx">Alm rajgraes</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Alm-rapgraes.aspx">Alm rapgraes</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Blod-hejre.aspx">Blod hejre</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Draphavre.aspx">Draphavre</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Enarig-rapgraes.aspx">Enarig rapgræs</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Eng-rapgraes.aspx">Eng rapgræs</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Eng-raevehale.aspx">Eng rævehale</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Engsvingel.aspx">Engsvingel</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Flyvehavre.aspx">Flyvehavre</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Floejlsgraes.aspx">Fløjlsgræs</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Gold-hejre.aspx">Gold hejre</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Hundegraes.aspx">Hundegræs</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Ital-rajgraes.aspx">Ital. rajgræs</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Kamgraes.aspx">Kamgræs</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Krypende-hvene.aspx">Krypende hvene</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Mosebunke.aspx">Mosebunke</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Roedsvingel.aspx">Rødsvingel</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Stortoppet-hvene.aspx">Stortoppet hvene</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Timothe.aspx">Timothe</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Vindaks.aspx">Vindaks</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Graesukrudt/Vaaselhale.aspx">Væselhale</a></li></ul></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr.aspx" class="sf-with-ul">Nyttedyr</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Edderkopper.aspx">Edderkopper</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Galmyg.aspx">Galmyg</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Guldoejer.aspx">Guldøjer</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Loebebiller.aspx">Løbebiller</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Mariehoens.aspx">Mariehøns</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Rovbiller.aspx">Rovbiller</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Rovtaeger.aspx">Rovtæger</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Snyltehveps.aspx">Snyltehveps</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Svirrefluer.aspx">Svirrefluer</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Nyttedyr/Aegte-snyltehveps.aspx">Ægte snyltehveps</a></li></ul></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr.aspx" class="sf-with-ul">Skadedyr</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Agersnegl.aspx">Agersnegl</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Agerugle.aspx">Agerugle</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Bedebladlus.aspx">Bedebladlus</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Bedeflue.aspx">Bedeflue</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Bladrandbille.aspx">Bladrandbille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Brakflue.aspx">Brakflue</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Coloradobille.aspx">Coloradobille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Ferskenbladlus.aspx">Ferskenbladlus</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Fritflue.aspx">Fritflue</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Glimmerboesser.aspx">Glimmerbøsser</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/hvedegalmyg.aspx">Hvedegalmyg</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Haarmyg.aspx">Hårmyg</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Jordloeber.aspx">Jordløber</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Kartoffelbladlus.aspx">Kartoffelbladlus</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Kornbladlus.aspx">Kornbladlus</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Kornsmaeldere.aspx">Kornsmældere</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Kornsnudebille.aspx">Kornsnudebille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Korntrips.aspx">Korntrips</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Rapsjordloppe.aspx">Rapsjordloppe</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Runkelroebille.aspx">Runkelroebille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Saddelgalmyg.aspx">Saddelgalmyg</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Skulpegalmyg.aspx">Skulpegalmyg</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Skulpesnudebille.aspx">Skulpesnudebille</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Skyggevikler.aspx">Skyggevikler</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Stankelben.aspx">Stankelben</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Aertebladlus.aspx">Ærtebladlus</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Aertevikler.aspx">Ærtevikler</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Skadedyr/Aadselbille.aspx">Ådselbille</a></li></ul></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme.aspx" class="sf-with-ul">Sygdomme</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Bedemeldug.aspx">Bedemeldug</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Bederust.aspx">Bederust</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Brunrust.aspx">Brunrust</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Bygbladplet.aspx">Bygbladplet</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Bygrust.aspx">Bygrust</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Bygstribesyge.aspx">Bygstribesyge</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Cercospora.aspx">Cercospora</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Fusarium.aspx">Fusarium</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Graaskimmel-i-aerter.aspx">Gråskimmel i ærter</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Graaskimmel-i-raps.aspx">Gråskimmel i raps</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Gulrust.aspx">Gulrust</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Hvedebladplet.aspx">Hvedebladplet</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Hvedebrunplet.aspx">Hvedebrunplet</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Hvedegraaplet.aspx">Hvedegråplet</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Hvedestinkbrand.aspx">Hvedestinkbrand</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Kartoffelbladplet.aspx">Kartoffelbladplet</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Kartoffelskimmel.aspx">Kartoffelskimmel</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Knaeckefodsyge.aspx">Knæckefodsyge</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Kaalbrok.aspx">Kålbrok</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Lys_bladplet.aspx">Lys bladplet</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Meldug-i-aerter.aspx">Meldug i ærter</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Noegen-bygbrand.aspx">Nøgen bygbrand</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Ramularia-i-byg.aspx">Ramularia på byg</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Ramularia-i-roer.aspx">Ramularia i roer</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Raps-skulpesvamp.aspx">Raps skulpesvamp</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Rodfiltsvamp.aspx">Rodfiltsvamp</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Rodhals_Phoma.aspx">Rodhalsråd (Phoma)</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Skoldplet.aspx">Skoldplet</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Sneskimmel.aspx">Sneskimmel</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Sortskimmel.aspx">Sortskimmel</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Storknoldet-knoldbaegersvamp.aspx">Storknoldet knoldbægersvamp</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Staengelbrand.aspx">Stængelbrand</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Traadkoelle.aspx">Trådkølle</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Virusgulsot.aspx">Virusgulsot</a></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Sygdomme/Aertesyge.aspx">Ærtesyge</a></li></ul></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-Tools/Vaekststadier.aspx">Vækststadier</a></li></ul></li><li class=""><a href="/Bayer-Agro-Services/Bayer-Agro-TV.aspx">Bayer Agro TV</a></li><li class=""><a href="/Bayer-Agro-Services/Brochurer-og-magasiner.aspx" class="sf-with-ul">Brochurer og magasiner</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2017/InVigor_WEB.ashx">InVigor</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2017/Flocter_folder_2017.ashx">Flocter 2017</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2016/Buctril_udsendelse.ashx">Buctril</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2016/Serenade_Jordbaer_2016.ashx">Serenade i jordbær 2016</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2016/Serenade_Guleroedder_2016.ashx">Serenade i gulerødder 2016</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2016/Kartoffel_loesblad_2016.ashx">Kartoffel løsblad 2016</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2015/ProlineXpert_loesblad_2015 (2).ashx">Proline Xpert løsblad 2015</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2015/Maister_loesblad_2015_4_WEB.ashx">MaisTer 2015</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2015/Herbicid_loesblad_2015_final.ashx">Ukrudts løsblad 2015</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2015/Svampe_loesblad_2015_final.ashx">Svampe løsblad 2015</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2015/Svampe i korn_3_PWEB.ashx">Svampe i korn 2015</a></li><li class=""><a href="/~/media/Bayer CropScience/Scandinavia/Denmark/Filer/Broschyrer/2015/Ukrudtsbrochure_6_WEB.ashx">Vælg den rigtige løsning på dit ukrudtsproblem 2015</a></li></ul></li><li class=""><a href="/Bayer-Agro-Services/Crop-Compendium.aspx">Crop Compendium</a></li><li class=""><a href="/Bayer-Agro-Services/Resistens-risikoberegneren.aspx">Resistens risikoberegneren</a></li><li class=""><a href="/Bayer-Agro-Services/Septoria-Timer.aspx">Septoria Timer</a></li><li class=""><a href="/Bayer-Agro-Services/Undervisning.aspx">Undervisning</a></li></ul></li><li class="n5"><a href="/Baeredygtighed.aspx" class="sf-with-ul">Bæredygtighed</a><ul style="visibility:hidden;display:none;" class="sub"><li class=""><a href="/Baeredygtighed.aspx">Overblik</a></li><li class=""><a href="/Baeredygtighed/BayerBeeCare.aspx">Bayer Bee Care</a></li><li class=""><a href="/Baeredygtighed/Dennyegroenerevolution.aspx">Den nye grønne revolution</a></li><li class=""><a href="/Baeredygtighed/Madtilmilliarder.aspx">Mad til milliarder</a></li><li class=""><a href="/Baeredygtighed/Undgaa-spild.aspx">Undgå spild</a></li><li class=""><a href="/Baeredygtighed/Biobed-og-vaskeplads.aspx">Biobed og vaskeplads</a></li></ul></li><li class="n6"><a href="/Nyheder.aspx">Nyheder</a></li></ul>
+<div id="navbttm"></div>
+        <!-- googleon: index -->
+	    <div id="keyvisual"><img src="/~/media/Bayer CropScience/Scandinavia/Images/Keyvisual-996x189/_MG_3642.ashx" alt="" width="996" height="189" /></div>
+	</div>
+    
+    <div id="meta">
+        <!-- googleoff: index -->
+        
+        <ul class="sitelocator nav"><li><strong>Bayer Links</strong><ul><li><a href="http://www.bayer.com/" target="_blank">Bayer Global</a></li></ul><ul><li><a href="http://www.bayer.dk" target="_blank">Bayer Norden</a></li></ul><ul><li><a href="http://www.cropscience.bayer.se" target="_blank">Crop Science Sverige</a></li></ul><ul><li><a href="http://www.cropscience.bayer.no/" target="_blank">Crop Science Norge</a></li></ul><ul><li><a href="http://www.cropscience.bayer.fi" target="_blank">Crop Science Finland</a></li></ul></li></ul><ul class="sitelocator nav"><li><strong></strong><ul><li><a href="/Legal-Advice/General-Conditions-of-Use.aspx">Generelle brugerbetingelser</a></li></ul><ul><li><a href="/Legal-Advice/Privacy-Statement.aspx">Databeskyttelse</a></li></ul><ul><li><a href="/Legal-Advice/Imprint.aspx">Imprint</a></li></ul></li></ul>
+        <!-- googleon: index -->
+        
+    </div>
+    <div id="precontent">
+   	    
+        
+    </div>
+    <div id="content">
+<!--##CONTENT1##-->
+        <!--<div id="maincontent">
+        </div>-->
+            
+<div class="cols400_180">
+  <div class="col frst alternate">
+  
+		
+
+<div class="shdw video23">
+    <div class="box">
+        <h4>Aktuelle videoer</h4>
+        <ul class="pager btns nav">
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_0" class="selected"><a href="#"><span>1</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_1"><a href="#"><span>2</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_2"><a href="#"><span>3</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_3"><a href="#"><span>4</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_4"><a href="#"><span>5</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_5"><a href="#"><span>6</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_6"><a href="#"><span>7</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_7"><a href="#"><span>8</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_8"><a href="#"><span>9</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_9"><a href="#"><span>10</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_10"><a href="#"><span>11</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_11"><a href="#"><span>12</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_12"><a href="#"><span>13</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_13"><a href="#"><span>14</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_14"><a href="#"><span>15</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_15"><a href="#"><span>16</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_16"><a href="#"><span>17</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_17"><a href="#"><span>18</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_18"><a href="#"><span>19</span></a></li>
+		    
+			     <li id="phcontent_1_phleftcontent_0_rptPaging_pageHolder_19"><a href="#"><span>20</span></a></li>
+		    </ul>
+        <div class="clear"></div>
+        <div class="contents">
+            
+                <div class="element video" id="cntnt23Videos">
+        	        <iframe src="http://bayer.23video.com/v.ihtml?token=3a8007b68af5b4c22ef290b32978fb45&photo%5fid=18932454" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe>
+                    <p></p>
+                </div>
+            
+	        <script type='text/javascript'>var contents_cntnt23Videos = new Array(20);
+                    contents_cntnt23Videos[0] = '<iframe src="http://bayer.23video.com/v.ihtml?token=3a8007b68af5b4c22ef290b32978fb45&photo%5fid=18932454" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p></p>';
+		        
+                    contents_cntnt23Videos[1] = '<iframe src="http://bayer.23video.com/v.ihtml?token=5d2159e8e8a0ecaefe399391c3c63130&photo%5fid=19990528" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p></p>';
+		        
+                    contents_cntnt23Videos[2] = '<iframe src="http://bayer.23video.com/v.ihtml?token=42745a24b891b6b939f69bf5eb811f53&photo%5fid=19934290" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p></p>';
+		        
+                    contents_cntnt23Videos[3] = '<iframe src="http://bayer.23video.com/v.ihtml?token=207b6254f513e201751d907853abc3aa&photo%5fid=19631134" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Othello kan være en fornuftig løsning, hvis det er umuligt at komme tidligt ud med andre midler.</p>';
+		        
+                    contents_cntnt23Videos[4] = '<iframe src="http://bayer.23video.com/v.ihtml?token=3d164be88fee208b52d5fcb500ccd469&photo%5fid=19187714" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p></p>';
+		        
+                    contents_cntnt23Videos[5] = '<iframe src="http://bayer.23video.com/v.ihtml?token=dbcc6a0d3f9a36d768729658e2a37974&photo%5fid=18715910" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p></p>';
+		        
+                    contents_cntnt23Videos[6] = '<iframe src="http://bayer.23video.com/v.ihtml?token=bc592f22c1a4f08646960226dd4be4c7&photo%5fid=18187235" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Majsøjeplet og majsbladplet angriber afgrøden rundt om i landet.</p>';
+		        
+                    contents_cntnt23Videos[7] = '<iframe src="http://bayer.23video.com/v.ihtml?token=1c4ad86c35c1e6eee09968c55b1180d9&photo%5fid=18000918" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p></p>';
+		        
+                    contents_cntnt23Videos[8] = '<iframe src="http://bayer.23video.com/v.ihtml?token=23d31debb6bf38689d9cbecdbaf51821&photo%5fid=17760507" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Husk at se efter lus, før du behandler.</p>';
+		        
+                    contents_cntnt23Videos[9] = '<iframe src="http://bayer.23video.com/v.ihtml?token=f549745f77ac8665f00536728a075bbd&photo%5fid=17572729" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Behandl også vårbyg mod svampe og mod ramularia, hvis du har sygdommen.</p>';
+		        
+                    contents_cntnt23Videos[10] = '<iframe src="http://bayer.23video.com/v.ihtml?token=1b845751a3758fdd3f048454b5958d25&photo%5fid=17423593" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Det nye produkt "Propulse" er effektivt mod angreb af svampesygdomme.</p>';
+		        
+                    contents_cntnt23Videos[11] = '<iframe src="http://bayer.23video.com/v.ihtml?token=babb142b3ccc925cf12796b59943c194&photo%5fid=17153487" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Brug Propulse til fanebladssprøjtning i hvede. Propulse er også effektiv i raps netop nu.</p>';
+		        
+                    contents_cntnt23Videos[12] = '<iframe src="http://bayer.23video.com/v.ihtml?token=654892eb8c82b0d0e3e89c392a41c032&photo%5fid=16944518" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Bekæmp svampe i hvede og ukrudt i vårbyg.</p>';
+		        
+                    contents_cntnt23Videos[13] = '<iframe src="http://bayer.23video.com/v.ihtml?token=fff77e08de4666bd88a51fb9dc227f2e&photo%5fid=16947855" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Propulse er nu klar til brug i dine marker.</p>';
+		        
+                    contents_cntnt23Videos[14] = '<iframe src="http://bayer.23video.com/v.ihtml?token=be4d29b54e0eddd186a93862e60cd363&photo%5fid=16839917" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Bekæmp svampe i vinterbyg, vinterhvede samt skadedyr i raps.</p>';
+		        
+                    contents_cntnt23Videos[15] = '<iframe src="http://bayer.23video.com/v.ihtml?token=05b70ecc14d8726174d75b632b140805&photo%5fid=16622259" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Sæt også ind mod stort enårig rapgræs.</p>';
+		        
+                    contents_cntnt23Videos[16] = '<iframe src="http://bayer.23video.com/v.ihtml?token=1f9ec52fde0a24010fef3e6a36da572d&photo%5fid=16532311" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Det er tid til at sikre de nysåede marker med DFF og vækstregulere vintersæd.</p>';
+		        
+                    contents_cntnt23Videos[17] = '<iframe src="http://bayer.23video.com/v.ihtml?token=0b48bcc42170d22858f4ee0752e9bb0b&photo%5fid=16390827" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Samtidig er det en god ide at se godt efter, om man har angreb af lys bladplet i raps.</p>';
+		        
+                    contents_cntnt23Videos[18] = '<iframe src="http://bayer.23video.com/v.ihtml?token=43683332e6ae1d9a964886f8b37aa7f4&photo%5fid=16234547" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Der er vækst i ukrudtet. Væselhale er særligt sejlivet og kræver to behandlinger.</p>';
+		        
+                    contents_cntnt23Videos[19] = '<iframe src="http://bayer.23video.com/v.ihtml?token=708baf572670c65367866a8c31c67f6a&photo%5fid=15793920" width="384" height="216" frameborder="0" border="0" scrolling="no"></iframe><p>Lys bladplet overlever gennem flere generationer, så hvis du havde den sidste år, vil du med stor sandsynlighed få den igen i år.</p>';
+		        
+                    </script>
+                
+        </div>
+    </div>
+    <div class="shdwbttm">
+        <div class="shdwcrnr"></div>
+      </div>
+</div>
+<div class="spacer"></div>
+
+<div class="shdw">
+    <div class="box">
+        <h4>Nyheder</h4>
+        <div class="clear"></div>     
+        <div class="contents">
+            <div class="element">       
+                
+			            <div class="blck2">
+			                <div class="imgshdw"><a id="phcontent_1_phleftcontent_1_rptNewsList_ImageLink_0" href="/Resources/News/2017/Propulse-efteraar-2017.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Denmark/Nyheder/Dunk_Propulse_straight.ashx?bc=e6e6e6&amp;h=92&amp;w=138" alt="" width="138" height="92" /></a><div class="shdwbttm"><div class="shdwcrnr"></div></div></div>
+                            <div class="txtcol">
+                                <p class="topline">29.09.2017</p>
+                                <h2><a id="phcontent_1_phleftcontent_1_rptNewsList_NewsLink_0" href="/Resources/News/2017/Propulse-efteraar-2017.aspx">Det nye våben til beskyttelse af fanebladet mod septoria</a></h2>
+                                <p>Propulse er det nye SDHI-middel mod septoria i vinterhvede, og det sikreste valg til beskyttelse af
+fanebladet med en behandling i st. 37-39. <a id="phcontent_1_phleftcontent_1_rptNewsList_MoreLink_0" href="/Resources/News/2017/Propulse-efteraar-2017.aspx">» mere</a></p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+		            <div class="hr"></div>
+			            <div class="blck2">
+			                <div class="imgshdw"><a id="phcontent_1_phleftcontent_1_rptNewsList_ImageLink_1" href="/Resources/News/2017/Hussar-Plus-graesukrudt-vaarbyg-efteraar-2017.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Denmark/Nyheder/Hussar-Plus_web.ashx?bc=e6e6e6&amp;h=92&amp;w=138" alt="" width="138" height="92" /></a><div class="shdwbttm"><div class="shdwcrnr"></div></div></div>
+                            <div class="txtcol">
+                                <p class="topline">29.09.2017</p>
+                                <h2><a id="phcontent_1_phleftcontent_1_rptNewsList_NewsLink_1" href="/Resources/News/2017/Hussar-Plus-graesukrudt-vaarbyg-efteraar-2017.aspx">Græsukrudt skal også bekæmpes i vårbyg</a></h2>
+                                <p>Hussar Plus OD er det eneste ukrudtsmiddel, der bekæmper både græsser og tokimbladet ukrudt i vårbyg. <a id="phcontent_1_phleftcontent_1_rptNewsList_MoreLink_1" href="/Resources/News/2017/Hussar-Plus-graesukrudt-vaarbyg-efteraar-2017.aspx">» mere</a></p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+		            <div class="hr"></div>
+			            <div class="blck2">
+			                <div class="imgshdw"><a id="phcontent_1_phleftcontent_1_rptNewsList_ImageLink_2" href="/Resources/News/2017/Weedscout.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Denmark/Nyheder/B_1_weedscout_app.ashx?bc=e6e6e6&amp;h=92&amp;w=138" alt="" width="138" height="92" /></a><div class="shdwbttm"><div class="shdwcrnr"></div></div></div>
+                            <div class="txtcol">
+                                <p class="topline">12.09.2017</p>
+                                <h2><a id="phcontent_1_phleftcontent_1_rptNewsList_NewsLink_2" href="/Resources/News/2017/Weedscout.aspx">WEEDSCOUT - nyt digitalt værktøj</a></h2>
+                                <p>I Bayer arbejder vi med begrebet ”Digital Farming”, som er digitale markværktøjer, du som landmand kan bruge i din mark. Vi er nu klar med et projekt kaldet WEEDSCOUT. WEEDSCOUT er en app, der kan hjælpe med at identificere nogle af de bredbladede ukrudtarter. <a id="phcontent_1_phleftcontent_1_rptNewsList_MoreLink_2" href="/Resources/News/2017/Weedscout.aspx">» mere</a></p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+		            <div class="hr"></div>
+			            <div class="blck2">
+			                <div class="imgshdw"><a id="phcontent_1_phleftcontent_1_rptNewsList_ImageLink_3" href="/Resources/News/2017/Godt-begyndt.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Denmark/Nyheder/godtbegyndt2017.ashx?bc=e6e6e6&amp;h=92&amp;w=138" alt="" width="138" height="92" /></a><div class="shdwbttm"><div class="shdwcrnr"></div></div></div>
+                            <div class="txtcol">
+                                <p class="topline">24.07.2017</p>
+                                <h2><a id="phcontent_1_phleftcontent_1_rptNewsList_NewsLink_3" href="/Resources/News/2017/Godt-begyndt.aspx">Målrettet ukrudtsbekæmpelse - så er du godt i gang</a></h2>
+                                <p>Indsatsen mod ukrudt om efteråret skal målrettes behovet. <a id="phcontent_1_phleftcontent_1_rptNewsList_MoreLink_3" href="/Resources/News/2017/Godt-begyndt.aspx">» mere</a></p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+		            <div class="hr"></div>
+			            <div class="blck2">
+			                <div class="imgshdw"><a id="phcontent_1_phleftcontent_1_rptNewsList_ImageLink_4" href="/Resources/News/2017/Porpulse-i-majs.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Images/Products/Brandtags 138px/propulse_bt_WEB.ashx?bc=e6e6e6&amp;h=92&amp;w=138" alt="" width="138" height="92" /></a><div class="shdwbttm"><div class="shdwcrnr"></div></div></div>
+                            <div class="txtcol">
+                                <p class="topline">12.07.2017</p>
+                                <h2><a id="phcontent_1_phleftcontent_1_rptNewsList_NewsLink_4" href="/Resources/News/2017/Porpulse-i-majs.aspx">Hold majsen frisk og sund med Propulse</a></h2>
+                                <p>At høste friske sunde majsplanter er vital for at holde en høj foderkvalitet som sikrer en god ædelyst hos køerne. Et dyk i ædelyst betyder et dyk i mælkeydelse. Det nye svampemiddel, Propulse medvirker til at holde majsplanterne grønne og sunde og sikrer en høj foderkvalitet. <a id="phcontent_1_phleftcontent_1_rptNewsList_MoreLink_4" href="/Resources/News/2017/Porpulse-i-majs.aspx">» mere</a></p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+		            
+            </div>
+        </div> 
+        <div class="quarterspacer"></div>
+    </div>
+    <div class="shdwbttm"><div class="shdwcrnr"></div></div>
+</div>
+<div class="spacer" style="height:11px;"></div>
+
+  </div>
+  <div class="col lst">
+
+		
+        <div class="shdw latest-updates">
+            <div class="box">
+                <h4>Seneste opdateringer</h4>
+                <div class="clear"></div>
+            </div>
+            <div class="shdwbttm"><div class="shdwcrnr"></div></div>
+        </div>
+        <div class="contents latest-updates"><div class="element"><div class="hr"></div>
+    
+        <div class="blck2">
+            <div class="txtcol">
+                <h2><a id="phcontent_1_phrightcontent_0_rptLatestUpdates_ItemLink_0" href="/Afgroeder.aspx">Afgrøder</a></h2>
+                <p>Hos Bayer arbejder vi hele tiden p&aring; at udvikle nye midler, der beskytter planter mod sygdomme, skadedyr og ukrudt. L&aelig;s mere om afgr&oslash;derne herunder eller se i menuen til venstre.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    
+        <div class="blck2">
+            <div class="txtcol">
+                <h2><a id="phcontent_1_phrightcontent_0_rptLatestUpdates_ItemLink_1" href="/Produkter.aspx">Produkter</a></h2>
+                <p>Du kender dine afgrøder
+- vi har løsningerne</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    
+        <div class="blck2">
+            <div class="txtcol">
+                <h2><a id="phcontent_1_phrightcontent_0_rptLatestUpdates_ItemLink_2" href="/Bayer-Agro-Services/Bayer-Agro-TV.aspx">Bayer Agro TV</a></h2>
+                <p>Fjernsyn for planteavlere</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    
+        <div class="blck2">
+            <div class="txtcol">
+                <h2><a id="phcontent_1_phrightcontent_0_rptLatestUpdates_ItemLink_3" href="/Bayer-Agro-Services.aspx">Bayer Agro Services</a></h2>
+                <p>For at skabe et større overblik over de services vi tilbyder, har vi i Bayer valgt at lægge dem under ét navn nemlig Bayer Agro Services.
+I teksten herunder finder du ekspempler på tre af vores services - de andre findes i menuen til venstre.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    
+        <div class="blck2">
+            <div class="txtcol">
+                <h2><a id="phcontent_1_phrightcontent_0_rptLatestUpdates_ItemLink_4" href="/Baeredygtighed.aspx">Bæredygtighed</a></h2>
+                <p>Bayer's virksomhed er reguleret af de love og regler, som g&aelig;lder i Danmark, men vores ambitioner for milj&oslash;et r&aelig;kker meget l&aelig;ngere. Derfor vil vi gerne fort&aelig;lle lidt om de projekter, vi arbejder p&aring;. Bliv inspireret herunder og se mere i menuen til venstre</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    
+        
+        </div></div>
+        <div class="quarterspacer"></div>
+        <div class="spacer"></div>
+        <div class="clear"></div>
+    
+
+    <div class="clear"></div>
+  </div>
+</div>
+
+
+
+
+
+
+<!--##CONTENT2##-->        
+        
+    </div>
+    <div id="margi" class="alternate">
+        <!-- googleoff: index -->
+        <div class="margiblock margi-search"><div class="shdw "><div class="box"><h4 class="search">Søg</h4><input class="text autoclear" value="Indtast søgeord" name="suchfeldmrg" id="suchfeldmrg" type="text" /><input type="hidden" value="" name="m2" /><input type="hidden" value="only this website" name="r2" /><a id="suchfeldbtn" class="sbtn" href="/Soeg.aspx"><span class="hidden">Søg</span></a><br /><div class="clear"></div></div><div class="shdwbttm"><div class="shdwcrnr"></div></div></div><a href="#" id="advancedsuchfeldbtn" class="margilink">» Avanceret søgning</a><div class="margispacer"></div></div>
+        
+        <!-- googleon: index -->
+        <div class="margiblock"><div class="shdw"><div class="box"><h4>Kontakt os</h4><a href="/Kontakt/Kontakt-Support.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Images/contact pictures/4S9A6520.ashx?bc=cccccc&amp;w=180" alt="" width="180" height="120" /></a><div class="clear"></div></div><div class="shdwbttm"><div class="shdwcrnr"></div></div></div><h5>Kontakt Bayer eller vores konsulenter her</h5><p class="textlink"><a href="/Kontakt/Kontakt-Support.aspx">» mere</a></p><div class="margispacer"></div></div><div class="margiblock"><div class="shdw"><div class="box"><h4>Bayer Agro Klub, - fordi du vil vide mere</h4><a href="https://agroklub.bayer.dk/" target="_blank"><img src="/~/media/Bayer CropScience/Scandinavia/Images/pictures for apps farmer klub etc/BayerAgroKlub_top-til-web.ashx?bc=cccccc&amp;w=180" alt="Bayer Agro Klub" width="180" height="135" /></a><div class="clear"></div></div><div class="shdwbttm"><div class="shdwcrnr"></div></div></div><h5>Bayer Agro Klub</h5><p class="textlink"><a href="https://agroklub.bayer.dk/" target="_blank">» https://agroklub.bayer.dk/</a></p><div class="margispacer"></div></div><div class="margiblock"><div class="shdw"><div class="box"><h4>Sikkerhedsdatablad</h4><a href="/Produkter.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Images/Products/PDF-icons/Sikkerhedsdatablad_DK.ashx?bc=cccccc&amp;w=180" alt="" width="180" height="74" /></a><div class="clear"></div></div><div class="shdwbttm"><div class="shdwcrnr"></div></div></div><h5>Sikkerhedsdatablade finder du under det enkelte produkt</h5><p class="textlink"><a href="/Produkter.aspx">» mere</a></p><div class="margispacer"></div></div><div class="margiblock"><div class="shdw"><div class="box"><h4>Etiketter</h4><a href="/Produkter.aspx"><img src="/~/media/Bayer CropScience/Scandinavia/Images/Products/PDF-icons/Etikette_DK.ashx?bc=cccccc&amp;w=180" alt="" width="180" height="74" /></a><div class="clear"></div></div><div class="shdwbttm"><div class="shdwcrnr"></div></div></div><h5>Etiketter finder du under det enkelte produkt</h5><p class="textlink"><a href="/Produkter.aspx">» mere</a></p><div class="margispacer"></div></div>
+
+
+
+
+    </div>
+    <div class="clear"></div>
+
+    <div id="footerFullWidth">
+        <!-- googleoff: index -->
+        
+        <div class="spacer varheight"></div><div id="footer" class="footer-fullwidth"><div class="col-2 rdntb"><div class="legl address"><ul><li>Bayer A/S</li><li>Arne Jacobsens Allé 13</li><li>2300 København S</li></ul></div><div class="footernav"></div></div><div class="footWrap"><div class="col-1"><div class="updt">Sidst opdateret:<br />november 28, 2017</div></div><div class="col-3"><div class="srvc"><ul><li><a class="icosome" href="#" target="_blank">Social Media</a></li><li><a class="icoprnt" href="javascript:printIt();">Print</a></li><li><a class="icobmrk" href="javascript:setBookmark();">Bogmærke</a></li></ul></div><div class="some"><ul><li><a href="#" class="icotwt">Twitter</a></li><li><a href="#" class="icofbk">Facebook</a></li><li><a href="#" class="icomrw">Mister Wong</a></li><li><a href="#" class="icoggl">Google</a></li><li><a href="#" class="icoyho">Yahoo</a></li><li><a href="#" class="icodel">Delicious</a></li></ul></div></div><div class="clear"></div></div></div><div id="printfooter"><div class="plaintext"><div class="quarterspacer"></div>Copyright � Bayer CropScience</div></div> 
+        <!-- googleon: index -->
+    </div>
+    <div class="clear"></div>
+    </form>
+
+    <!-- googleoff: index -->
+    
+  <script type="text/javascript">
+    xt1 = ".bayercropscience.dk";
+    xtnv = document;
+    xtsd = "https://logs1242";
+    xtsite = "518350";
+    xtn2 = "1";
+    xtpage = "Forside";
+    xtdi = "";
+    xt_multc = "";
+    xt_an = "";
+    xt_ac = "";
+    xtidmod = "";
+    xtergo = "1";
+    if (window.xtparam != null) { window.xtparam += "&ac=" + xt_ac + "&an=" + xt_an + xt_multc; }
+    else { window.xtparam = "&ac=" + xt_ac + "&an=" + xt_an + xt_multc; };
+    var attr_name = "xtcz"; //zones
+    //CZM Zone Menü
+    var zone_nav = "CZM";
+    //CZC Zone Inhalt
+    var zone_content = "CZC";
+    jQuery('#header').attr(attr_name,zone_nav);
+    jQuery('#navi').attr(attr_name,zone_nav);
+    jQuery('#meta').attr(attr_name,zone_content);
+    jQuery('#precontent').attr(attr_name,zone_content);
+    jQuery('#content').attr(attr_name,zone_content);
+    jQuery('#margi').attr(attr_name,zone_content);
+  </script>
+  <script type="text/javascript" src="/Scripts/Bayer%20CropScience/Common/xtcore.js"></script>
+  <noscript>
+    <img src="https://logs1242.xiti.com/hit.xiti?s=518350&s2=1&p=Forside&di=&an=&ac=" id="ctl02_xtNoScriptImage" style="display:none;" width="1" height="1" />
+  </noscript>
+
+    <!-- googleon: index -->
+</body>
+<!--##END##-->
+</html>

@@ -1,0 +1,617 @@
+
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<html>
+<head>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <title>
+        Impact Foundation    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+
+
+    <!-- Social Meta -->
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="" />
+    <meta property="og:url" content=""/>
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
+
+
+    <!-- Custom -->
+    <meta name="author" content="">
+    <link rel="icon" href="https://impactgiveback.org/wp-content/themes/impact/img/favicon.ico" type="image/x-icon">
+
+    <!-- Mobile -->
+    <meta name="apple-mobile-web-app-capable" content="yes" /> <!--hide the browser's status bar on startup -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <!--<link rel="apple-touch-icon" href="/img/"/>
+	<link rel="apple-touch-icon-precomposed" href="/img/" />
+	<link rel="apple-touch-startup-image" href="/img/" />  -->
+
+    <!-- Scripts and CSS -->
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/impactgiveback.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='impact_css-css'  href='https://impactgiveback.org/wp-content/themes/impact/ember-app/assets/impact-public.css?ver=4.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefont_css-css'  href='//fonts.googleapis.com/css?family=Lato%3A400%2C300%2C700&#038;ver=4.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='main_css-css'  href='https://impactgiveback.org/wp-content/themes/impact/style.css?ver=4.8.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://impactgiveback.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://impactgiveback.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://impactgiveback.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://impactgiveback.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://impactgiveback.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.4" />
+<link rel="canonical" href="https://impactgiveback.org/" />
+<link rel='shortlink' href='https://impactgiveback.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://impactgiveback.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimpactgiveback.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://impactgiveback.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimpactgiveback.org%2F&#038;format=xml" />
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script>    
+    <script src="https://impactgiveback.org/wp-content/themes/impact/js/jstorage.min.js"></script>
+
+    <!--  Facebook SDK  -->
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId: '590342487761357',
+                version: 'v2.1'
+            });
+        };
+
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <!-- Google API -->
+    <meta name="google-signin-clientid" content="821803660680-9n1476ol1vvurmtbbeg77k3us9v0bi9g.apps.googleusercontent.com" />
+    <meta name="google-signin-requestvisibleactions" content="http://schema.org/AddAction" />
+    <meta name="google-signin-cookiepolicy" content="single_host_origin" />
+    <script src="//apis.google.com/js/client:platform.js" async defer></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-59394579-1']);
+        _gaq.push(['_setSiteSpeedSampleRate', 10]);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+    
+    <script src="https://impactgiveback.org/wp-content/themes/impact/js/impact-env.js"></script>
+    <script src="https://impactgiveback.org/wp-content/themes/impact/js/impact.js"></script>
+</head>
+
+<body class="home page-template page-template-front-page page-template-front-page-php page page-id-52">
+<!-- utility nav -->
+
+<nav class="navbar navbar-utility hidden-xs" role="navigation">
+    <div class="container">
+
+        <ul id="menu-utility-menu" class="nav navbar-nav navbar-left"><li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="https://impactgiveback.org/impact-foundation/">About</a></li>
+<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="https://impactgiveback.org/impact-institute/">Training &#038; Membership</a></li>
+<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="https://impactgiveback.org/contact-us/">Contact</a></li>
+</ul>
+        <ul class="nav navbar-nav navbar-right">
+
+            <li class="sign-in dropdown hidden">
+                <a href="https://admin.impactgiveback.org/#/login" target="_blank" class="charity-sign-in">
+                    <button type="button" class="btn btn-primary btn-blue small">Charity Sign In</button>
+                </a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    <button type="button" class="btn btn-primary btn-blue small">Donor Sign In</button>
+                </a>
+                <ul class="dropdown-menu">
+                    <div class="aj-signing-in hidden">
+                        Signing in...
+                        <div class="sk-spinner sk-spinner-fading-circle">
+                            <div class="sk-circle1 sk-circle"></div>
+                            <div class="sk-circle2 sk-circle"></div>
+                            <div class="sk-circle3 sk-circle"></div>
+                            <div class="sk-circle4 sk-circle"></div>
+                            <div class="sk-circle5 sk-circle"></div>
+                            <div class="sk-circle6 sk-circle"></div>
+                            <div class="sk-circle7 sk-circle"></div>
+                            <div class="sk-circle8 sk-circle"></div>
+                            <div class="sk-circle9 sk-circle"></div>
+                            <div class="sk-circle10 sk-circle"></div>
+                            <div class="sk-circle11 sk-circle"></div>
+                            <div class="sk-circle12 sk-circle"></div>
+                        </div>
+                    </div>
+                    <div class="aj-sign-in-panel">
+                        <li>
+                            <div class="alert alert-warning signin-alert hidden"></div>
+                            <form class="sign-in-form" method="POST">
+                                <input id="email" class="aj-sign-in-input" type="email" name="email" placeholder="Email" required>
+                                <input id="password" class="aj-sign-in-input" type="password" name="password" placeholder="Password" required>
+                                <button type="submit" class="btn btn-primary btn-lt-blue aj-sign-in-input">Submit</button>
+                            </form>
+                            <a class="forgot aj-sign-in-input" href="../app/#/recover">Forgot Password?</a>
+                        </li>
+                        <li class="icons">
+                            <h5>or sign in with</h5>
+                            <span class="icon-facebook2 aj-facebook-signin-button aj-sign-in-input" style="cursor:pointer;"></span>
+                            <span class="icon-google aj-google-signin-button aj-sign-in-input" style="cursor:pointer;"></span>
+                        </li>
+                        <li class="register">
+                            <p>Don't have an account?</p>
+                            <a href="../app/#/signin" type="button" class="btn btn-secondary aj-sign-in-input">Register</a>
+                        </li>
+                    </div>
+                </ul>
+            </li>
+            <li class="signed-in-dropdown sign-in active dropdown hidden">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    <button type="button" class="btn btn-primary btn-blue small">
+                        <span class="donor-name"></span>
+                        <span class="icon-angle-down"></span>
+                    </button>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a href="../app/#/account">My Account</a>
+                    </li>
+                    <li>
+                        <a href="../app/#/logout">Log Out</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="cart dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    <span class="icon-cart"></span><span class="cart-count">0</span>
+                </a>
+                <ul class="dropdown-menu cart-list">
+
+                </ul>
+            </li>
+        </ul>
+
+    </div>
+</nav>
+
+
+<!-- main nav -->
+
+<nav class="navbar navbar-default" id="myDropdown" role="navigation">
+    <div class="container">
+
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://impactgiveback.org"><img src="https://impactgiveback.org/wp-content/themes/impact/img/logo.png" alt="Impact Institute" /></a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
+
+
+            <ul class="nav navbar-nav-utility">
+                <li class="sign-in dropdown hidden">
+                    <a href="https://admin.impactgiveback.org/#/login" target="_blank" class="charity-sign-in">
+                        <button type="button" class="btn btn-primary btn-blue">Charity Sign In</button>
+                    </a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><button type="button" class="btn btn-primary btn-blue">Donor Sign In</button></a>
+                    <ul class="dropdown-menu">
+                        <div class="aj-signing-in hidden">
+                            Signing in...
+                        </div>
+                        <li>
+                            <div class="alert alert-warning signin-alert hidden"></div>
+                            <form class="sign-in-form" method="POST">
+                                <input class="aj-sign-in-input" type="email" name="email" placeholder="Email" required>
+                                <input class="aj-sign-in-input" type="password" name="password" placeholder="Password" required>
+                                <button type="submit" class="btn btn-primary btn-lt-blue aj-sign-in-input">Submit</button>
+                            </form>
+                            <a class="forgot aj-sign-in-input" href="../app/#/recover">Forgot Password?</a>
+                        <li>
+                        <li class="icons">
+                            <h5>or sign in with</h5>
+                            <span class="icon-facebook2 aj-facebook-signin-button aj-sign-in-input" style="cursor:pointer;"></span>
+                            <span class="icon-google aj-google-signin-button aj-sign-in-input" style="cursor:pointer;"></span>
+                        </li>
+                        <hr>
+                        <li class="register">
+                            <p>Don't have an account?</p>
+                            <a href="../app/#/signin" type="button" class="btn btn-secondary btn-lt-blue aj-sign-in-input">Register</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="signed-in-dropdown sign-in active dropdown hidden">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        <button type="button" class="btn btn-primary btn-blue">
+                            <span class="donor-name"></span>
+                            <span class="icon-angle-down"></span>
+                        </button>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="../app/#/account">My Account</a>
+                        </li>
+                        <li>
+                            <a href="../app/#/logout">Log Out</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="cart dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        <button type="button" class="btn btn-primary btn-lt-blue">My Cart <span class="cart-count">0</span></button>
+                    </a>
+                    <ul class="dropdown-menu cart-list">
+
+                    </ul>
+                </li>
+            </ul>
+
+            <ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-1252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1252"><a href="//impactgiveback.org/donate">Donate</a></li>
+<li id="menu-item-1262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1262"><a href="//impactgiveback.org/volunteer">Volunteer</a></li>
+<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="https://impactgiveback.org/giving-hearts-day/">Giving Hearts Day</a></li>
+</ul>            <!--
+            <ul class="nav navbar-nav">
+                <li><a href="#">Donate</a></li>
+                <li><a href="#">Volunteer</a></li>
+                <li><a href="#">Giving Hearts Day</a></li>
+                <hr>
+            </ul>
+            -->
+            <ul id="menu-utility-menu-1" class="nav navbar-nav-utility"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="https://impactgiveback.org/impact-foundation/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="https://impactgiveback.org/impact-institute/">Training &#038; Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="https://impactgiveback.org/contact-us/">Contact</a></li>
+</ul>            <!--
+            <ul class="nav navbar-nav-utility">
+                <li><a href="subpage.html">Impact Foundation</a></li>
+                <li><a href="#">Impact Institute</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            -->
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+
+
+	<!-- jumbotron -->
+	<div class="jumbotron">
+		<div id="carousel-jumbotron" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+			<li data-target="#carousel-jumbotron" data-slide-to="0" class="active"></li><li data-target="#carousel-jumbotron" data-slide-to="1"></li><li data-target="#carousel-jumbotron" data-slide-to="2"></li><li data-target="#carousel-jumbotron" data-slide-to="3"></li>			</ol>
+
+			<div class="carousel-inner" role="listbox">
+								<div class="item active" style="background: url('https://impactgiveback.org/wp-content/uploads/2015/09/20170406_GHD-celebration_0033.jpg') no-repeat center center; background-size: cover">
+
+															<div class="carousel-caption circle-right">
+											<div class="container">
+							<div class="col-sm-12">
+								<div class="caption-content">
+									<h1 class="blue">#GivingHeartsDay is on the way</h1>
+									<p><p>Join us in building the most generous region on the planet.<br />
+Coming Feb. 8, 2018</p>
+</p>
+									<a href="https://impactgiveback.org/giving-hearts-day/" target="_self"><button type="button" class="btn btn-primary btn-red">#countme</button></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="item " style="background: url('https://impactgiveback.org/wp-content/uploads/2015/09/Matt-Traynor-for-IG.jpg') no-repeat center center; background-size: cover">
+
+															<div class="carousel-caption circle">
+											<div class="container">
+							<div class="col-sm-12">
+								<div class="caption-content">
+									<h1 class="blue">DMF Matto Foundation</h1>
+									<p><p>Giving hope to those struggling with addiction.</p>
+</p>
+									<a href="https://impactgiveback.org/app/#/charity/461" target="_self"><button type="button" class="btn btn-primary btn-red">Donate</button></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="item " style="background: url('https://impactgiveback.org/wp-content/uploads/2015/09/istock.jpg') no-repeat center center; background-size: cover">
+
+															<div class="carousel-caption circle">
+											<div class="container">
+							<div class="col-sm-12">
+								<div class="caption-content">
+									<h1 class="blue">Find a charity to love!</h1>
+									<p><p>Build a connection between what you value and what you give. Support your favorite charities and make a difference in our community. Every gift helps!</p>
+</p>
+									<a href="http://impactgiveback.org/app/#" target="_self"><button type="button" class="btn btn-primary btn-red">Donate</button></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="item " style="background: url('https://impactgiveback.org/wp-content/uploads/2015/09/volunteer-hero.jpg') no-repeat center center; background-size: cover">
+
+															<div class="carousel-caption circle-right">
+											<div class="container">
+							<div class="col-sm-12">
+								<div class="caption-content">
+									<h1 class="blue">Volunteer</h1>
+									<p><p>You've got a lot to give. Volunteering feeds the soul, so give your talents to a charity in need. Roll up those sleeves and be the change you want to see in the world!</p>
+</p>
+									<a href="http://impactgiveback.org/app/#/volunteer" target="_self"><button type="button" class="btn btn-primary btn-red">Volunteer</button></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+
+
+	<!-- Home Intro -->
+
+	<div class="home-intro">
+		<div class="container">
+			<div class="col-sm-6 col-sm-offset-3">
+				<h2 class="red">Making an Impact in our region for over 10 years</h2>
+				<hr class="divider red">
+				<p>Impact Foundation teaches nonprofits how to master fundraising and businesses how to secure government contracts that serve their bottom line. We also host online donations for charities and the area's largest database of volunteer opportunities. This is home plate for Giving Hearts Day, the region's biggest giving day!</p>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Home Stats -->
+
+	<div class="home-stats">
+		<div class="container">
+			<div class="col-sm-4">
+				<div class="stat-icon">
+					<img src="https://impactgiveback.org/wp-content/uploads/2015/09/registered-charities.png" class="img-responsive marg-t" />
+				</div>
+				<h1 class="white">100 +</h1>
+				<h5 class="white">Volunteer opportunities</h5>
+			</div>
+			<div class="col-sm-4">
+				<div class="stat-icon">
+					<img src="https://impactgiveback.org/wp-content/uploads/2015/09/giving-hearts1.png" class="img-responsive marg-t" />
+				</div>
+				<h1 class="white">$41,690,785</h1>
+				<h5 class="white">Raised through Giving hearts Day</h5>
+			</div>
+			<div class="col-sm-4">
+				<div class="stat-icon">
+					<img src="https://impactgiveback.org/wp-content/uploads/2015/12/white-group-icon.png" class="img-responsive marg-t" />
+				</div>
+				<h1 class="white">571</h1>
+				<h5 class="white">Profiled charities</h5>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+	<!-- Featured Charity -->
+    
+            <div class="featured-charity">
+            <div class="container">
+                <div class="col-sm-12">
+                    <h2 class="blue">Featured Charity</h2>
+                    <hr class="divider blue">
+                </div>
+
+				<div class="col-sm-12">
+					<div class="featured-charity-info">
+						<div class="col-md-6">
+							<img src="http://uploads.impactgiveback.org.s3-us-west-2.amazonaws.com/default/44/212b90659011e7bdc091afbb3baa11/Life-Link-III-helicopter.jpg" alt="" class="featured-img img-responsive" />
+						</div>
+						<div class="col-md-6">
+							<h3 class="blue">Essentia Health St. Mary's Foundation - Detroit Lakes</h3>
+							<p class="locations">
+																		<span class="icon-location"></span>
+                                            Becker County, Minnesota                                        <br/>
+																			<span class="icon-location"></span>
+                                            Mahnomen County, Minnesota                                        <br/>
+																			<span class="icon-location"></span>
+                                            Otter Tail County, Minnesota                                        <br/>
+																			<span class="icon-location"></span>
+                                            Detroit Lakes, Minnesota                                        <br/>
+																								</p>
+							<p class="summary">We are called to make a healthy difference in people's lives.
+
+It’s my community and I care. We need your help. We’re raising funds for a helicopter pad at Essentia Health St. Mary’s -Detroit Lakes. </p>
+							<p>
+								Taking Care to the Air Challenge
+
+Help us save lives and provide better care for our friends and neighbors. Please join the challenge. Every donation says “It’s my community and I care.” We can’t do it without you!
+
+DOUBLE YOUR GENEROSITY. GIVE TODAY.
+
+The challenge ends November 13th. Help support our community showing how much you care by making a donation. Don’t miss the chance to have your generosity doubled. A generous donor Herzog Roofing Inc. has agreed to match every single dollar you give for the 100 days – up to $100,000. Please take advantage of this matching gift opportunity before it’s too late!
+
+For questions call Rebecca from the St Mary's Foundation at 218-314-7468. 							</p>
+							<a type="button" href="/app/#/charity/90" class="btn-primary btn-lt-blue">Learn More</a>
+							<a type="button" href="/app/#/" class="btn-secondary btn-lt-blue">See All Charities</a>
+						</div>
+					</div>
+				</div>
+			</div>
+        </div>
+    
+
+
+
+	<!-- Home Stats -->
+
+	<div class="news-events">
+		<div class="container">
+			<div class="col-md-5 col-md-offset-1 col-sm-6">
+				<div class="news">
+					<h4 class="blue">News</h4>
+					<div class="media">
+
+						
+												<div class="media-left">
+							<div class="date-box box-news">
+								<h3 class="white">
+									26								</h3>
+								<h3 class="white">
+									Apr								</h3>
+							</div>
+						</div>
+						<div class="media-body">
+							<h6 class="white">DMF honors charities for Giving Hearts Day success</h6>
+							<p><p>Dakota Medical Foundation announces an official total of $10,692,653 raised through Giving Hearts Day. In celebrations held recently in Fargo and Bismarck, charities were recognized for success in [&hellip;]</p>
+</p>
+							<a href="https://impactgiveback.org/dmf-honors-charities-for-giving-hearts-day-success/" class="read-more">Read More</a>
+						</div>
+						<div class="clear"></div>
+														
+					    						<div class="media-left">
+							<div class="date-box box-news">
+								<h3 class="white">
+									22								</h3>
+								<h3 class="white">
+									Mar								</h3>
+							</div>
+						</div>
+						<div class="media-body">
+							<h6 class="white">Top 10 finishers announced for Giving Hearts Day 2017</h6>
+							<p><p>Generous Giving Hearts Day donors gave $10,667,502 during the 24-hour give-a-thon on February 9, 2017. There were 21,816 individual donors in 2017, a 50 percent gain over Giving [&hellip;]</p>
+</p>
+							<a href="https://impactgiveback.org/top-10-finishers-announced-for-giving-hearts-day-2017/" class="read-more">Read More</a>
+						</div>
+						<div class="clear"></div>
+														
+					</div><div class="media">
+
+					       
+					    
+					</div>
+					<a href="../news"><button class="btn btn-primary btn-blue">View All News</button></a>
+				</div>
+			</div>
+			<div class="col-md-5 col-md-offset-1 col-sm-6">
+				<div class="events">
+					<h4 class="blue">Upcoming Events</h4>
+
+							<div class="media">
+								
+								
+								<div class="media-left">
+									<div class="date-box box-events">
+										<h3 class="white">
+											08										</h3>
+										<h3 class="white">
+											Feb										</h3>
+									</div>
+								</div>
+								<div class="media-body">
+									<h6 class="white">Giving Hearts Day 2018</h6>
+									<p><span class="icon-location marg-r"></span>  </p>
+									<p><span class="icon-clock marg-r"></span> 12am to 12 pm</p>
+									<p><span class="icon-credit-card marg-r"></span> $10 donation at givingheartsday.org</p>
+									<a href="../training-events" class="read-more">See Details</a>
+								</div>
+								<div class="clear"></div>
+
+												
+				    
+					</div>
+					<a href="../training-events"><button class="btn btn-primary btn-blue">View All Events</button></a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<footer class="no-print">
+    <div class="main-footer">
+        <ul id="menu-footer-menu" class="footer-nav"><li id="menu-item-1272" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1272"><a href="http://impactgiveback.org/app/#">Donate</a></li>
+<li id="menu-item-1282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1282"><a href="http://impactgiveback.org/app/#/volunteer">Volunteer</a></li>
+<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="https://impactgiveback.org/giving-hearts-day/">Giving Hearts Day</a></li>
+<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="https://impactgiveback.org/impact-foundation/">About</a></li>
+<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="https://impactgiveback.org/impact-institute/">Impact Institute</a></li>
+<li id="menu-item-392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-392"><a href="https://impactgiveback.org/donor-resources/">Donor Resources</a></li>
+<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="https://impactgiveback.org/contact-us/">Contact</a></li>
+<li id="menu-item-1502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1502"><a href="https://impactgiveback.org/news/">News</a></li>
+<li id="menu-item-5977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5977"><a href="http://www.dakotacdc.com/programs/dmfimpact-irp/">Intermediary Relending Program (IRP)</a></li>
+</ul>        <!--
+        <ul class="footer-nav">
+            <li><a href="#">Donate</a></li>
+            <li><a href="#">Volunteer</a></li>
+            <li><a href="#">Giving Hearts Day</a></li>
+            <li><a href="#">Impact Foundation</a></li>
+            <li><a href="#">Impact Institute</a></li>
+            <li><a href="#">Donor Resources</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">News</a></li>
+        </ul>
+        -->
+        <ul class="footer-contact">
+            <li><span class="icon-phone marg-r"></span>701-271-0263</li>
+            <li><a href="mailto:info@impactfdn.org"><span class="icon-mail3 marg-r"></span>info@impactfdn.org</a></li>
+            <li><span class="icon-location marg-r"></span>4141 28th Ave. S  Fargo, ND 58104</li>
+        </ul>
+    </div>
+    <div class="utility-footer">
+        <div class="container">
+            <p class="left">
+                <a href="https://www.facebook.com/impactfdn/" target="_blank"><span class="icon-facebook2 marg-r"></span></a>
+                <a href="https://twitter.com/ImpactGiveback" target="_blank"><span class="icon-twitter marg-r"></span></a>
+                &copy; 2017 Impact Institute
+            </p>
+            <p class="right"><a href="//impactgiveback.org/privacy-policy" class="privacy">Privacy Policy</a></p>
+        </div>
+    </div>
+</footer>
+
+    <script type='text/javascript' src='https://impactgiveback.org/wp-content/themes/impact/js/bootstrap.min.js?ver=4.8.4'></script>
+<script type='text/javascript' src='https://impactgiveback.org/wp-includes/js/wp-embed.min.js?ver=4.8.4'></script>
+<script>
+    $('.carousel').carousel({
+        interval: 10000
+    });
+</script>
+
+</body>
+</html>

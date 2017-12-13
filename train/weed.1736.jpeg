@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 9]><html class="ie9"  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://extension.umass.edu/landscape/sites/extension.umass.edu.landscape/themes/wherb/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>UMass Extension Weed Herbarium | UMass Amherst Landscape, Nursery &amp; Urban Forestry Program</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://extension.umass.edu/landscape/sites/landscape/files/css/css_zPVQjRT2HmsmFDFUurbsFE6riUfCArDwIekvf0-deZU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://extension.umass.edu/landscape/sites/landscape/files/css/css_dNZdlSAyUOmooK11AxbG4gSdFZW4NJSvWnpocUTl7xo.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://extension.umass.edu/landscape/sites/landscape/files/css/css_afuxFZb2PTLmsClnZFX1_hVfxwoIjSbsYxp1g9KlY2w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://extension.umass.edu/landscape/sites/landscape/files/css/css_5RGxmocuE7Y0kUaEvMgslpme_OCqM3zzXvPX9gogOFQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://extension.umass.edu/landscape/sites/landscape/files/css/css_XRlzdxo6Bt-iF0LwqvlGjtIT62w70t7yR1hrzgsM7xE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora:700,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular&amp;subset=latin" media="all" />
+  <script src="http://extension.umass.edu/landscape/sites/landscape/files/js/js__uAm0E5qXnef6RJ2a6GEeM0bbgBwk3ndUHEl1lKvQ4M.js"></script>
+<script src="http://extension.umass.edu/landscape/sites/landscape/files/js/js_Y6fR77r_iPqfWjuqBwIZc7f-0TwzcJP34VWW9hHcreU.js"></script>
+<script src="http://extension.umass.edu/landscape/sites/landscape/files/js/js_NpX2cwCeepkWZZ194B6-ViyVBHleaYLOx5R9EWBOMRU.js"></script>
+<script src="http://extension.umass.edu/landscape/sites/landscape/files/js/js_8yPxL5GsbCtMg6Vm-DAtSC4qkaleMuGLTtXbaxEr9oY.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-446318-51", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/landscape\/","pathPrefix":"","ajaxPageState":{"theme":"wherb","theme_token":"UEWOXL3E_X4Q7qLLo_o76DOGfW0Jqd3SV0-LnyWmN1U","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/FooTable\/js\/footable.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/events_calendar\/js\/plugins\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/modules\/events_calendar\/js\/events_calendar_tooltip.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/footable\/js\/caller.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/FooTable\/css\/footable.core.min.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/typogrify\/typogrify.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/extension.umass.edu.landscape\/themes\/wherb\/system.menus.css":1,"sites\/extension.umass.edu.landscape\/themes\/wherb\/system.messages.css":1,"sites\/extension.umass.edu.landscape\/themes\/wherb\/system.theme.css":1,"sites\/extension.umass.edu.landscape\/themes\/wherb\/css\/styles.css":1,"http:\/\/fonts.googleapis.com\/css?family=Lora:700,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular\u0026subset=latin":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});</script>
+      <!--[if lt IE 9]>
+    <script src="/landscape/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-weed-herbarium page-weed-herbarium-all section-weed-herbarium page-views" >
+      <p id="skip-link">
+      <a href="#superfish-1" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="topbanner-wrapper">
+  <div id="topbanner-container">
+    <div id="umass-banner" role="complementary" aria-label="UMass Global Banner">
+      <div class="container clearfix">
+        <a id="wordmark" class="ir" href="http://umass.edu/" title="UMass Amherst">University of Massachusetts Amherst</a>
+        <div id="umass-links-search">
+          <form action="http://googlebox.oit.umass.edu/search" method="get">
+          <h2 class="element-invisible">Search Google Appliance</h2>
+          <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+             <input placeholder="Search UMass" id="edit-search-keys" type="text" name="q" size="15" maxlength="256" value="">
+             <input type="submit" name="button" value="Go">
+             <input type="hidden" name="site" value="default_collection">
+             <input type="hidden" name="client" value="default_frontend">
+             <input type="hidden" name="output" value="xml_no_dtd">
+             <input type="hidden" name="proxystylesheet" value="default_frontend">
+          </form>
+          <a href="#" class="metanav-toggle" tabindex="0">Links <span class="element-invisible">to common UMass Amherst services and features</span><i class="fa fa-angle-down"></i></a>
+        </div>
+      </div>
+    </div>
+  </div><!--end id="topbanner-container"-->
+</div><!--end id="topbanner-wrapper"-->
+
+<div id="metanav-wrapper">
+  <div id="metanav-container">
+    <div id="metanav" role="navigation" label="UMass Global Links">
+      <ul>
+        <li><a href="https://go.umass.edu/" title="">Go.UMass</a></li>
+        <li><a href="http://www.oit.umass.edu/email" title="">Email</a></li>
+        <li><a href="https://www.spire.umass.edu/" title="">SPIRE</a></li>
+        <li><a href="https://moodle.umass.edu/" title="">Moodle</a></li>
+        <li><a href="https://uma.umassonline.net" title="">Blackboard Learn</a></li>
+        <li><a href="https://udrive.oit.umass.edu/" title="">UDrive</a></li>
+        <li><a href="http://umass.edu/peoplefinder/" title="">People Finder</a></li>
+      </ul>
+    </div>
+  </div><!--end id="metanav-container"-->
+</div><!--end id="metanav-wrapper"-->
+
+<div id="header-wrapper">
+  <div id="header-container">
+    <header class="header" id="header" role="banner">
+
+      
+      
+        <div class="header__region region region-header">
+    <div id="block-block-15" class="block block-block first last odd">
+
+      
+  <div class="header-text">
+	<h3><a href="http://ag.umass.edu/landscape" target="_blank">UMass Extension Landscape, Nursery & Urban Forestry Program</a></h3>
+
+	<h1><a href="/landscape/weed-herbarium">Weed Herbarium</a></h1>
+</div>
+</div>
+  </div>
+
+    </header>
+  </div><!--end id="header-container"-->
+</div><!--end id="header-wrapper"-->
+
+<div id="navigation-wrapper">
+  <div id="navigation-container">
+      <nav id="navigation" role="navigation" tabindex="-1">
+              </nav>
+  </div><!--end id="navigation-container"-->
+</div><!--end id="navigation-wrapper"-->
+
+<div id="sectiontop-wrapper">
+  <div id="sectiontop-container">
+      <div class="region region-sectiontop">
+    <div id="block-block-16" class="block block-block first last odd">
+
+      
+  <div class="tabs">
+  <ul class="tabs primary clear-block">
+    <li><a href="/landscape/weed-herbarium/all" title="View list of weeds sorted by common name" class="active"><span class="tab">Common Name</span></a></li>
+    <li ><a href="/landscape/weed-herbarium/scientific-name/all" title="View list of weeds sorted by scientific name"><span class="tab">Scientific Name</span></a></li>
+    <li ><a href="/landscape/weed-herbarium/family-name/all" title="View list of weeds sorted by family name"><span class="tab">Family Name</span></a></li>
+<li><a href="/landscape/weed-herbarium/contact" title="Weed Herbarium contact information<span class="tab">Contact</span></li>
+  </ul>
+</div>
+</div>
+  </div>
+  </div><!--end id="sectiontop-container"-->
+</div><!--end id="sectiontop-wrapper"-->
+
+<div id="highlighted-wrapper">
+  <div id="highlighted-container">
+      <div class="region region-highlighted">
+    <div id="block-views-header-images-block" class="block block-views first last odd">
+
+      
+  <div class="view view-header-images view-id-header_images view-display-id-block view-dom-id-497baf95b8e5260cbc3ea848a799b882">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-header-image">        <div class="field-content"><img typeof="foaf:Image" src="http://extension.umass.edu/landscape/sites/landscape/files/styles/header_image/public/headers/weed-herbarium-header-03.jpg?itok=v8wjwbqA" width="1600" height="300" alt="UMass Extension Weed Herbarium" /></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+  </div>
+  </div><!--end id="highlighted-container"-->
+</div><!--end id="highlighted-wrapper"-->
+
+<div id="main-wrapper">
+  <div id="main-container">
+    <div id="main">
+
+      
+      
+      <div id="content" class="column" role="main">
+                <a id="main-content"></a>
+                          <h1 class="page__title title" id="page-title">UMass Extension Weed Herbarium</h1>
+                                                        
+
+
+<div class="view view-weed-list view-id-weed_list view-display-id-page view-dom-id-fc543a3914d142a3cd96f534552a5ff8">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-weed-list view-id-weed_list view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+      <div class='views-summary-unformatted'><span class=views-summary-link><a href=/landscape/weed-herbarium/a>A</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/b>B</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/c>C</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/d>D</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/e>E</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/f>F</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/g>G</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/h>H</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/i>I</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/j>J</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/k>K</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/l>L</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/m>M</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/n>N</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/o>O</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/p>P</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/q>Q</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/r>R</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/s>S</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/t>T</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/u>U</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/v>V</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/w>W</a></span> | <span class='views-summary-nolink'>X</span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/y>Y</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/z>Z</a></span> | <span class=views-summary-link><a href=/landscape/weed-herbarium/all>ALL</a></span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+      <table class="views-table cols-4 footable toggle-circle-filled" >
+        <thead>
+      <tr>
+                  <th data-toggle="true" class="views-field views-field-field-common-name-root views-align-left" >
+            Common Name          </th>
+                  <th class="views-field views-field-field--scientific-name-genus-1" >
+             Scientific Name          </th>
+                  <th data-hide="phone,tablet" class="views-field views-field-field--family-name-latin" >
+            Family Name          </th>
+                  <th data-hide="phone,tablet" class="views-field views-field-edit-node" >
+                      </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            agrimony          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/agrimonia-gryposepala">Agrimonia gryposepala</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Rosaceae - Rose Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            agrimony, tall hairy          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/agrimonia-gryposepala">agrimony</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            akebia, five-leaf          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/akebia-quinata">Akebia quinata </a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Lardizabalaceae - Lardizabala Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            alexanders, darkpurple          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/angelica-atropurpurea">angelica, purplestem</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            alexanders, golden          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/zizia-aurea">Zizia aurea</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Apiaceae (Umbelliferae) - Carrot Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            alyssum, hoary          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/berteroa-incana">Berteroa incana</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Brassicaceae (Cruciferae) - Mustard Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            amaranth, spiny          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/amaranthus-spinosus">Amaranthus spinosus </a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Amaranthaceae - Amaranth Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            angelica, American          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/angelica-atropurpurea">angelica, purplestem</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            angelica, purplestem          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/angelica-atropurpurea">Angelica atropurpurea</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Apiaceae (Umbelliferae) - Carrot Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            aniseroot          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/osmorhiza-longistilis">Osmorhiza longistilis</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Apiaceae (Umbelliferae) - Carrot Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            anoda, crested          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/anoda-cristata">anoda, spurred</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            anoda, spurred          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/anoda-cristata">Anoda cristata</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Malvaceae - Mallow Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            apple-of-sodom          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/solanum-carolinense">horsenettle</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            aster, white wood          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/aster-divaricatus">Aster divaricatus</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Asteraceae (Compositae) - Aster or Sunflower Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            aster, whorled          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/oclemena-acuminata">Oclemena acuminata</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Asteraceae (Compositae) - Aster or Sunflower Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            avens, white          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/geum-canadense">Geum canadense</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Rosaceae - Rose Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            balsam, apple          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/echinocystis-lobata">cucumber, wild</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            balsam, himalaya          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/impatiens-glandulifera">Impatiens glandulifera</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Balsaminaceae - Touch-Me-Not Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bamboo, Japanese          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/polygonum-cuspidatum">knotweed, Japanese</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bamboo, Mexican          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/polygonum-cuspidatum">knotweed, Japanese</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            barnyard grass          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/echinochloa-crus-galli">Echinochloa crus-galli</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Poaceae (Graminae) - Grass Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bean, wild          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/apios-americana">groundnut</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bedstraw, annual          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/galium-aparine">bedstraw, catchweed</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bedstraw, catchweed          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/galium-aparine">Galium aparine</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Rubiaceae - Madder Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bedstraw, hairy          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/galium-pilosum">Galium pilosum</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Rubiaceae - Madder Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bedstraw, smooth          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/galium-mollugo">Galium mollugo</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Rubiaceae - Madder Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            beggarslice          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/hackelia-virginiana">Hackelia virginiana</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Boraginaceae - Borage Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            beggarticks          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/bidens-frondosa">Bidens frondosa</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Asteraceae (Compositae) - Aster or Sunflower Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bellwort          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/triodanis-perfoliata">Venus lookingglass</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            belvedere          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/kochia-scoparia">kochia</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bentgrass, creeping          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/agrostis-stolonifera">Agrostis stolonifera</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Poaceae (Graminae) - Grass Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            big bluestem          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/andropogon-gerardii">Andropogon gerardii</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Poaceae (Graminae) - Grass Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bindweed, field          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/convolvulus-arvensis">Convolvulus arvensis</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Convolvulaceae - Morningglory Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bindweed, fringed          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/polygonum-cilinode">knotweed, black fringed</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bindweed, fringed          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/polygonum-cilinode">knotweed, black fringed</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bindweed, hedge          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/calystegia-sepium">Calystegia sepium</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Convolvulaceae - Morningglory Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bird&#039;s nest          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/daucus-carota">carrot, wild</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bitter          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/rumex-obtusifolius">dock, broadleaf</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bittercress          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/cardamine-hirsuta">Cardamine hirsuta</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Brassicaceae (Cruciferae) - Mustard Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bittercress, cuckoo          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/cardamine-pratensis">Cardamine pratensis</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Brassicaceae (Cruciferae) - Mustard Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bittersweet, asiatic          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/celastrus-orbiculatus">bittersweet, oriental</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bittersweet, oriental          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/celastrus-orbiculatus">Celastrus orbiculatus</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Celastraceae - Stafftree Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            black-eyed susan          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/rudbeckia-hirta">Rudbeckia hirta</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Asteraceae (Compositae) - Aster or Sunflower Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bladder campion          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/silene-vulgaris">Silene vulgaris</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Caryophyllaceae - Pink Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            blue devil          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/echium-vulgare">blueweed</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bluecurls          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/trichostema-dichotomum">Trichostema dichotomum</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Lamiaceae (Labiatae) - Mint Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bluegrass, annual          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/poa-annua">Poa annua</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Poaceae (Graminae) - Grass Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bluegrass, bulbous          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/poa-bulbosa">Poa bulbosa</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Poaceae (Graminae) - Grass Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bluejoint          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <span class="common-name-reference">see - <a href="http://extension.umass.edu/landscape/weeds/andropogon-gerardii">big bluestem</a></span>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+                      </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-field-common-name-root views-align-left" >
+            bluestem, little          </td>
+                  <td class="views-field views-field-field--scientific-name-genus-1" >
+            <a href="http://extension.umass.edu/landscape/weeds/andropogon-scoparius">Andropogon scoparius</a>          </td>
+                  <td class="views-field views-field-field--family-name-latin" >
+            Poaceae (Graminae) - Grass Family          </td>
+                  <td class="views-field views-field-edit-node" >
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/landscape/weed-herbarium?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/landscape/weed-herbarium?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/landscape/weed-herbarium?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/landscape/weed-herbarium?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/landscape/weed-herbarium?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/landscape/weed-herbarium?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/landscape/weed-herbarium?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/landscape/weed-herbarium?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/landscape/weed-herbarium?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/landscape/weed-herbarium?page=12">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>      </div>
+
+      
+      
+      </div><!--end id="main"-->
+    </div><!--end id="main-container"-->
+</div><!--end id="main-wrapper"-->
+
+
+
+
+<div id="footer-wrapper">
+  <div id="footer-container">
+      <footer id="footer" class="region region-footer">
+    <div id="block-block-17" class="block block-block first last odd">
+
+      
+  &nbsp;
+</div>
+    <div class="footer-logos">
+      <div class="extension-logo"><a href="https://ag.umass.edu/extension-outreach" title="UMass Extension"><img src="/landscape/sites/landscape/files/icons-logos/UMass-Extension-logo-noline-wht.png" alt="UMass Extension" /></a></div><div class="usda-logo"><a href="http://www.nifa.usda.gov" title="National Institute of Food and Agriculture"><img src="/landscape/sites/landscape/files/icons-logos/usda-footer-logo.png" alt="National Institute of Food and Agriculture" /></a></div>
+    
+    <div class="copyright">
+    <p>&copy;2017 <a href="http://umass.edu/" title="UMass Amherst homepage">University of Massachusetts Amherst</a> &bull; <nobr><a href="http://www.umass.edu/site-policies" title="Official UMass Amherst site policies">Site Policies</a></nobr></p>
+    <p><a href="http://ag.umass.edu/civil-rights-information/civil-rights-information-resources" target="_blank">Civil Rights and Non-Discrimination Information</a><br />
+    This site is maintained by the <a href="mailto:ag@cns.umass.edu">Center for Agriculture, Food and the Environment</a></p></div>
+    </div></div>
+  </footer>
+    </div><!--end id="footer-container"-->
+</div><!--end id="footer-wrapper"-->
+
+<div id="bottom-wrapper">
+  <div id="bottom-container">
+        </div><!--end id="bottom-container"-->
+</div><!--end id="bottom-wrapper"-->
+
+<script>
+// We define a function that takes one parameter named $.
+// Changed #metanav to #metanav-wrapper below to match the markup changes above
+(function ($) {
+   $(document).ready(function(){	
+       $("a.metanav-toggle").click(function(event) {
+         event.preventDefault();
+         $("#metanav-wrapper").slideToggle("fast");
+         $(".metanav-toggle i").toggleClass("fa-angle-down fa-angle-up");
+       });
+   });
+// Here we immediately call the function with jQuery as the parameter.
+}(jQuery));
+</script>
+  <script>
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/1847.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      </script>
+</body>
+</html>

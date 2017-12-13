@@ -1,0 +1,790 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html 
+     xmlns="http://www.w3.org/1999/xhtml"      
+     xmlns:dc="http://purl.org/dc/terms/" 
+     xmlns:dcmitype="http://purl.org/dc/terms/DCMIType/"
+     xmlns:ctag="http://commontag.org/ns#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"      
+     xmlns:v="http://rdf.data-vocabulary.org/#"
+     xmlns:fb="http://www.facebook.com/2008/fbml"
+     lang="en" 
+     dir="ltr"
+     version="XHTML+RDFa 1.0" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>UK College of Agriculture News</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="UK College of Agriculture News RSS" href="http://news.ca.uky.edu/rss/articles/all" />
+<link rel="shortcut icon" href="/sites/news.ca.uky.edu/files/ardi_favicon.ico" type="image/x-icon" />
+
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+        <script type="text/javascript" src="/sites/news.ca.uky.edu/themes/ardi/js/jQuery.jPlayer.2.1.0/jquery.jplayer.js"></script>
+        <script type="text/javascript">
+           jq164 = jQuery.noConflict(true);
+        </script>
+         <script type="text/javascript" src="/sites/news.ca.uky.edu/themes/ardi/js/agnews_radio.js"></script><script type="text/javascript" src="/sites/news.ca.uky.edu/themes/ardi/js/email.js"></script>  
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/news.ca.uky.edu/files/css/css_594c41ec621bfc454aa14a2716bfa045.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/news.ca.uky.edu/files/css/css_cc868ff442f1d24fea299366f6788c15.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/news.ca.uky.edu/files/css/css_d894bd89643ba1cfe10d5ecc081fd633.css" />
+  <script type="text/javascript" src="/sites/news.ca.uky.edu/files/js/js_ce2bff93e54acd693faa8d4a28a04730.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "combineBlocks": [ [ "#block-views-most_viewed_by_taxonomy-block", "#block-views-most_commented_articles-block_1" ], [ "#block-views-most_viewed_by_node_type-block", "#block-views-most_commented_blogs-block_1" ], [ "#block-views-most_viewed_by_node_type-block", "#block-views-most_commented_articles-block_1" ] ], "op_workflow_bonus": null });
+//--><!]]>
+</script>
+  <!--[if gte IE 6]><link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/openpublish_theme/css/fix-ie.css" /><![endif]-->  
+  <!--[if IE 6]><link type="text/css" rel="stylesheet" media="all" href="/##path_not_found##" /><![endif]-->
+  <!--[if gte IE 6]><link rel="stylesheet" media="all" href="/sites/news.ca.uky.edu/themes/ardi/css/ie.css" /><![endif]-->  
+<script type="text/javascript">
+
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-5830423-5"]);_gaq.push(["_trackPageview"]);_gaq.push(["_setDomainName", ".ca.uky.edu"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+
+</script>
+
+</head>
+
+<body  class="sidebars front-page front not-logged-in page-node two-sidebars ardi">
+    <div id="outer-wrapper"> 
+  <div id="wrapper">    	
+  <div id="header">
+    
+    <!-- .coa-header-->
+    <div class="coa-header">
+        <a class='uk-home logo' href="http://www.uky.edu/" title="University of Kentucky Home Page"></a>
+        <a class='ag-home logo 'href="http://www.ca.uky.edu/" title="College of Agriculture Home Page"></a>
+        <ul id="collegenavigation">
+          <li><a href="http://www.uky.edu/" title="University of Kentucky Home Page" class="">UK Home</a></li>
+          <li><a href="http://www.ca.uky.edu/" title="College of Agriculture Home Page" class=""> College Home</a></li>
+          <li><a href="http://www2.ca.uky.edu/index/" title="College Site Index" class="">Site Index</a></li>
+          <li><a href="http://www.ca.uky.edu/index_n.php?cx=003398099011942252124%3Agmpps7ysdwm&amp;cof=FORID%3A11&amp;q=&amp;sa=Search&amp;siteurl=www2.ca.uky.edu%2F#19" title="Search College of Agriculture" class="">Search</a></li>
+          <li><a href="http://warehouse.ca.uky.edu/coahome/addrbook/people.asp" title="Directory of People" class="">People</a></li>
+          <li><a href="http://www.ca.uky.edu/coahome/help.htm" title="Need Help?" class="">Help</a></li>
+      </ul><!--  /#collegenavigationr-->
+    </div><!-- /.coa-header-->
+
+    <!-- .site-header -->
+    <div class="site-header">
+    </div><!-- /.site-header -->
+
+       
+    <div class="clear"></div>
+  </div> <!-- /#header -->
+
+
+ <div class="logo-area" class="clearfix">	    
+    <a class="logo" href="/" title="UK College of Agriculture News" style="background: url(/sites/news.ca.uky.edu/files/ardi_logo.png) no-repeat left">UK College of Agriculture News</a>
+
+         <!--   <ul id="login-menu">
+                  <li><a href="/user">Log In</a> </li>
+              </ul> -->
+     
+  </div>   <!-- #logo-area -->   
+
+  <div id="nav" class="clearfix">
+          <ul class="links primary-links clearfix op-primary-links">
+                  <li class="first-level off first">
+        <a href="/" class="first-level active">Front Page</a>                
+                
+      </li>
+                <li class="first-level off ">
+        <a href="/multimedia/radio" class="first-level">Radio</a>                
+                
+      </li>
+                <li class="first-level off ">
+        <a href="/multimedia/video" class="first-level">Video</a>                
+                
+      </li>
+                <li class="first-level off ">
+        <a href="/archive" class="first-level">Archive</a>                
+                
+      </li>
+                <li class="first-level off last">
+        <a href="/contacts" class="first-level">Staff Contacts</a>                
+                
+      </li>
+      </ul>     
+    
+        <div id="search_box_top" class="clearfix">
+      <form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="clearfix"><div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" id="form-sSEhYIumanjG8mn6WYrD0ZaVO7MkFlS6bsv6WiIrqoM" value="form-sSEhYIumanjG8mn6WYrD0ZaVO7MkFlS6bsv6WiIrqoM"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+<div id="top-search-button"><input type="submit" name="op" id="" value="search"  class="form-submit" />
+</div></div>
+</div></form>
+    </div>
+         
+  </div> <!-- /#nav -->
+  <div class="clear"></div>	
+  <div id="container" class="clearfix">
+
+
+
+<div id="sidebar-left" class="sidebar">
+    <div id="block-views-category_menu-block_1" class="block block-views">
+
+  <h2>Browse by Category</h2>
+
+  <div class="content">
+    <div class="view view-category-menu view-id-category_menu view-display-id-block_1 view-dom-id-1">
+        <div class="view-header">
+          </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid col-2">
+  <tbody>
+                <tr class="row-1 row-first">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/4-h-youth">4-H Youth</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/family-consumer-sciences">Family Consumer Sciences</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-2">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/awards">Awards</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/fine-arts">Fine Arts</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-3">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/biosystems-ag-engineering">Biosystems Ag Engineering</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/food-science">Food Science</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-4">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/community-development">Community Development</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/forestry">Forestry</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-5">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/crops">Crops</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/horticulture">Horticulture</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-6">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/economics">Economics</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/livestock">Livestock</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-7">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/entomology">Entomology</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/nutrition">Nutrition</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-8">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/environment">Environment</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/regulatory-services">Regulatory Services</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-9">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/equine">Equine</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/research">Research</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-10">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/events">Events</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/sustainability">Sustainability</a></span>
+  </div>
+          </td>
+              </tr>
+                <tr class="row-11 row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/extension">Extension</a></span>
+  </div>
+          </td>
+                  <td class="col-2 col-last">
+              
+  <div class="views-field-name">
+                <span class="field-content"><a href="/category/weather">Weather</a></span>
+  </div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-views-site_archive-block" class="block block-views">
+
+  <h2>Print News Archive</h2>
+
+  <div class="content">
+    <div class="view view-site-archive view-id-site_archive view-display-id-block view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+  <ul class="views-summary">
+
+  	    <li><a href="http://news.ca.uky.edu/archive/2017/12/">December 2017</a>
+              (4)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/11/">November 2017</a>
+              (16)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/10/">October 2017</a>
+              (19)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/09/">September 2017</a>
+              (16)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/08/">August 2017</a>
+              (26)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/07/">July 2017</a>
+              (21)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/06/">June 2017</a>
+              (12)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/05/">May 2017</a>
+              (17)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/04/">April 2017</a>
+              (18)
+          </li>
+    	    <li><a href="http://news.ca.uky.edu/archive/2017/03/">March 2017</a>
+              (22)
+          </li>
+    </ul>
+<a class='more' href="http://news.ca.uky.edu/archive">Full Archive...</a>
+
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  
+<div class='block'>
+<h2>Follow Ag News</h2>
+<ul class="social">
+
+	<li class='facebook'><a href="https://www.facebook.com/UKAg1">Facebook</a></li>
+	<li class='twitter'><a href="https://twitter.com/UKAgriculture">Twitter</a></li>
+<li class="youtube"><a href="http://www.youtube.com/user/UKAgriculture">YouTube</a></li>
+	<!-- <li class='email'><p><a href="/content/email-signup">Subscribe to Email</a></p> -->
+	</li>
+</ul>
+</div><!-- end .block -->
+
+</div>
+<div id="center">
+  <div id="op-content">
+        			<div class="featured first-row category-row">
+  				<ul class="features">
+  					  						<li id="16125"style="background: url('sites/news.ca.uky.edu/files/imagecache/homepage_features/DebbieReed-1.jpg')">
+                <a href="article/uk-colleges-agriculture-food-and-environment-nursing-partnership-aimed-farm-safety-and-healt">
+  							<div class='text'>
+
+  								<h3>UK colleges of Agriculture, Food and Environment, Nursing partnership aimed at farm safety and health</h3>
+                    			<!-- 					<h4></h4> -->
+                    								<div class='teaser'><p>UK College of Nursing Professor Deborah Reed will work with Cooperative Extension through the collaboration.
+</p></div>
+  							</div><!-- end .text-->
+                </a>
+  						</li>
+  							
+  					  						<li id="16124"style="background: url('sites/news.ca.uky.edu/files/imagecache/homepage_features/applesfnvstory_0.jpg')">
+                <a href="article/annual-kentucky-fruit-and-vegetable-conference-set-jan-8-9">
+  							<div class='text'>
+
+  								<h3>Annual Kentucky Fruit and Vegetable Conference set for Jan. 8-9</h3>
+                    			<!-- 					<h4></h4> -->
+                    								<div class='teaser'><p>Topics will include fruit and vegetable production, organic production, wholesale and direct marketing, the Grape and Wine Short Course, agritourism and more.
+</p></div>
+  							</div><!-- end .text-->
+                </a>
+  						</li>
+  							
+  					  						<li id="16123"style="background: url('sites/news.ca.uky.edu/files/imagecache/homepage_features/KSBDC recognizes staff achievements_web.jpg')">
+                <a href="article/ksbdc-recognizes-staff-achievements">
+  							<div class='text'>
+
+  								<h3>KSBDC recognizes staff achievements</h3>
+                    			<!-- 					<h4></h4> -->
+                    								<div class='teaser'><p>The Kentucky Small Business Development Center recognized staff members for their achievements at its annual fall conference.
+</p></div>
+  							</div><!-- end .text-->
+                </a>
+  						</li>
+  							
+  					  						<li id="16122"style="background: url('sites/news.ca.uky.edu/files/imagecache/homepage_features/ThinkstockPhotos-75287831.jpg')">
+                <a href="article/uk-researchers-study-chocolate-prices">
+  							<div class='text'>
+
+  								<h3>UK researchers study chocolate prices</h3>
+                    			<!-- 					<h4></h4> -->
+                    								<div class='teaser'><p>Not all chocolates are created equal -- in price anyways, according to a recent UK agricultural economics study.
+</p></div>
+  							</div><!-- end .text-->
+                </a>
+  						</li>
+  							
+  					  						<li id="16120"style="background: url('sites/news.ca.uky.edu/files/imagecache/homepage_features/ageconoutlookweb.jpg')">
+                <a href="article/kentucky-agricultural-economy-improves">
+  							<div class='text'>
+
+  								<h3>Kentucky agricultural economy improves</h3>
+                    			<!-- 					<h4></h4> -->
+                    								<div class='teaser'><p>Kentucky cash receipts and net farm income are up slightly for 2017.
+</p></div>
+  							</div><!-- end .text-->
+                </a>
+  						</li>
+  							
+  					  				</ul>
+	  			<ul class="thumbnails">
+	  			                  <li rel="16125">
+               	<a href="article/uk-colleges-agriculture-food-and-environment-nursing-partnership-aimed-farm-safety-and-healt">
+                	                	<img src="sites/news.ca.uky.edu/files/imagecache/homepage_thumbnail/DebbieReed-1.jpg" alt="thumbnail" />
+               	</a>
+              </li>
+      
+                          <li rel="16124">
+               	<a href="article/annual-kentucky-fruit-and-vegetable-conference-set-jan-8-9">
+                	                	<img src="sites/news.ca.uky.edu/files/imagecache/homepage_thumbnail/applesfnvstory_0.jpg" alt="thumbnail" />
+               	</a>
+              </li>
+      
+                          <li rel="16123">
+               	<a href="article/ksbdc-recognizes-staff-achievements">
+                	                	<img src="sites/news.ca.uky.edu/files/imagecache/homepage_thumbnail/KSBDC recognizes staff achievements_web.jpg" alt="thumbnail" />
+               	</a>
+              </li>
+      
+                          <li rel="16122">
+               	<a href="article/uk-researchers-study-chocolate-prices">
+                	                	<img src="sites/news.ca.uky.edu/files/imagecache/homepage_thumbnail/ThinkstockPhotos-75287831.jpg" alt="thumbnail" />
+               	</a>
+              </li>
+      
+                          <li rel="16120">
+               	<a href="article/kentucky-agricultural-economy-improves">
+                	                	<img src="sites/news.ca.uky.edu/files/imagecache/homepage_thumbnail/ageconoutlookweb.jpg" alt="thumbnail" />
+               	</a>
+              </li>
+      
+            	  			</ul>
+  			</div>
+
+
+        <div class="category-row lead thumb">
+              <div class="title"><a href="/article/nursery-landscape-industry-meet-louisville-2018-spring-training">Nursery, landscape industry to meet in Louisville for 2018 Spring Training</a> </div>
+                          <img src="sites/news.ca.uky.edu/files/imagecache/lead_thumb/20160606SpringTraining2018sp011web_size.jpeg" />
+             <div class="text">
+                        <div class="teaser"><p>The green industry will gather in Louisville Jan. 24-25 for the Kentucky Nursery and Landscape Association&rsquo;s annual Spring Training Conference.
+</p></div>
+                 </div>
+        </div> 
+
+
+                  <div class="category-row lead no-thumb">
+              <div class="title"><a href="/article/uk-selects-patricia-brantley-todd-award-winners">UK selects Patricia Brantley Todd award winners</a> </div>
+                           <div class="text">
+                        <div class="teaser"><p>The awards recognize excellence among faculty and staff in the college&#39;s School of Human Environmental Sciences.
+</p></div>
+                 </div>
+        </div>
+          <div class="category-row lead no-thumb">
+              <div class="title"><a href="/article/dietetics-and-human-nutrition-students-help-create-healthier-world-one-recipe-time">Dietetics and Human Nutrition students help to create a healthier world one recipe at a time </a> </div>
+                           <div class="text">
+                        <div class="teaser"><p>UK students recently served up Kentucky Proud recipes to taste test panelists.
+</p></div>
+                 </div>
+        </div>
+          <div class="category-row lead no-thumb">
+              <div class="title"><a href="/article/low-pressure-irrigation-system-looks-promising-small-farms">Low-pressure irrigation system looks promising for small farms</a> </div>
+                           <div class="text">
+                        <div class="teaser"><p>A low-pressure irrigation system that a UK horticulture extension professor perfected in Asia looks like it also will have practical applications for small growers in this country.
+</p></div>
+                 </div>
+        </div>
+  
+   			<!--<div class="category-row">
+
+				<div class="left two-up">
+		          <div class="first lead">
+              		              <div class="title"><a href="/article/uk-selects-patricia-brantley-todd-award-winners">UK selects Patricia Brantley Todd award winners</a></div>
+                  <p class="teaser"><p>The awards recognize excellence among faculty and staff in the college&#39;s School of Human Environmental Sciences.</p>
+</p>
+		          </div>
+              <div class='lead'>
+                                <div class="title"><a href="/article/dietetics-and-human-nutrition-students-help-create-healthier-world-one-recipe-time">Dietetics and Human Nutrition students help to create a healthier world one recipe at a time </a></div>
+                  <p class="teaser"><p>UK students recently served up Kentucky Proud recipes to taste test panelists.</p>
+</p>
+              </div>
+				</div>
+
+				<div class="right list">
+					<ul>
+                              <li><a href="/"></a></li>
+                       </ul>
+				</div>
+
+			</div> -->
+  </div>
+</div><!-- end center -->
+<div id="sidebar-right" class="sidebar"><!-- #sidebar-right -->
+    <div id="block-views-latest_video-block_1" class="block block-views">
+
+
+  <div class="content">
+    <div class="view view-latest-video view-id-latest_video view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div about="" class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div class='multimedia'>
+	<div class="video">
+		<h2>Video</h2>
+				<a href="http://news.ca.uky.edu/video/uks-veterinary-diagnostic-laboratory-goes-mobile-0"><img src="/sites/news.ca.uky.edu/files/imagecache/related_youtube/externals/01a0179f2d2a8bd1ca686f170449acb6.jpg" /></a>
+		<div class="info">
+			<a href="http://news.ca.uky.edu/video/uks-veterinary-diagnostic-laboratory-goes-mobile-0">UK's Veterinary Diagnostic Laboratory goes mobile</a>
+		</div><!-- end .info -->
+  <a class="more" href="http://news.ca.uky.edu/multimedia/video">All Video News...</a>
+</div><!-- end .video -->
+</div>
+  </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  <div id="block-views-radio_list-block_1" class="block block-views">
+
+
+  <div class="content">
+    <div class="view view-radio-list view-id-radio_list view-display-id-block_1 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+<h2>Radio</h2>
+	<ul class='radio-players'>
+  	  		<li>
+	  			<div id="jquery_jplayer-0"  data-audio="http://news.ca.uky.edu/sites/news.ca.uky.edu/files/AG ECONOMIC OUTLOOK.mp3" class="j-player"></div>
+
+	  			
+				<div id="jp_container-0" class="jp-audio">
+					<div class="jp-type-single">
+						<div class="jp-gui jp-interface">
+							<h4>Kentucky's Ag Economy Improves in 2017</h4>
+							<ul class="jp-controls text block">
+								<li class='dur'>Length(<span class="jp-duration"></span>)</li>
+								<li class='time'><span class="jp-current-time">Length</span> / <span class="jp-duration"></span></li>
+
+								<li class="play">
+									<a href="javascript:;" class="jp-stop" tabindex="1">stop</a>
+									<a href="javascript:;" class="jp-play" tabindex="1">play</a>
+								</li>
+								<li class="play"> 
+									<a href="javascript:;" class="jp-pause" tabindex="1">pause</a>
+								</li>
+							</ul>
+							
+						</div>
+						<div class="jp-no-solution">
+							<span>Update Required</span>
+							To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+						</div>
+					</div>
+				</div>
+
+				<div id="jplayer_inspector"></div>
+
+	  		</li>
+
+
+	  			  		<li>
+	  			<div id="jquery_jplayer-1"  data-audio="http://news.ca.uky.edu/sites/news.ca.uky.edu/files/From The Ground Up - Pumpkins_1_1.mp3" class="j-player"></div>
+
+	  			
+				<div id="jp_container-1" class="jp-audio">
+					<div class="jp-type-single">
+						<div class="jp-gui jp-interface">
+							<h4>From the Ground Up - How to Pick a Pumpkin</h4>
+							<ul class="jp-controls text block">
+								<li class='dur'>Length(<span class="jp-duration"></span>)</li>
+								<li class='time'><span class="jp-current-time">Length</span> / <span class="jp-duration"></span></li>
+
+								<li class="play">
+									<a href="javascript:;" class="jp-stop" tabindex="1">stop</a>
+									<a href="javascript:;" class="jp-play" tabindex="1">play</a>
+								</li>
+								<li class="play"> 
+									<a href="javascript:;" class="jp-pause" tabindex="1">pause</a>
+								</li>
+							</ul>
+							
+						</div>
+						<div class="jp-no-solution">
+							<span>Update Required</span>
+							To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+						</div>
+					</div>
+				</div>
+
+				<div id="jplayer_inspector"></div>
+
+	  		</li>
+
+
+	  			  		<li>
+	  			<div id="jquery_jplayer-2"  data-audio="http://news.ca.uky.edu/sites/news.ca.uky.edu/files/From The Ground Up - Planting Trees_1.mp3" class="j-player"></div>
+
+	  			
+				<div id="jp_container-2" class="jp-audio">
+					<div class="jp-type-single">
+						<div class="jp-gui jp-interface">
+							<h4>From The Ground Up - Planting Trees in the Fall</h4>
+							<ul class="jp-controls text block">
+								<li class='dur'>Length(<span class="jp-duration"></span>)</li>
+								<li class='time'><span class="jp-current-time">Length</span> / <span class="jp-duration"></span></li>
+
+								<li class="play">
+									<a href="javascript:;" class="jp-stop" tabindex="1">stop</a>
+									<a href="javascript:;" class="jp-play" tabindex="1">play</a>
+								</li>
+								<li class="play"> 
+									<a href="javascript:;" class="jp-pause" tabindex="1">pause</a>
+								</li>
+							</ul>
+							
+						</div>
+						<div class="jp-no-solution">
+							<span>Update Required</span>
+							To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+						</div>
+					</div>
+				</div>
+
+				<div id="jplayer_inspector"></div>
+
+	  		</li>
+
+
+	  			  		<li>
+	  			<div id="jquery_jplayer-3"  data-audio="http://news.ca.uky.edu/sites/news.ca.uky.edu/files/From The Ground Up - Planting Bulbs.mp3" class="j-player"></div>
+
+	  			
+				<div id="jp_container-3" class="jp-audio">
+					<div class="jp-type-single">
+						<div class="jp-gui jp-interface">
+							<h4>From The Ground Up - Planting Flowering Bulbs in the Fall</h4>
+							<ul class="jp-controls text block">
+								<li class='dur'>Length(<span class="jp-duration"></span>)</li>
+								<li class='time'><span class="jp-current-time">Length</span> / <span class="jp-duration"></span></li>
+
+								<li class="play">
+									<a href="javascript:;" class="jp-stop" tabindex="1">stop</a>
+									<a href="javascript:;" class="jp-play" tabindex="1">play</a>
+								</li>
+								<li class="play"> 
+									<a href="javascript:;" class="jp-pause" tabindex="1">pause</a>
+								</li>
+							</ul>
+							
+						</div>
+						<div class="jp-no-solution">
+							<span>Update Required</span>
+							To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+						</div>
+					</div>
+				</div>
+
+				<div id="jplayer_inspector"></div>
+
+	  		</li>
+
+
+	  			  		<li>
+	  			<div id="jquery_jplayer-4"  data-audio="http://news.ca.uky.edu/sites/news.ca.uky.edu/files/From The Ground Up - Cover Crops_1.mp3" class="j-player"></div>
+
+	  			
+				<div id="jp_container-4" class="jp-audio">
+					<div class="jp-type-single">
+						<div class="jp-gui jp-interface">
+							<h4>From The Ground Up - Planting a Cover Crop</h4>
+							<ul class="jp-controls text block">
+								<li class='dur'>Length(<span class="jp-duration"></span>)</li>
+								<li class='time'><span class="jp-current-time">Length</span> / <span class="jp-duration"></span></li>
+
+								<li class="play">
+									<a href="javascript:;" class="jp-stop" tabindex="1">stop</a>
+									<a href="javascript:;" class="jp-play" tabindex="1">play</a>
+								</li>
+								<li class="play"> 
+									<a href="javascript:;" class="jp-pause" tabindex="1">pause</a>
+								</li>
+							</ul>
+							
+						</div>
+						<div class="jp-no-solution">
+							<span>Update Required</span>
+							To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+						</div>
+					</div>
+				</div>
+
+				<div id="jplayer_inspector"></div>
+
+	  		</li>
+
+
+	  		  </ul>
+  <a href="/multimedia/radio">All Radio News...</a>
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+</div>
+
+
+      </div> <!-- /#container -->
+      <span class="clear"></span>
+    </div> <!-- /#wrapper -->
+ 
+        <div class="clear"></div>	
+         	
+        <div id="footer" class="clearfix clear">
+        <ul id="login-menu">
+                      <li><a href="/user">Log In</a> </li>
+                  </ul>
+        <div id="footer-links-wrapper">
+
+          <div id="footer-menu-primary"></div>
+          <div id="footer-menu-secondary"><ul class="menu"><li class="leaf first last even"><a href="/content/terms-use">Terms of Use</a></li>
+</ul></div>
+
+        </div><!--/footer-links-wrapper-->
+          
+            <div id="block-block-1" class="block block-block">
+
+
+  <div class="content">
+    <p id="credits"><a href="http://www.phase2technology.com/" target="_blank">Powered by Phase2 Technology</a></p>  </div>
+</div>
+          
+        </div> <!-- /#footer -->
+ 
+  </div> <!-- /#outer-wrapper -->
+  <!-- /layout -->
+  <script type="text/javascript" src="/sites/news.ca.uky.edu/files/js/js_da6650bacfbfe43da88eac8dfc713579.js"></script>
+</body>
+</html>

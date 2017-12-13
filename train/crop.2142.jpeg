@@ -1,0 +1,390 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+    <title>BELGOCHLOR - essenscia</title>
+    <link href="/Content/css/style.css" rel="stylesheet" type="text/css"  media="screen">
+    <link href="/Content/css/dev.css" rel="stylesheet" type="text/css"  media="screen">
+    <link href="/Content/css/wysiwyg.css" rel="stylesheet" type="text/css"  media="screen">
+    <link href="/Content/css/publicsite.print.css" rel="stylesheet" type="text/css"  media="print">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,300,700' rel='stylesheet' type='text/css'>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">        window.jQuery || document.write('<script src="/Scripts/jquery-1.7.1.min.js"><\/script>')</script>
+    
+    <script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.tablesorter.js"></script>
+    
+    
+    
+    <script src="/Scripts/plugins.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.flexslider.js" type="text/javascript"></script>
+    <script src="/Scripts/jcarousellite_1.0.1.js" type="text/javascript"></script>
+    
+    
+    
+    
+    <script src="/Scripts/script.js" type="text/javascript"></script>    
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.placeholder.js" type="text/javascript"></script>    
+    
+
+    
+
+
+</head>
+
+<body class="home sidebar en"> <!-- en: english - nl: dutch - fr: french -->
+    <div class="upperpart">
+        <div class="bg-logo"></div>
+
+        <div class="header-print">
+            <img src="/Content/img/essenscia-logo-tagline.png" width="360" height="83" />
+        </div>
+
+        <div class="header">
+            <div class="container_12">
+                <div class="grid_8">
+                    <a href="/en" class="brand">Essenscia</a>
+                </div>
+<div class="nav">
+    <ul class="sf-menu clearfix" id="mainnav">
+            <li class="">
+                <a href="/en/about_essenscia">ABOUT ESSENSCIA</a>
+                
+                         <ul class="">
+                <li>
+                    <a href="/en/who_are_we">Who are we?</a>                   
+                            <ul class="">
+                <li>
+                    <a href="/en/our_team">Our team</a>                   
+                    
+                </li>
+                <li>
+                    <a href="/en/essenscia_vlaanderen">essenscia vlaanderen</a>                   
+                    
+                </li>
+                <li>
+                    <a href="/en/corporate%20governance">Corporate governance</a>                   
+                    
+                </li>
+        </ul>
+
+                </li>
+                <li>
+                    <a href="/en/our_sector">Our sector</a>                   
+                    
+                </li>
+                <li>
+                    <a href="/en/board_of_directors">Board of Directors</a>                   
+                    
+                </li>
+                <li>
+                    <a href="/en/our_members">Our members</a>                   
+                    
+                </li>
+                <li>
+                    <a href="/en/becoming_a_member">Becoming a member</a>                   
+                    
+                </li>
+                <li>
+                    <a href="/en/agenda">Agenda</a>                   
+                    
+                </li>
+        </ul>
+    
+            </li>   
+            <li class="hasSubNav current">
+                <a href="/en/issues">ISSUES</a>
+                
+                         <ul class="subnav-wrapper">
+              <li>      
+               <div class="subnav">       
+                    <div class="subnav-row">
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/sustainable_development">SUSTAINABLE DEVELOPMENT</a>
+                                    <ul>
+                                            <li><a href="/en/responsible_care">RESPONSIBLE CARE</a></li>
+                                    </ul>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/youth_training">YOUTH &amp; TRAINING</a>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/innovation_patents">INNOVATION &amp; PATENTS</a>
+                                    <ul>
+                                            <li><a href="/en/innovationaward2016">ESSENSCIA INNOVATION AWARD 2016</a></li>
+                                            <li><a href="/en/the_zinnovants">THE ZINNOVANTS</a></li>
+                                            <li><a href="/en/innovationcircle">INNOVATION CIRCLE</a></li>
+                                            <li><a href="/en/suschembelgium">SUSCHEM BELGIUM</a></li>
+                                    </ul>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/energy_climate">ENERGY &amp; CLIMATE</a>
+                            </div>
+                    </div>
+                    <div class="subnav-row">
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/reach_clp_product%20policy">REACH, CLP &amp; PRODUCT POLICY</a>
+                                    <ul>
+                                            <li><a href="/en/reach_en">REACH</a></li>
+                                            <li><a href="/en/clpen">CLP</a></li>
+                                            <li><a href="/en/vlarip">VLARIP</a></li>
+                                            <li><a href="/en/walrip">WALRIP</a></li>
+                                            <li><a href="/en/nanomaterials">NANOMATERIALS</a></li>
+                                    </ul>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/social_policy">SOCIAL POLICY</a>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/international_trade_business_development">INTERNATIONAL TRADE &amp; BUSINESS DEVELOPMENT</a>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/health_safety_environment">HEALTH, SAFETY &amp; ENVIRONMENT</a>
+                                    <ul>
+                                            <li><a href="/en/crisis_management">CRISIS MANAGEMENT</a></li>
+                                    </ul>
+                            </div>
+                    </div>
+                    <div class="subnav-row">
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/transport_logistics">TRANSPORT &amp; LOGISTICS</a>
+                                    <ul>
+                                            <li><a href="/en/transport%20of%20dangerous%20goods">TRANSPORT OF DANGEROUS GOODS</a></li>
+                                    </ul>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/food_safety">FOOD SAFETY</a>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/sustainable_construction">SUSTAINABLE CONSTRUCTION</a>
+                                    <ul>
+                                            <li><a href="/en/buildchem">BUILDCHEM</a></li>
+                                    </ul>
+                            </div>
+                            <div class="subnav-item issue_subnav">                                
+                                <a href="/en/product_groups">PRODUCT GROUPS</a>
+                                    <ul>
+                                            <li><a href="/en/belgochlor">BELGOCHLOR</a></li>
+                                            <li><a href="/en/gases">GASES</a></li>
+                                            <li><a href="/en/bio.be">BIO.BE</a></li>
+                                            <li><a href="/en/invest_in_biopharma">INVEST IN BIOPHARMA</a></li>
+                                            <li><a href="/en/delta_process_academy">DELTA PROCESS ACADEMY</a></li>
+                                    </ul>
+                            </div>
+                    </div>
+                    <div class="subnav-row">
+                    </div>
+               
+                </div>
+             </li>
+        </ul>
+    
+            </li>   
+            <li class="">
+                <a href="/en/newsroom">NEWSROOM</a>
+                
+                         <ul class="">
+                <li>
+                    <a href="/en/gallery">GALLERY</a>                   
+                    
+                </li>
+                <li>
+                    <a href="/en/media_kit">MEDIA KIT</a>                   
+                    
+                </li>
+        </ul>
+    
+            </li>   
+            <li class="">
+                <a href="/en/library">LIBRARY</a>
+                
+                     
+            </li>   
+            <li class="">
+                <a href="/en/jobs">JOBS</a>
+                
+                     
+            </li>   
+            <li class="">
+                <a href="/en/links">LINKS</a>
+                
+                     
+            </li>   
+    </ul>
+</div>
+
+
+                <div class="site-actions">
+                    <div class="row">
+                        <ul class="langselect">
+                            <li class=""><a href="/nl/belgochlor">NL</a></li>
+                            <li class=""><a href="/fr/belgochlor">FR</a></li>
+                            <li class="current"><a href="/en/belgochlor">EN</a></li>
+                        </ul>
+<form action="/en/search/keywords" class="searchbox" method="post">                            <label for="query">Search</label>
+                            <div class="control-group">
+                                <input type="text" name="query" id="query" value="" />
+                                <input type="submit" name="" value="Zoek" />
+                            </div>
+</form>                        <!-- search -->
+                    </div>
+                    <div id="logon-widget-container">
+
+<form action="/en/Account/LogOn?Length=7" class="login clearfix" data-ajax="true" data-ajax-method="POST" data-ajax-mode="replace" data-ajax-update="#logon-widget-container" id="login-form" method="post">    <div class="fll">
+        <label for="extranet-user-login" style="cursor: auto;">Extranet</label>
+    </div>
+    <div class="inputs">
+        <div class="control-group">
+            <input class="placeholder" id="UserName" name="UserName" placeholder="User" type="text" value="" />
+            <span class="checkbox">
+            <input class="tipsy" data-val="true" data-val-required="The RememberMe field is required." id="RememberMe" name="RememberMe" title="remember me" type="checkbox" value="true" /><input name="RememberMe" type="hidden" value="false" />
+            </span>
+        </div>
+        <div class="control-group">
+            <input class="placeholder" id="Password" name="Password" placeholder="Password" type="password" />
+            <input type="submit" name="" value="login" />
+        </div>
+        <a href="http://extranet.essenscia.be/Account/ForgotPassword">Forgotten password?</a>
+    </div>
+</form><!-- login -->                    </div>
+                </div><!-- /site-actions -->
+            </div><!-- /container_12 -->
+        </div><!-- / header -->
+
+        <div class="main">
+            
+<div class="container_12">
+    <div class="content">
+        <div class="row">
+            <div class="grid_8 article">
+                <h1>BELGOCHLOR</h1>
+                <div class="article-content-full">
+                   <P>
+<TABLE>
+    <TBODY>
+        <TR>
+            <TD>&nbsp;<IMG style="HEIGHT: 200px; WIDTH: 200px" vspace=2 src="/Upload/Images/babyswimmingpool.png"></TD>
+            <TD>&nbsp; </TD>
+            <TD>BelgoChlor is a professional product section within essenscia.
+            <P>It was started in 1994 and combines the Belgian chlorine producers&nbsp;INOVYN and VYNOVA.</P>
+            <P>The mission of BelgoChlor is to represent the chlorine producing industry in Belgium.</P>
+            </TD>
+        </TR>
+    </TBODY>
+</TABLE>
+</P>
+<P>BelgoChlor in particular&nbsp; :</P>
+<UL>
+    <LI>Stimulates contacts and dialogue with the major stakeholders, both professional and non-professional;
+    <LI>Supplies, in collaboration with <A href="http://www.eurochlor.org/">EuroChlor</A>, scientific information to the competent authorities, political world, media, industry, ..., in order to provide objective and scientific data in the discussions at hand;
+    <LI>Stimulates best practices in the field of safety, environment and health, which supports the chlorine industry to continue to take its responsible and important role in our society. </LI>
+</UL>
+                   
+                </div>
+            </div><!-- / grid_8 article -->
+        </div>
+        <div class="row">
+        </div>
+    </div><!-- / content -->
+
+    <div class="aside">
+
+
+<div class="row">
+    
+    <div id="dashboard_6fdd2a9a-8bf6-401b-b53d-dc7ac76767ec" class="dashboard-wrapper ContactDashboard grid_4 no-readmore ">
+        
+ <div class="widget no-readmore0">
+    <div class="widget-header">
+        <h3><a href="#">Contact</a></h3>
+    </div>
+    <div class="widget-content">
+        <ul class="item-links unstyled">
+                <li class="">
+                    <a href="/en/our_team?focus-contact=74">
+                        <p class="item-name">Philippe Cornille</p>
+                        <p class="item-position">Senior Advisor Environment</p>
+                    </a>
+                </li>
+        </ul>
+    </div>
+</div>
+
+    </div>
+    
+</div>
+    </div><!-- / aside -->
+</div><!-- / container_12 -->
+        </div><!-- / main -->
+    </div>
+    <!-- /upperpart -->
+    <div class="footer">
+        <div class="container_12">
+            <div class="grid_8 prefix_4 companydetails clearfix">
+                <a href="http://www.essenscia.be" class="companyname">essenscia</a>
+                <span class="companydescription">Belgian Federation for Chemistry and Life Sciences Industries</span>
+            </div>
+            <div class="grid_8 prefix_4 addressdetails">
+                BluePoint <br />
+                Boulevard Auguste Reyers 80<br />
+                1030 Brussels <br />
+                +32 (0)2 238 97 11<br />
+                <a href="mailto:info@essenscia.be" class="email">info@essenscia.be</a>
+                <ul class="socialmedia clearfix">
+                    <li><a href="http://www.linkedin.com/groups/essenscia-4230565?goback=%2Egna_4230565"  target="_blank" class="linkedin" title="Join our Linkedin professional network">Join our Linkedin professional network</a></li>
+                    <li><a href="https://www.facebook.com/pages/essenscia/212688648810298"  target="_blank" class="facebook" title="Like us at Facebook">Like us at Facebook</a></li>
+                    <li><a href="https://twitter.com/essenscia"  target="_blank" class="twitter" title="Follow us at twitter">Follow us at twitter</a></li>
+                </ul>
+            </div>
+            <div class="grid_8 prefix_4">
+                <div class="legalstuff">
+                    <div style="float: left; padding-top: 12px;">
+                        <a href="/en/contact-us">Route description</a>
+                        <a href="/en/disclaimer">Disclaimer</a>
+                        <a href="/en/sitemap">Sitemap</a>
+                    </div>
+                    <div class="socialmedia2">
+                        <a href="" class="responsibleCare" title="Responsible Care: Our commitment to sustainability">Responsible Care</a>
+                    </div>
+                </div>
+            </div>
+        </div><!-- / container_12 -->    
+    </div><!-- /footer -->
+    
+    <div id="grid-pager-template" style="display:none;">
+        <div class="pager">
+            <form>
+                <a href="#" class="first" title="Go to first page">First</a>
+                <a href="#" class="prev" title="Go to previous page">Prev</a>
+                <input type="text" class="pagedisplay"/>
+                <span class="separator">of</span>
+                <span class="totalpages"></span>
+                <select class="pagesize">
+                    <option selected="selected"  value="10">10</option>
+                    <option value="20">20</option>
+                    <option value="30">30</option>
+                    <option  value="40">40</option>
+                </select>
+                <a href="#" class="next" title="Go to next page">Next</a>
+                <a href="#" class="last" title="Go to last page">Last</a>
+
+            </form>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var _gaq = [['_setAccount', 'UA-36872259-1'], ['_trackPageview']];
+        (function (d, t) {
+            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g, s)
+        } (document, 'script'));
+    </script>
+
+</body>
+</html>

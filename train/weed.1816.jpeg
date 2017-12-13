@@ -1,0 +1,668 @@
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24438012-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+		<!DOCTYPE html>
+		<html lang="en-US">
+	    <head>
+	        
+	        <!-- Site title -->
+	        <title>ITP | Home</title>
+	        
+	        <!-- Favicons -->
+	        <link rel="shortcut icon" href="favicon.ico">
+	        <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+	        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
+	        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
+	        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144-precomposed.png">
+	        
+	        <!-- Meta tags -->
+	        <meta charset="UTF-8">
+	        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	        <meta name="description" content="Identification Technology Program is USDA's source for resources and tools for screening and identification of plant pests.">
+	        
+	        <!-- Normalize -->
+	        <link rel="stylesheet" href="css/normalize.css">
+	        
+	        <!-- Main style -->
+	        <link rel="stylesheet" href="css/style.css">
+	        
+	        <!-- Layout style -->
+	        <link rel="stylesheet" href="css/layout.css">
+	        
+	        <!-- Colors style -->
+	        <link rel="stylesheet" href="css/colors.css">
+	        
+	        <!-- Retina icons -->
+	        <link rel="stylesheet" href="css/fontawesome.css">
+	        
+	        <!-- Responsive style -->
+	        <link rel="stylesheet" media="(min-width:0px) and (max-width:760px)"  href="css/mobile.css">
+	        <link rel="stylesheet" media="(min-width:761px) and (max-width:1080px)" href="css/720.css">
+	        <link rel="stylesheet" media="(min-width:1081px) and (max-width:1300px)" href="css/960.css">
+	        <link rel="stylesheet" media="(min-width:1301px)" href="css/1200.css">
+	        
+	        <!-- Fonts Google -->
+	        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700' rel='stylesheet' type='text/css'>
+	        <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+	        
+	        <!-- Fonts library -->
+	        <link rel="stylesheet" href="css/fonts.css">
+	        
+	        <!-- Load jQuery -->
+	        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>
+	        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+			
+		<!-------  EXTRA META DATA FROM ORIGINAL HEADER  ----------->
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<!--  <title>idtools.org | Home</title>-->
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+		<!--<link rel="stylesheet" href="css/reset.css" /> This was resetting all fonts-->
+		<!--<link rel="stylesheet" href="css/960.css" />-->
+		<link rel="stylesheet" href="css/style.css" type="text/css">
+		<link rel="stylesheet" href="admin/css/main.css" type="text/css" />
+	<!--	<script type="text/javascript" src="id/includes/js/cufon-yui.js"></script>
+		<script type="text/javascript" src="id/includes/fonts/Vegur.font.js"></script>	 -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+		<link href="id/includes/css/chosen.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="id/includes/js/chosen.jquery.min.js"></script>
+		<script type="text/javascript" src="id/includes/js/chosen.jquery.js"></script>
+		<link href="favicon.ico" rel="icon" type="image/x-icon" />
+		
+		<script type="text/javascript">
+  
+		
+		$(document).ready(function(){
+			$(".chosen-select:not('#sortby')").chosen({allow_single_deselect:true});
+			$("#sortby.chosen-select").chosen();
+			$('#category.chosen-select').val('').trigger('liszt:updated');$('#sortby.chosen-select').val('').trigger('liszt:updated');var category = ;			$(".chosen-select").on('change', function(){
+				$name = $(this).attr('id');
+				if($name=="sortby"){
+					$(this).closest('form').children('input[name="category"]').val(category);
+					var val = $('#category'+category).val();
+					$(this).closest('form').children('input[name="keyword"]').val(val);
+					$(this).closest('form').submit();
+				} else {
+					$(this).closest('form').submit();
+				}
+				
+			});
+		});
+		</script>
+		<style type="text/css">
+
+		
+			div.categories {
+				margin-top: 1em;
+				margin-bottom: 1em;
+				width: 100%;
+			}
+			div.categories > div {
+				float: left;
+				width: 25%;
+			}
+			div.categories > div > form > em {
+				display: block;
+				margin-bottom: 10px;
+			}
+			
+			a.active {
+				background-color: #292929 !important;
+				border-color: white !important;
+			}
+			
+			
+		</style>
+	
+	    </head>
+	    <!-- OPEN TAG NOTE HTML Tag still open (closes in getFooter()) -->
+						
+				
+	   <body>
+	
+	        <!-- Wrapper -->
+	        <div id="wrapper" class="boxed">
+	            
+	            <!-- Header -->
+	            <header id="header" class="dark" role="banner">
+	                
+	                <!-- Top bar -->
+	                <div class="top-bar dark">
+	                    <div class="inner-wrapper">
+	                        
+	                        <!-- Responsive menu -->
+	                        <a class="click-to-open-menu"><i class="fa fa-align-justify"></i></a>
+	                        
+	                        <!-- Top Right menu -->
+	                        <nav class="top-menu" role="navigation">
+	                            <ul class="top-menu">
+	                              <!--  <li><a href="http://www.ipmimages.org/browse/nodethumb.cfm?Node=5" target="_blank">ITP Node</a>  add <span></span> spans for drop downs! -->
+	                                <!-- Optional SubMenu -->
+	                                <!--  
+	                                    <ul class="sub-menu">
+	                                        <li><a href="index.html">Home page</a></li>
+	                                        <li><a href="index_1.html">Home page 1</a></li>
+	                                        <li><a href="index_2.html">Home page 2</a></li>
+	                                        <li><a href="index_3.html">Home page 3</a></li>
+	                                        <li><a href="index_4.html">Home page 4</a></li>
+	                                    </ul>
+	                                    
+	                                </li>-->
+	                               <!--   <li><a href="http://images.bugwood.org/imageid" target="_blank">imageID</a>
+	                                 
+	                                    <ul class="sub-menu">
+	                                        <li><a href="blog.html">Blog style</a></li>
+	                                        <li><a href="blog_grid.html">Blog grid</a></li>
+	                                        <li><a href="blog_left_sidebar.html">Blog left sidebar</a></li>
+	                                    </ul>
+	                                    
+	                                </li>-->
+	                                <li><a href="http://images.bugwood.org/idpic" target="_blank">IDpic</a>
+	                                <!-- 
+	                                    <ul class="sub-menu">
+	                                        <li><a href="blog.html">Blog style</a></li>
+	                                        <li><a href="blog_grid.html">Blog grid</a></li>
+	                                        <li><a href="blog_left_sidebar.html">Blog left sidebar</a></li>
+	                                    </ul>
+	                                    -->
+	                                </li>
+	                           
+	                         	  
+								<li><a href="http://idtools.org/admin" target="_blank">FSM</a>
+								 <li><a href="http://www.ipmimages.org/browse/nodethumb.cfm?Node=5" target="_blank">Bugwood ITP Node</a>
+	                                <!-- 
+	                                    <ul class="sub-menu">
+	                                        <li><a href="post_single.html">Post single</a></li>
+	                                        <li><a href="post_single_review.html">Single review</a></li>
+	                                        <li><a href="post_single_image_full.html">Single fullwidth image</a></li>
+	                                        <li><a href="post_single_full_page.html">Single full page</a></li>
+	                                        <li><a href="post_single_audio.html">Single audio</a></li>
+	                                        <li><a href="post_single_video.html">Single video</a></li>
+	                                        <li><a href="post_single_gallery.html">Single slider</a></li>
+	                                        <li><a href="post_single_no_image.html">Single no image</a></li>
+	                                    </ul>
+	                                    -->
+	                                </li>
+	                                <!-- 
+	                                <li><a href="contactITP.php">Contact</a>
+	                                    <ul class="sub-menu">
+	                                        <li><a href="gallery_full_page.html">Gallery full page</a></li>
+	                                        <li><a href="gallery.html">Gallery sidebar</a></li>
+	                                        <li><a href="gallery_single_full_page.html">Single gallery full page</a></li>
+	                                        <li><a href="gallery_single.html">Single sidebar</a></li>
+	                                    </ul>
+	                                    -->
+	                                </li>
+	                                
+	
+	                            </ul>
+	                        </nav>
+	                        
+	                        <!--  Weather
+	    						
+	                        <div class="weather-report">
+	                            <span class="report">+28°C</span>
+	                            <img src="images/weather/light-weather-thunder.png" alt="Sunny">
+	                            <span class="city">London, England</span>
+	                        </div>
+	                        -->
+	                    </div>                    
+	                </div>
+	                
+	                <div class="inner-wrapper row" style="height: 90px;"> <!-- changed height! -->
+	                    
+	                    <!-- Logo -->
+	                    <div id="logo" style="height: 90px; padding-top: .5em;"> <!-- changed padding to fit adjusted height -->
+	                        <h1 id="site-logo" ><a href="index.php"><span>ITP</span></a></h1> 
+	                        <h2 id="site-description">Identification Technology Program</h2>
+	                    </div>
+	                    
+	                    <!-- Ad banner -->
+						<!--
+	                    <div class="ad-banner-728x90">
+	                        <a href="http://themeforest.net/user/CreativeKingdom/portfolio?ref=CreativeKingdom" target="_blank"><img src="demo/728x90.gif" alt="Banner"/></a>
+	                        
+	                    </div>
+	                    -->
+	                </div>
+	                
+	                <!-- Primary navigation -->
+	                <nav class="primary-menu dark sticky-menu" role="navigation">
+	                    <div class="inner-wrapper">
+	                        <!-- Responsive menu -->
+	                        <a class="click-to-open-menu"><i class="fa fa-align-justify"></i></a>
+	                        
+	                        <!-- Main Bottom Right Menu -->
+	                        <ul class="main-menu">
+	                         <!--   <li><a class=" " href="news.php">News</a></li> -->
+	                            <li><a class=" " href="identify.php">Find ID support</a></li>
+	                            <li><a class=" " href="aboutITPproducts.php">ITP Products</a></li>
+								<li><a class=" " href="aboutITP.php">About ITP</a></li>
+								<li><a class=" " href="contactITP.php">Contact</a></li>
+	                        </ul>                        
+	                    </div>
+	                </nav>
+	                
+	            </header>
+	            
+	            <!-- OPEN TAG NOTES: body tag still open! (Closes in getFooter())-->
+		
+	 
+        	<!-- Page title -->
+        <!--    <div id="above-the-fold" class="above-the-fold" style="margin-bottom: 0em;"> <!-- default margin-bottom: 2.5em 
+                <div class="inner-wrapper">
+                    <h2 class="page-title">About ITP</h2>
+                </div>
+            </div>            
+            <div class="spacer"></div> -->
+         
+            <!-- Section -->
+            
+            <section id="section">
+                <div class="inner-wrapper">
+                    
+                    <!-- Main -->
+                    <div id="main" class="left" role="main">
+                        
+                        <!-- Block layout five -->
+                        <div class="block-layout-five">
+                            
+  
+   
+                 <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_10_27_2017.php"><img src="images/news/1600001-army-idaids.jpg" alt="Post"/></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_10_27_2017.php">ID Aids supporting identification of the fall armyworm</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">October 27, 2017</span>
+                                      
+                                    </div>
+                                    <p>The fall armyworm (<em>Spodoptera frugiperda</em>) is native to warm regions of the Western hemisphere.  
+                                In the United States, ideal climates in the southern regions of Florida and Texas provide overwintering 
+                                habitat, allowing   [...]</p>
+                                </div>
+                            </div>
+ 
+                 <!-- Post --> 
+                                <div class="main-item">
+                                  <div class="post-img">
+                                    <a href="news_09_07_2017.php"><img src="images/news/antkeymobile.jpg" alt="Post" /></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_09_07_2017.php">Antkey Mobile now available</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">September 7, 2017</span>
+                                
+                                    </div>
+                                    <p>The USDA APHIS ITP team is pleased to announce the latest addition to our mobile app collection: <em>Antkey Mobile</em>. Developed in cooperation with the tool's author, Eli Sarnat, and Australia's Identic team, this app is based on ITP's web-based tool, <a href="http://antkey.org" target="_blank">Antkey</a> [...]</p>
+                                </div>
+                            </div>  
+ 
+
+                   <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_08_30_2017.php"><img src="images/news/powdery_mildew-idaids-5364409.jpg" alt="Post"/></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_08_30_2017.php">ID Aids for powdery mildew disease</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">August 30, 2017</span>
+                                      
+                                    </div>
+                                    <p>As summer starts to fade and autumn approaches, there is much variability in the weather.  Some days 
+                                are rainy and humid, others are hot and dry, and the nights are noticeably cooler—ideal conditions to 
+                                see symptoms of powdery mildew on plants, trees, fruits, or [...]</p>
+                                </div>
+                            </div>
+
+
+
+                  <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_07_10_2017.php"><img src="images/news/OSU_Pavel_workshop.jpg" alt="Post"/></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_07_10_2017.php">OSU acarology summer program</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">July 10, 2017</span>
+                                      
+                                    </div>
+                                    <p> <p>The <a href="https://acarology.osu.edu/programs" target="_blank">Acarology Summer Program</a> has been held at Ohio 
+                                State University (OSU) for the last 66 years, making it the longest running program for training in identification of 
+                                mites and ticks in the world. The 2017 session was held from June 19 through July 7, and it included three workshops. 
+                                 Introductory Acarology served either as a stand-alone course or [...]</p>
+                                </div>
+                            </div>
+ 
+ 
+ 
+ 
+ 
+                  <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_06_27_2017.php"><img src="images/news/phsb-idaids-5477252.jpg" alt="Post"/></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_06_27_2017.php">ID Aids for the polyphagous shot hole borer (PSHB)</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">June 27, 2017</span>
+                                      
+                                    </div>
+                                    <p>The polyphagous shot hole borer (PSHB), an ambrosia beetle known as <em>Euwallacea</em> sp., has become a serious pest
+                                 in southern California, threatening urban, forest, and agricultural hardwood trees and [...]</p>
+                                </div>
+                            </div>
+ 
+ 
+ 
+                     <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_05_25_2017.php"><img src="images/news/ppt.jpg" alt="Post"/></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_05_25_2017.php">Plant Protection Today</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">May 25, 2017</span>
+                                      
+                                    </div>
+                                    <p><a href="https://www.aphis.usda.gov/aphis/ourfocus/planthealth" target="_blank">USDA APHIS Plant Protection and Quarantine (PPQ)</a> collaborates with many partners, cooperators, and stakeholders to stay on the forefront of plant health. PPQ develops new scientific plant protection methods and enhancements that help safeguard our nation’s agricultural and natural resources and facilitate safe trade of agricultural goods. PPQ [...]</p>
+                                </div>
+                            </div>
+ 
+                   <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_03_10_2017.php"><img src="images/news/chondrilla1.jpg" alt="Post"/></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_03_10_2017.php">Selected ID Aids for rush skeletonweed</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">March 15, 2017</span>
+                                      
+                                    </div>
+                                    <p><em>Chondrilla juncea</em> (rush skeletonweed or hogbite) is an invasive, perennial flowering plant introduced in 
+                                parts of Australia, South America, and North America.  In the U.S., the weed is classified as noxious, 
+                                prohibited, or banned in nine western states and present in sixteen states.  It can displace native 
+                                plants, like the threatened [...]</p>
+                                </div>
+                            </div>
+ 
+                           
+                                     <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_02_23_2017.php"><img src="images/news/InvBeeWorkshop.jpg" alt="Post"/></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_02_23_2017.php">ITP conducts workshop to kick off development of invasive bee tool</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">February 23, 2017</span>
+                                      
+                                    </div>
+                                    <p>ITP’s identification tools are a significant undertaking for the taxonomic expert tool authors. Tool development often takes multiple years, and tools have many pieces to them. To help facilitate timely delivery and useful products for PPQ, ITP offers each tool author team [...]</p>
+                                </div>
+                            </div>
+                           
+                           <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_12_21_2016.php"><img src="images/news/obb-idaids.jpg" alt="Post" /></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_12_21_2016.php">ID Aids for olive bark beetle</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">December 21, 2016</span>
+                                      
+                                    </div>
+                                    <p>This set of six ID Aids was selected to assist in identification needs following a recent confirmation from the <a href="https://www.cdfa.ca.gov/" target="_blank">California Department of Food and Agriculture</a> that <em>Phloeotribus scarabaeoides</em> (olive bark beetle) [...]</p>
+                                </div>
+                            </div>  
+                            
+                            <!-- Post -->
+                            <div class="main-item">
+                                <div class="post-img">
+                                    <a href="news_11_30_2016.php"><img src="images/news/palmhispines.jpg" alt="Post" /></a>
+                                </div>
+                                <div class="post-meta">
+                                    <h3><a href="news_11_30_2016.php">Hispine palm pest fact sheets now available</a></h3>
+                                    <div class="post-dca">
+                                        <span class="date">November 30, 2016</span>
+                                      
+                                    </div>
+                                    <p>ITP is pleased to announce the release of a new set of fact sheets and images, <a href="http://idtools.org/id/palms/hispines/" target="_blank"><em>Hispine Pests of Palms</em></a>. This website focuses on the chrysomelid pests of palms, which are the most important beetle family that feeds [...]</p>
+                                </div>
+                            </div>  
+                           
+                           
+                           
+                           
+                           
+                       
+                           
+                           
+                       
+                           
+                           
+                           
+                           
+                           
+                            
+                           
+                            
+                            
+                   
+                       
+
+                        
+                        
+                        <!-- Pagination -->
+                        <ul class="page-numbers">
+                            <li><span class="page-numbers current">1</span></li>
+                           <li><a class="page-numbers" href="index2.php">2</a></li>
+                           <li><a class="page-numbers" href="index3.php">3</a></li>
+                         <!--    <li><a class="page-numbers" href="#">3</a></li>
+                            <li><a class="page-numbers" href="#">4</a></li>
+                            <li><a class="page-numbers" href="#">Next</a></li> -->
+                        </ul>
+                        
+                    </div>
+                        
+                    </div>
+                     
+                   <aside id="sidebar" role="complementary">
+                        
+                        <!-- Search widget
+                        <div class="widget">
+                            <h3 class="widget-title">Search</h3>
+                            <form class="searchform">
+                                <input type="text" placeholder="To search type and hit enter"/>
+                                <input type="submit" value="&#xf002;"/>
+                            </form>
+                        </div> -->
+                        
+                        <!-- Banner 300x250 -->
+                       
+                        
+                       			<!-- Archive widget -->
+                        <div class="widget">
+                            <h3 class="widget-title">Archive</h3>
+                            <ul class="widget-archive">
+                            	<li><a href="news_10_27_2017.php">October 2017</a> (1)</li>
+                            	<li><a href="news_09_07_2017.php">September 2017</a> (1)</li>
+                            	<li><a href="news_08_30_2017.php">August 2017</a> (1)</li>
+                            	<li><a href="news_07_10_2017.php">July 2017</a> (1)</li>
+                            	<li><a href="news_06_27_2017.php">June 2017</a> (1)</li>
+                            	<li><a href="news_05_25_2017.php">May 2017</a> (1)</li>
+                            	<li><a href="news_03_10_2017.php">March 2017</a> (1)</li>
+                            	<li><a href="news_02_23_2017.php">February 2017</a> (1)</li>
+                            <!--	<li><a href="news_12_21_2016.php">December 2016</a> (1)</li>
+                            	<li><a href="news_11_30_2016.php">November 2016</a> (1)</li>
+                            	<li><a href="news_october_2016.php">October 2016</a> (2)</li>
+                            	<li><a href="news_09_30_2016.php">September 2016</a> (1)</li>
+                            	<li><a href="news_july_2016.php">July 2016</a> (2)</li>
+                            	<li><a href="news_june_2016.php">June 2016</a> (2)</li>
+                               <li><a href="news_05_17_2016.php">May 2016</a> (1)</li>
+                            	<li><a href="news_04_07_2016.php">April 2016</a> (1)</li>
+                            	<li><a href="news_03_10_2016.php">March 2016</a> (1)</li>
+                                <li><a href="news_02_23_2016.php">February 2016</a> (1)</li> 
+                                <li><a href="news_01_25_2016.php">January 2016</a> (1)</li> -->
+                                <li><a href="news_2016.php">2016</a> (14)</li>
+                                <li><a href="news_2015.php">2015</a> (2)</li>
+                              
+                                <li><a href="index.php">All articles</a></li>
+                            </ul>
+                        </div>
+                        
+                        <!-- Category widget -->
+                        <div class="widget">
+                            <h3 class="widget-title">Categories</h3>
+                            <ul class="widget-categories">
+                                <li><a href="releases.php">Product releases</a></li>
+                                <li><a href="idaids.php">ID Aids</a></li>
+                                <li><a href="news.php">News</a></li>
+                             <!--   <li><a href="#">Photoshop</a></li>
+                                <li><a href="#">Magazine</a></li>
+                                <li><a href="#">Development</a></li> -->
+                            </ul>
+                        </div>
+				                        
+                       
+                        
+                        
+                    </aside>
+                    
+                </div>
+            </section>
+		<!-- wrapper -->
+	</body>
+					<!-- Footer-->
+		            <footer id="footer" role="contentinfo">
+		            <!--    <div class="inner-wrapper"> 
+		                    
+		                 <!--    About widget 
+		                    <div class="widget">
+		                        <h3 class="widget-title">About theme</h3>
+		                        <p>DialyMagazine is clean & professional Html5/Css3 magazine template. It is full responsive so it adapts to any device it’s viewed on.
+		                        It’s loaded with few header styles, different layouts, mega menu, fixed navigation and more...</p>
+		                    </div>                    
+		                    
+		                    <!-- Recent comments 
+		                    <div class="widget">
+		                        <h3 class="widget-title">Recent comments</h3>
+		                        <ul class="recent-comments">
+		                            <li>
+		                                <p class="author">FreddoFrog</p>
+		                                <h3><a href="#">I love the template! Really easy to modify. Really first class!</a></h3>
+		                            </li>
+		                            <li>
+		                                <p class="author">Noosalife</p>
+		                                <h3><a href="#">Perfect design, have a client right now that needs that sort of display.</a></h3>
+		                            </li>
+		                            <li>
+		                                <p class="author">Wi_Hoosier</p>
+		                                <h3><a href="#">CreativeKingdom knocked it out of the park with this one.</a></h3>
+		                            </li>
+		                        </ul>
+		                    </div>
+		                    
+		                    <!-- Recent posts 
+		                    <div class="widget">
+		                        <h3 class="widget-title">Recent posts</h3>
+		                        <ul class="recent-posts">
+		                            <li>
+		                                <div class="image">
+		                                    <a href="#"><img src="demo/80x65.gif" alt="Post"/></a>
+		                                </div>
+		                                <div class="text">
+		                                    <h3><a href="#">Sweden fights back as Pfizer move on jobs</a></h3>
+		                                    <p class="date">September 16, 2104</p>
+		                                </div>
+		                            </li>
+		                            <li>
+		                                <div class="image">
+		                                    <a href="#"><img src="demo/80x65.gif" alt="Post"/></a>
+		                                </div>
+		                                <div class="text">
+		                                    <h3><a href="#">Sweden fights back as Pfizer move on jobs</a></h3>
+		                                    <p class="date">September 16, 2104</p>
+		                                </div>
+		                            </li>
+		                            <li>
+		                                <div class="image">
+		                                    <a href="#"><img src="demo/80x65.gif" alt="Post"/></a>
+		                                </div>
+		                                <div class="text">
+		                                    <h3><a href="#">Sweden fights back as Pfizer move on jobs</a></h3>
+		                                    <p class="date">September 16, 2104</p>
+		                                </div>
+		                            </li>
+		                        </ul>
+		                    </div>
+		                    
+		                    <!-- Category widget 
+		                    <div class="widget">
+		                        <h3 class="widget-title">Categories widget</h3>
+		                        <ul class="widget-categories">
+		                            <li><a href="#">Photography</a></li>
+		                            <li><a href="#">Design</a></li>
+		                            <li><a href="#">Fashion</a></li>
+		                            <li><a href="#">Photoshop</a></li>
+		                            <li><a href="#">Magazine</a></li>
+		                            <li><a href="#">Development</a></li>
+		                            <li><a href="#">Illustration</a></li>
+		                            <li><a href="#">Code</a></li>
+		                            <li><a href="#">Business</a></li>
+		                        </ul>
+		                    </div>
+		                    
+		                </div> <!-- closes class "inner-wrapper"-->
+		                
+		                <!-- Copyright -->
+		                <div id="copyright">
+		                    <div class="inner-wrapper">
+		                        <div class="row">
+		                          <!--  <div class="grid_6">&copy; Copyright 2014. All rights reserved.</div>
+		                            <div class="grid_6">Theme made by <a href="http://themeforest.net/user/CreativeKingdom/portfolio?ref=CreativeKingdom" target
+		                            ="_blank"
+		                            >CreativeKingdom</a> :)</div> -->
+		                        </div>
+		                    </div>
+		                </div>
+		                
+		            </footer>
+		            
+		        </div> <!-- closes class from body....$namehere
+		    
+		    <!-- Load scripts -->    
+		    <script src="js/modernizr.min.js"></script>
+		    <script src="js/easing.min.js"></script>
+		    <script src="js/stickykit.min.js"></script>
+		    <script src="js/flexslider.min.js"></script>
+		    <script src="js/isotope.js"></script>
+		    <script src="js/fitvids.min.js"></script>
+		    <script src="js/contact.form.js"></script>
+		    <script type="text/javascript" src="id/includes/js/chosen.jquery.min.js"></script
+		    <script type="text/javascript" src="id/includes/js/chosen.jquery.js"></script
+		    <script src="js/init.js"></script>
+		    
+		    </body>
+		</html>
+
+			       

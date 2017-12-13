@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="nl-BE">
+<head id="Head">
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-38051169-1']);
+	_gaq.push(['_setCustomVar', 1, 'UserName', 'anonymous user']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+	var ga = document.createElement('script');
+	ga.type = 'text/javascript';
+	ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d8870976aa","applicationID":"3604372","transactionName":"YFwBNUZXVxAHV0VbV1kWIjJkGV0GAFVEXkwZWBARTA==","queueTime":0,"applicationTime":372,"agent":"","atts":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright (c) 2017 by Agrarische website" /><meta id="MetaAuthor" name="AUTHOR" content="Agrarische website" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link id="ADesktopModules_r_a_d_rotator" rel="stylesheet" type="text/css" href="/DesktopModules/r.a.d.rotator/module.css" /><link id="APortals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css" /><link id="APortals_79_Skins_Agrarisch_" rel="stylesheet" type="text/css" href="/Portals/79/Skins/Agrarisch/skin.css" /><link id="APortals_79_" rel="stylesheet" type="text/css" href="/Portals/79/portal.css" /><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" ></script><link href="/WebResource.axd?d=lskJlCNNtku5AOknQOfhhnOrVKzdDwTrV3qs_toaSltY3NaRFuqnAannzhtJBPB_hEGbBN10OVpofuGWhFvw2dhALcIZmHk1ewBTXP0o1ehMJyTvCs3fwDBYLcSKHe3Fg5sqGA2&amp;t=634497299585002315" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=G65dRUSmHHze7j558zxxUrzhvo-zWr1RuO_iXDWxDChWr2d-8fS94_35UrE8eYxgKAwlVQc8yZbNKzaLqQEAqRQaDPR87OegCyc8B3fwYgMCONHMa62lTgJC4wW219adcE4fKENowXo6hnoJzw2T5FahGXk1&amp;t=634497299585002315" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link type="text/css" rel="stylesheet" href="/WebResource.axd?d=D7rAP1RaLUnyN1jzsz9A65L4txfXT1geSFhzCgkXDZTvZsA8R-VTtIdXG96dXrDRyDqBCv5dMuIzBF37dU-XqWch1bXFfz9TkgVNA86Kwr7_egB1tWzbJmEF4zeT078rOoSf0bEIJkuVrjlbkURk2L_bUiw1&amp;amp;t=634583662866959395" /><link type="text/css" rel="stylesheet" href="/Portals/79/Skins/Agrarisch/radmenu/MetaNavigation/styles.css" /><link type="text/css" rel="stylesheet" href="/Portals/79/Skins/Agrarisch/radmenu/GlobalNavigation/styles.css" /><title>
+	Veevoeding
+</title></head>
+<body id="Body">
+    <form name="Form" method="post" action="/nl/veevoeding" id="Form" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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UlRJQ0FMLUFMSUdOOiBtaWRkbGUiPjxBIGhyZWY9Imh0dHA6Ly93d3cuYXZldmVhZ3JhcmlzY2guYmUvbmwvdXctYXZldmUtemFha3ZvZXJkZXIiPkNvbnRhY3RlZXIgZWVuIEFWRVZFLSB6YWFrdm9lcmRlciBpbiB1dyBidXVydCAmZ3Q7PC9BPjxBIGhyZWY9Ii9EZWZhdWx0LmFzcHg/VGFiSUQ9MTA1MjgiPjwvQT48L1REPg0KICAgICAgICAgICAgPC9UUj4NCiAgICAgICAgPC9UQk9EWT4NCiAgICA8L1RBQkxFPmQCAg8PFgYfEBsAAAAAAIBrQAEAAAAfExsAAAAAAEBlQAEAAAAfDQKAA2QWAmYPFQGaBTxUQUJMRSBib3JkZXI9MCBjZWxsU3BhY2luZz0wIGNlbGxQYWRkaW5nPTA+DQogICAgICAgIDxUQk9EWT4NCiAgICAgICAgICAgIDxUUj4NCiAgICAgICAgICAgICAgICA8VEQgd2lkdGg9MjIwPjxBIGhyZWY9Imh0dHA6Ly93d3cuYXZldmVhZ3JhcmlzY2guYmUvRGVmYXVsdC5hc3B4P1RhYklEPTExNjk1Ij48L0E+PElNRyBzcmM9Ii9Qb3J0YWxzLzc5L2ltYWdlcy9aYWFrdm9lcmRlcnMvU0NIVVVSTUFOUyUyMDA0OS5qcGciPjxBIGhyZWY9Imh0dHA6Ly93d3cuYXZldmVhZ3JhcmlzY2guYmUvRGVmYXVsdC5hc3B4P1RhYklEPTExNjk1Ij48L0E+PC9URD4NCiAgICAgICAgICAgIDwvVFI+DQogICAgICAgICAgICA8VFI+DQogICAgICAgICAgICAgICAgPFREIHN0eWxlPSJURVhULUFMSUdOOiByaWdodDsgV0lEVEg6IDIyMHB4OyBIRUlHSFQ6IDYwcHg7IFZFUlRJQ0FMLUFMSUdOOiBtaWRkbGUiPjxBIGhyZWY9Imh0dHA6Ly93d3cuYXZldmVhZ3JhcmlzY2guYmUvbmwvdXctYXZldmUtemFha3ZvZXJkZXIiPkNvbnRhY3RlZXIgZWVuIEFWRVZFLSB6YWFrdm9lcmRlciBpbiB1dyBidXVydCAmZ3Q7PC9BPjxBIGhyZWY9Ii9EZWZhdWx0LmFzcHg/VGFiSUQ9MTA1MjgiPjwvQT48L1RE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" />
+</div>
+
+
+<script src="/js/dnncore.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"nl-BE","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"NaN (Niet-een-getal)","CurrencyNegativePattern":12,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-oneindig","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":2,"PositiveInfinitySymbol":"oneindig","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"dddd d MMMM yyyy H:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"H:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"d/MM/yyyy","ShortTimePattern":"H:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["zo","ma","di","wo","do","vr","za"],"ShortestDayNames":["zo","ma","di","wo","do","vr","za"],"DayNames":["zondag","maandag","dinsdag","woensdag","donderdag","vrijdag","zaterdag"],"AbbreviatedMonthNames":["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""],"MonthNames":["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december",""],"IsReadOnly":false,"NativeCalendarName":"Gregoriaanse kalender","AbbreviatedMonthGenitiveNames":["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec",""],"MonthGenitiveNames":["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december",""]}}';//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=7TGWmr-8fxj3U5CDwD9YZl5sQ1o1MCnQ8mnnhq9G7mEw8MHY6eAeK3K_Pc7OzPSXxp6l76fbqDTttlj-oK7ElK9vQlMF6F8F7FO-oEO0CZiyUqy8KNPAO_uj7vPwRhnvJjgKPMSqbJEBvgUOGu7n-WIeuCw1&amp;t=2e2045e2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=nCNIk1TcxOZRyGcEU5xxckjQDZrMLWWf3PKIb96n2R0I9EfSzghbjX9JJOjUY_XWINmrjqPS8iUEo6yR0-_B6WWlxLX3pQHl5TPTSJr1xzFv1eU1asPzgVSxkKo1&amp;t=ffffffffe7bf7efe" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=0_vZ8dJAac7rX0hIGVHLfKTjSD8271RGKU5bqOOatPnsGnuJCSCABnMTe8AV48FAuB_IS7Nfm7X0QLyUizixOyGDJtZ3HDWZ2xZ5Cv-edc4QPcsYiDyg2jG8dlVLs9i2BH-meA2&amp;t=ffffffffe7bf7efe" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=u6f2ADgitCBTsInwQvNYDh__MmRdsrdnKc6LI2E35NsnQ14hUT1TtnpwlQO3CY1Yn_kFMmhBK8EptzUFRzNJpdufsqVVREE6_ItVIjH-GlBdsHHc6HKxHC2vNeq3R5gdmnYkoQ2&amp;t=ffffffffe7bf7efe" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=3Qw1PrunEdmZqHKgZ-xELUGVZsMalt67t3vfQCRL3tU6xyx1Enb4GeOZZb52g0IBwG3-tJkXieTs1jG7AmyC5VjVWFtFu7ZVb5mK9h3W5JyQaS0cevYNQ54reTrCRhsxrZ0jwv5QhP4jaz-lTZTQiRseZfQ1&amp;t=ffffffffe7bf7efe" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=XDI2UPujiLQyXQPQcn6_ixeyAIADj86ute-TRjB-n88MiPJ_WU4_J69O0zDzOJkCdrzZIA5cznEN2essOn3kptOYIAFYsw7WTtL8A0vLuYtTtWvl0Kakft6AYL6A0WHgtLFcLg2&amp;t=ffffffffe7bf7efe" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div>
+<script language="javascript" type="text/javascript">
+    function CheckAddModuleValid()
+    {
+        if ("" == document.getElementById("itomni.ascx_txtTitle").value) {
+            document.getElementById("itomni.ascx_LabelTitleRequired").style.display = '';
+            return false;
+        }
+        else {
+            document.getElementById("itomni.ascx_LabelTitleRequired").style.display = 'none';
+            return true;
+        }
+    } 
+</script>
+        
+        
+
+<link rel="stylesheet" type"text/css" href="/Portals/79/Skins/Agrarisch/skin.css" media="screen">
+<script type="text/javascript" src="/Portals/79/Skins/Agrarisch/js/modernizr.js"></script>
+<script type="text/javascript" src="/Portals/79/Skins/Agrarisch/js/shared.js"></script>
+
+<link rel="StyleSheet" type="text/css" href="/Portals/79/Skins/Agrarisch/print.css" media="print">
+
+<!--[if lt IE 7 ]> <div id="PageBody" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><div id="PageBody" class="ie7"><![endif]-->
+<!--[if IE 8 ]><div id="PageBody" class="ie8"><![endif]-->
+<!--[if IE 9 ]><div id="PageBody" class="ie9"><![endif]-->
+<!--[if gt IE 9]><div id="PageBody"> <![endif]-->
+<!--[if !IE]><!--> <div id="PageBody"> <!--<![endif]-->
+
+    <div class="HiddenWeer"><div id="MeteoWeer"><!-- Deze moet hier ingelezen worden en dan verplaatst IE9 problemen met footer resizing --><script src="http://www.meteo.be/meteo/view/nl/1370090?filter=6447" type="text/javascript" ></script></div></div>
+
+    <div class="wrapper">
+        <header>
+            <nav class="MetaNavigation">
+                <div class="MetaNavigation960">
+                    <!-- ShowOnlyCurrent="80"               ShowOnlyCurrent="10898" -->
+                    <div id="dnn_dnnRadMenu_Meta_RadMenu1" class="radmenu RadMenu_MetaNavigation ">
+	<!-- 4.4.6 --><script type="text/javascript" src="/WebResource.axd?d=x_lScq8tg7BgKsYpbyqMabp6KiDDfNcfLuVcUYIJ5dEgYSRM1k5tZLKNTkUXR6w0vnfmZJ-c8WQvHN_41JQTzBrDCcURwUzSZkiYssdYRoRiEHhDCxodYc3ObKwpnLMNBr2Hbk8yfV5WXR0gEys3NJIWNlY1&amp;t=634583662866959395"></script><ul class="horizontal rootGroup">
+		<li class="item first"><a href="http://www.aveveagrarisch.be/agrarisch/tips" id="dnn_dnnRadMenu_Meta_RadMenu1_m0" class="link"><span class="text">Tips</span></a></li><li class="item"><a href="http://www.aveveagrarisch.be/agrarisch/actueel" id="dnn_dnnRadMenu_Meta_RadMenu1_m1" class="link"><span class="text">Actueel</span></a></li><li class="item"><a href="http://www.aveveagrarisch.be/agrarisch/over-aveve/bedrijfsprofiel" id="dnn_dnnRadMenu_Meta_RadMenu1_m2" class="link"><span class="text">Over AVEVE</span></a></li><li class="item"><a href="http://www.aveveagrarisch.be/agrarisch/vacatures" id="dnn_dnnRadMenu_Meta_RadMenu1_m3" class="link"><span class="text">Vacatures</span></a></li><li class="item"><a href="http://www.aveveagrarisch.be/agrarisch/zoeken" id="dnn_dnnRadMenu_Meta_RadMenu1_m4" class="link"><span class="text">Zoeken</span></a></li><li class="item"><a href="http://www.aveveagrarisch.be/agrarisch/contact" id="dnn_dnnRadMenu_Meta_RadMenu1_m5" class="link"><span class="text">Contact</span></a></li><li class="item last"><a href="javascript:void(window.open('http://www.aveve.be')) " id="dnn_dnnRadMenu_Meta_RadMenu1_m6" class="link"><span class="text">Groep AVEVE</span></a></li>
+	</ul><input type="hidden" id="dnn_dnnRadMenu_Meta_RadMenu1_Hidden" name="dnn$dnnRadMenu_Meta$RadMenu1" /><script type="text/javascript">window["dnn_dnnRadMenu_Meta_RadMenu1"] = RadMenu.Create("dnn_dnnRadMenu_Meta_RadMenu1");window["dnn_dnnRadMenu_Meta_RadMenu1"].Initialize({"Skin":"MetaNavigation","CausesValidation":false,"ExpandDelay":0,"Enabled":true},{});</script>
+</div>
+<!-- HACK -->
+<script type="text/javascript">
+var menu = window["dnn_dnnRadMenu_Meta_RadMenu1"];
+if(menu != null)
+{
+var menuImages = menu.DomElement.getElementsByTagName("img");
+for (var i = 0; i < menuImages.length; i++)
+{
+    menuImages[i].hspace = 0;
+}
+}
+</script>
+<!-- EINDE WIJZIGING -->
+                    <div class="ClearBoth"></div>
+                </div>
+            </nav>
+            <section class="Heading">
+                <div class="Logo"><a id="dnn_dnnLOGO_hypLogo" title="Agrarische website" href="http://www.aveveagrarisch.be/"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/79/images/logo.png" alt="Agrarische website" style="border-width:0px;" /></a></div>
+                <div class="HeadingOuter"><table class="TextTable"><tr><td><span id="dnn_TEXT_Header_lblText" class="HeadingText">AVEVE, de sterkste partner voor uw bedrijf</span>
+</td></tr></table></div>
+					
+					<div class="AanmeldenOuter">
+						<a href='/Default.aspx?tabid=10570' class="AanmeldenLink">
+							<div class="AanmeldenInner">
+								<div class="LoginGroot"><span id="dnn_TEXT_LoginGroot_lblText" class="LoginGrootSpan">Aanmelden</span>
+</div>
+								<div class="LoginKlein"><span id="dnn_TEXT_LoginKlein_lblText" class="LoginKleinSpan">Aanmelden met je AVEVE login</span>
+</div>
+							</div>
+						</a>
+					</div>
+				 
+            </section>
+        </header>
+
+        <nav class="GlobalNavigation clearfix">
+            <div class="MetaNavigation960">
+                <!-- ShowOnlyCurrent="61"               ShowOnlyCurrent="10897" -->
+                <div id="dnn_dnnRadMenu_Global_RadMenu1" class="radmenu RadMenu_GlobalNavigation ">
+	<!-- 4.4.6 --><ul class="horizontal rootGroup">
+		<li class="item first"><a href="http://www.aveveagrarisch.be/" id="dnn_dnnRadMenu_Global_RadMenu1_m0" class="link"><span class="text">Home</span></a></li><li class="item"><a href="http://www.aveveagrarisch.be/nl/veevoeding" id="dnn_dnnRadMenu_Global_RadMenu1_m1" class="link  focused"><span class="text">Veevoeding</span></a></li><li class="item last"><a href="http://www.aveveagrarisch.be/nl/teelten" id="dnn_dnnRadMenu_Global_RadMenu1_m2" class="link"><span class="text">Teelten</span></a></li>
+	</ul><input type="hidden" id="dnn_dnnRadMenu_Global_RadMenu1_Hidden" name="dnn$dnnRadMenu_Global$RadMenu1" /><script type="text/javascript">window["dnn_dnnRadMenu_Global_RadMenu1"] = RadMenu.Create("dnn_dnnRadMenu_Global_RadMenu1");window["dnn_dnnRadMenu_Global_RadMenu1"].Initialize({"Skin":"GlobalNavigation","CausesValidation":false,"ExpandDelay":0,"Enabled":true},{"dnn_dnnRadMenu_Global_RadMenu1_m1":{"CssClass":" focused"}});</script>
+</div>
+<!-- HACK -->
+<script type="text/javascript">
+var menu = window["dnn_dnnRadMenu_Global_RadMenu1"];
+if(menu != null)
+{
+var menuImages = menu.DomElement.getElementsByTagName("img");
+for (var i = 0; i < menuImages.length; i++)
+{
+    menuImages[i].hspace = 0;
+}
+}
+</script>
+<!-- EINDE WIJZIGING -->
+                
+                <div class="ClearBoth"></div>
+            </div>
+            <div class="GlobalNavigationShadow"></div>
+        </nav>
+    
+        <section class="SubHeading">
+            
+        </section>
+
+        <nav class="Breadcrumb">
+            <span id="dnn_dnnTEXT_lblText" class="BreadcrumbText">Je bent hier:</span>
+
+            <a href="/Default.aspx" class="BreadcrumbLink">
+                <span id="dnn_dnnTEXT_BreadcrumbHome_lblText" class="BreadcrumbHomeText">Home</span>
+
+            </a>
+            <span class="Sep">&nbsp;&gt;&nbsp;</span>
+            <span id="dnn_dnnBreadcrumb_lblBreadCrumb"><a href="http://www.aveveagrarisch.be/nl/veevoeding" class="BreadcrumbLink">Veevoeding</a></span>
+
+        </nav>
+
+        <section class="MainContent">
+            <div id="dnn_ContentPane" class="ContentPane"><a name="15242"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div id="dnn_ctr15242_ContentPane" class="NormalNoTitle_content"><!-- Start_Module_15242 --><div id="dnn_ctr15242_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr15242_HtmlModule_lblContent" class="Normal">
+	<h1>
+<table>
+    <tbody>
+        <tr>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+</h1>
+<h1>Veevoeders van AVEVE</h1>
+<p> </p>
+<h3></h3>
+<h3></h3>
+<table style="width: 700px;" class="overviewtable" cellspacing="0" cellpadding="0" classname="overviewtable">
+    <thead>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="WIDTH: 140px"><a href="/Default.aspx?TabID=10426"><img src="/Portals/79/images/Veevoeding/Vleesvarkens_B80V1203.gif" width="140" height="140"></a><a href="/Default.aspx?TabID=10426"></a></td>
+            <td style="WIDTH: 10px"> </td>
+            <td style="WIDTH: 170px">
+            <h3 class="overviewtitle"><a href="/Default.aspx?TabID=10426">Varkens</a> ></h3>
+            <ul>
+                <li><a href="/Default.aspx?TabID=10427">Biggen ></a>
+                </li>
+                <li><a href="/Default.aspx?TabID=10428">Zeugen ></a>
+                </li>
+                <li><a href="/Default.aspx?TabID=10429">Vleesvarkens ></a>
+                </li>
+                <li><a href="http://www.aveveagrarisch.be/nl/veevoeding/varkens/biologische-varkensvoeders">Biologische voeders ></a></li>
+                <li><a href="/Default.aspx?TabID=10430">Marktprijzen ></a>                     </li>
+            </ul>
+            </td>
+            <td style="WIDTH: 20px"> </td>
+            <td style="WIDTH: 140px"><a href="/Default.aspx?TabID=10432"><img src="/Portals/79/images/Veevoeding/Melkvee_runderen_65.gif" width="140" height="140"></a></td>
+            <td style="WIDTH: 10px"> </td>
+            <td style="WIDTH: 170px">
+            <h3 class="overviewtitle"><a href="/Default.aspx?TabID=10432">Rundvee</a> ></h3>
+            <ul>
+                <li><a href="/Default.aspx?TabID=10477">Jongvee ></a>
+                </li>
+                <li><a href="/Default.aspx?TabID=10482">Melkvee ></a>
+                </li>
+                <li><a href="/Default.aspx?TabID=10484">Vleesvee ></a>
+                </li>
+                <li><a href="/Default.aspx?tabid=12422">Vitaminen & mineralen ></a> </li>
+                <li><a href="http://www.aveveagrarisch.be/nl/veevoeding/rundvee/biologische-rundveevoeders">Biologische voeders ></a></li>
+            </ul>
+            <p> </p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="7"> </td>
+        </tr>
+        <tr>
+            <td style="WIDTH: 140px"><a href="http://www.aveveagrarisch.be/nl/veevoeding/pluimvee"><img src="/Portals/79/images/Veevoeding/Legpluimvee_MG_8955.gif" width="140" height="140"></a><a href="/Default.aspx?TabID=10433"></a></td>
+            <td style="WIDTH: 10px"> </td>
+            <td style="WIDTH: 170px">
+            <h3 class="overviewtitle"><a href="http://www.aveveagrarisch.be/nl/veevoeding/pluimvee">Pluimvee ></a> </h3>
+            <ul>
+                <li><a href="/Default.aspx?tabid=10483">Opfok leg ></a> 
+                </li>
+                <li><a href="/Default.aspx?TabID=10476">Leghennen ></a>
+                </li>
+                <li><a href="http://www.aveveagrarisch.be/nl/veevoeding/pluimvee/biologische-pluimveevoeders">Biologische voeders ></a></li>
+                <li><a href="http://avevewinkels.be/producten/dier/kip-producten/voeding" target="_blank">Hobbypluimvee ></a> 
+                </li>
+                <li><a href="/Default.aspx?TabID=10487">Marktprijzen ></a> </li>
+            </ul>
+            <p> </p>
+            <ul></ul>
+                </td>
+                <td style="WIDTH: 20px"> </td>
+                <td style="WIDTH: 140px"><img src="/Portals/79/images/Veevoeding/Dressuur_MG_5839.gif" width="140" height="140"><a href="/Default.aspx?TabID=10434"></a></td>
+                <td style="WIDTH: 10px"> </td>
+                <td style="WIDTH: 170px">
+                <h3 class="overviewtitle">Paarden</h3>
+                <ul>
+                    <li><a href="/Default.aspx?TabID=10475">Bulk ></a>
+                    </li>
+                    <li><a href="http://avevewinkels.be/producten/dier/paard-producten/krachtvoeder" target="_blank">Zakgoed ></a> 
+                    </li>
+                    <li><a href="http://avevewinkels.be/producten/dier/paard-producten/verzorging" target="_blank">Supplementen ></a>                 </li>
+                </ul>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7"> </td>
+            </tr>
+            <tr>
+                <td style="WIDTH: 140px"><img src="/Portals/79/images/Veevoeding/Ooi-met-lammeren_Kalken-139_140x140.gif" width="140" height="140"></td>
+                <td style="WIDTH: 10px"><br>
+                </td>
+                <td style="WIDTH: 170px">
+                <h3 class="overviewtitle">Kleinvee</h3>
+                <ul>
+                    <li><a href="/Default.aspx?TabID=10508">Vleeskonijnen ></a>
+                    </li>
+                    <li><a href="http://www.aveveagrarisch.be/Default.aspx?tabid=10498" target="_blank">Schapen ></a> 
+                    </li>
+                    <li><a href="/nl/Veevoeding/Andere/Geiten/tabid/10509/language/nl-NL/Default.aspx">Melkgeiten ></a> 
+                    </li>
+                    <li><a href="/Default.aspx?TabID=10510">Andere herkauwers ></a> </li>
+                </ul>
+                <p> </p>
+                <p> </p>
+                </td>
+                <td style="WIDTH: 20px"> </td>
+                <td style="WIDTH: 140px"><a href="/Default.aspx?TabID=10437"><img src="/Portals/79/images/Veevoeding/Piggyboost_verzwakte-biggen_B80V1509.gif" width="140" height="140"></a></td>
+                <td style="WIDTH: 10px"> </td>
+                <td style="WIDTH: 170px">
+                <h3 class="overviewtitle"><a href="/Default.aspx?TabID=10437">Veehouderij-<br>
+                producten</a> ></h3>
+                <p> </p>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="7"><br>
+                </td>
+            </tr>
+            <tr>
+                <td style="WIDTH: 140px"><a href="/nl/Veevoeding/Graanenmaisontvangst/tabid/10438/language/nl-NL/Default.aspx"><img src="/Portals/79/images/Veevoeding/Graanontvangst_B80V2675_140x140.gif" width="140" height="140"></a></td>
+                <td style="WIDTH: 10px"> </td>
+                <td style="WIDTH: 170px">
+                <h3 class="overviewtitle"><a href="/nl/Veevoeding/Graanenmaisontvangst/tabid/10438/language/nl-NL/Default.aspx">Graan- en maïs-<br>
+                ontvangst</a> ></h3>
+                </td>
+                <td style="WIDTH: 20px"> </td>
+                <td style="width: 140px;"><img src="/Portals/79/images/Veevoeding/mestkar%20site.jpg" style="" width="0" height="0"><img src="/Portals/79/images/Veevoeding/mestkar%20site.jpg" style="" width="0" height="0"><img src="/Portals/79/images/Veevoeding/mestkar%20site.jpg" style="" width="0" height="0"><img src="/Portals/79/images/Veevoeding/mestkar%20site.jpg" style="" width="0" height="0"><img src="/Portals/79/images/Veevoeding/mestkar%20site.jpg" style="" width="140" height="140"><br>
+                </td>
+                <td style="WIDTH: 10px"> </td>
+                <td style="WIDTH: 170px">
+                <h3 class="overviewtitle" style="margin-bottom: 7px; background-color: rgb(255, 255, 255);"><a href="http://www.aveveagrarisch.be/Portals/79/Docs/Veevoeding/Actueel/Attentielijst%20mestbank%20(1).pdf">Attentiekalender mest ></a></h3>
+                         </td>
+            </tr>
+            <tr>
+                <td colspan="7"> </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</div><!-- End_Module_15242 --></div>
+    
+
+</div>
+            <div id="dnn_RightPane" class="RightPane"><a name="15397"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div class="NormalTitle">
+    <h3><span id="dnn_ctr15397_dnnTITLE_lblTitle" class="TitleHead">Uw AVEVE-zaakvoerder</span>
+
+
+</h3>
+</div>
+<div id="dnn_ctr15397_ContentPane" class="NormalTitle_content DNNAlignleft"><!-- Start_Module_15397 --><div id="dnn_ctr15397_ModuleContent" class="r_a_d_rotatorContent">
+	
+<div style="position-length:1;">
+<div id="dnn_ctr15397_RotatorView_RadRotatorObject" class="RadRotator RadRotator_Default RadRotatorMain" radcontrolsdir="~/DesktopModules/RadRotator/RadControls/" style="height:170px;width:220px;">
+		<!-- 2011.1.413.35 --><div class="rrRelativeWrapper">
+			<div class="rrClipRegion">
+				<ul class="rrItemsList">
+					<li class="rrItem" style="height:170px;width:220px;"><div id="dnn_ctr15397_RotatorView_RadRotatorObject_i0">
+						
+		<TABLE border=0 cellSpacing=0 cellPadding=0>
+        <THEAD>
+        </THEAD>
+        <TBODY>
+            <TR>
+                <TD style="WIDTH: 220px; HEIGHT: 120px"><IMG src="/Portals/79/images/Zaakvoerders/Foto%20%2014.jpg" width=220 height=120><A href="http://www.aveveagrarisch.be/Default.aspx?TabID=11695"></A></TD>
+            </TR>
+            <TR>
+                <TD style="TEXT-ALIGN: right; WIDTH: 220px; HEIGHT: 60px; VERTICAL-ALIGN: middle"><A href="http://www.aveveagrarisch.be/nl/uw-aveve-zaakvoerder">Contacteer een AVEVE- zaakvoerder in uw buurt &gt;</A></TD>
+            </TR>
+        </TBODY>
+    </TABLE>
+	
+					</div></li><li class="rrItem" style="height:170px;width:220px;"><div id="dnn_ctr15397_RotatorView_RadRotatorObject_i1">
+						
+		<TABLE border=0 cellSpacing=0 cellPadding=0>
+        <TBODY>
+            <TR>
+                <TD width=220><IMG src="/Portals/79/images/Zaakvoerders/009.jpg" width=220 height=120><A href="http://www.aveveagrarisch.be/Default.aspx?TabID=11695"></A></TD>
+            </TR>
+            <TR>
+                <TD style="TEXT-ALIGN: right; WIDTH: 220px; HEIGHT: 60px; VERTICAL-ALIGN: middle"><A href="http://www.aveveagrarisch.be/nl/uw-aveve-zaakvoerder">Contacteer een AVEVE- zaakvoerder in uw buurt &gt;</A><A href="/Default.aspx?TabID=10528"></A></TD>
+            </TR>
+        </TBODY>
+    </TABLE>
+	
+					</div></li><li class="rrItem" style="height:170px;width:220px;"><div id="dnn_ctr15397_RotatorView_RadRotatorObject_i2">
+						
+		<TABLE border=0 cellSpacing=0 cellPadding=0>
+        <TBODY>
+            <TR>
+                <TD width=220><A href="http://www.aveveagrarisch.be/Default.aspx?TabID=11695"></A><IMG src="/Portals/79/images/Zaakvoerders/SCHUURMANS%20049.jpg"><A href="http://www.aveveagrarisch.be/Default.aspx?TabID=11695"></A></TD>
+            </TR>
+            <TR>
+                <TD style="TEXT-ALIGN: right; WIDTH: 220px; HEIGHT: 60px; VERTICAL-ALIGN: middle"><A href="http://www.aveveagrarisch.be/nl/uw-aveve-zaakvoerder">Contacteer een AVEVE- zaakvoerder in uw buurt &gt;</A><A href="/Default.aspx?TabID=10528"></A></TD>
+            </TR>
+        </TBODY>
+    </TABLE>
+	
+					</div></li><li class="rrItem" style="height:170px;width:220px;"><div id="dnn_ctr15397_RotatorView_RadRotatorObject_i3">
+						
+		<TABLE border=0 cellSpacing=0 cellPadding=0>
+        <TBODY>
+            <TR>
+                <TD width=220><IMG src="/Portals/79/images/Zaakvoerders/hoger%20klantaandeel%20in%20agrarische%20markt.JPG" width=220 height=120><A href="http://www.aveveagrarisch.be/Default.aspx?TabID=11695"></A></TD>
+            </TR>
+            <TR>
+                <TD style="TEXT-ALIGN: right; WIDTH: 220px; HEIGHT: 60px; VERTICAL-ALIGN: middle"><A href="http://www.aveveagrarisch.be/nl/uw-aveve-zaakvoerder">Contacteer een AVEVE- zaakvoerder in uw buurt &gt;</A><A href="/Default.aspx?TabID=10528"></A></TD>
+            </TR>
+        </TBODY>
+    </TABLE>
+	
+					</div></li>
+				</ul>
+			</div><a class="rrButton rrButtonUp" href="javascript:void(0);">&nbsp;</a><a class="rrButton rrButtonLeft" href="javascript:void(0);">&nbsp;</a><a class="rrButton rrButtonRight" href="javascript:void(0);">&nbsp;</a><a class="rrButton rrButtonDown" href="javascript:void(0);">&nbsp;</a>
+		</div><input id="dnn_ctr15397_RotatorView_RadRotatorObject_ClientState" name="dnn_ctr15397_RotatorView_RadRotatorObject_ClientState" type="hidden" />
+	</div>
+</div>
+</div><!-- End_Module_15397 --></div>
+    
+
+<a name="15472"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div id="dnn_ctr15472_ContentPane" class="NormalNoTitle_content DNNAlignleft"><!-- Start_Module_15472 --><div id="dnn_ctr15472_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr15472_HtmlModule_lblContent" class="Normal">
+	<p><a href="/Default.aspx?TabID=10439"><img src="/Portals/79/images/Veevoeding/Over%20AVEVE%20Veevoeding.png" width="220" height="120"></a></p>
+<p><a href="/Default.aspx?TabID=10439"><strong>Over AVEVE Veevoeding ></strong></a></p>
+<a href="/Default.aspx?TabID=10439">
+</a>
+</div>
+
+</div><!-- End_Module_15472 --></div>
+    
+
+<a name="15434"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div id="dnn_ctr15434_ContentPane" class="NormalNoTitle_content DNNAlignleft"><!-- Start_Module_15434 --><div id="dnn_ctr15434_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr15434_HtmlModule_lblContent" class="Normal">
+	<p class="AanmeldenOuter"><a class="AanmeldenLink" href="http://www.aveveagrarisch.be/Default.aspx?TabID=10529">
+</a></p>
+<div style="width: 220px; height: 59px;" class="AanmeldenOuter"><a class="AanmeldenLink" href="http://www.aveveagrarisch.be/Default.aspx?TabID=10529">
+<div style="width: 230px; height: 63px;" class="AanmeldenInner">
+<div class="LoginGroot">Marktprijzen</div>
+<div class="LoginKlein">Bekijk hier de actuele marktprijzen</div>
+</div>
+<p class="AanmeldenOuter"> </p>
+</a></div>
+<p> </p>
+</div>
+
+</div><!-- End_Module_15434 --></div>
+    
+
+</div>
+            
+            
+        </section>
+    </div>
+
+    <footer id="footer">
+        <div class="Footer">
+            <div id="dnn_FooterPane1" class="FooterPane"><a name="15405"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div class="NormalBlueTitle"><h6><span id="dnn_ctr15405_dnnTITLE_lblTitle" class="TitleHead">VEEVOEDING</span>
+
+
+</h6></div>
+<div id="dnn_ctr15405_ContentPane" class="NormalBlueTitle_content DNNAlignleft"><!-- Start_Module_15405 --><div id="dnn_ctr15405_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr15405_HtmlModule_lblContent" class="Normal">
+	<p><a href="/Default.aspx?TabID=10426">Varkens ></a><br>
+<a href="/Default.aspx?TabID=10432">Rundvee ></a><br>
+<a href="http://www.aveveagrarisch.be/Default.aspx?TabID=10483">Pluimvee ></a><br>
+<a href="http://www.aveveagrarisch.be/Default.aspx?TabID=10475">Paarden ></a><br>
+<a href="/Default.aspx?TabID=10437">Veehouderijproducten ></a>
+<p> </p>
+</div>
+
+</div><!-- End_Module_15405 --></div></div>
+            <div id="dnn_FooterPane2" class="FooterPane"><a name="15406"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div class="NormalBlueTitle"><h6><span id="dnn_ctr15406_dnnTITLE_lblTitle" class="TitleHead">TEELTEN</span>
+
+
+</h6></div>
+<div id="dnn_ctr15406_ContentPane" class="NormalBlueTitle_content DNNAlignleft"><!-- Start_Module_15406 --><div id="dnn_ctr15406_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr15406_HtmlModule_lblContent" class="Normal">
+	<p><a href="/Default.aspx?TabID=10440">Zaden ></a><br>
+<a href="/Default.aspx?TabID=10449">Plantenvoeding ></a><br>
+<a href="/Default.aspx?TabID=10450">Plantenbescherming ></a></p>
+</div>
+
+</div><!-- End_Module_15406 --></div></div>
+            <div id="dnn_FooterPane3" class="FooterPane"><a name="15407"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div class="NormalBlueTitle"><h6><span id="dnn_ctr15407_dnnTITLE_lblTitle" class="TitleHead">OVER AVEVE</span>
+
+
+</h6></div>
+<div id="dnn_ctr15407_ContentPane" class="NormalBlueTitle_content DNNAlignleft"><!-- Start_Module_15407 --><div id="dnn_ctr15407_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr15407_HtmlModule_lblContent" class="Normal">
+	<p><a href="/Default.aspx?TabID=10452">Bedrijfsprofiel ></a><br>
+<a href="/Default.aspx?TabID=10455">Klantenkringen ></a><br>
+<a href="/Default.aspx?TabID=10454">Het AVEVE-merk ></a><br>
+<a href="/Default.aspx?TabID=10453">Geschiedenis ></a></p>
+</div>
+
+</div><!-- End_Module_15407 --></div></div>
+            <div id="FooterWeer" class="FooterPane">
+                <div class="NormalBlueTitle">
+                    <h6><span id="dnn_TEXT_WeerHeader_lblText" class="TitleHead">Het weer</span>
+</h6>
+                </div>
+            </div>
+            <div id="dnn_FooterContact" class="FooterPane FooterPaneLast"><a name="15409"></a>
+
+<div class="AdminHeading">
+   <div class="ActionLinks">
+        
+    </div>
+    <div class="Menu">
+        
+    </div>
+    <div class="ClearBoth"></div>
+</div>
+<div class="NormalBlueTitle"><h6><span id="dnn_ctr15409_dnnTITLE_lblTitle" class="TitleHead">AVEVE Veevoeding</span>
+
+
+</h6></div>
+<div id="dnn_ctr15409_ContentPane" class="NormalBlueTitle_content DNNAlignleft"><!-- Start_Module_15409 --><div id="dnn_ctr15409_ModuleContent" class="DNN_HTMLContent">
+	<div id="dnn_ctr15409_HtmlModule_lblContent" class="Normal">
+	<p>Eugeen Meeusstraat 6 <br>
+BE-2170 Merksem </p>
+<p>Tel. + 32 3 641 02 11 <br>
+Fax + 32 3 641 02 45 </p>
+<p><a href="mailto:veevoeding@aveve.be">veevoeding@aveve.be</a> </p>
+</div>
+
+</div><!-- End_Module_15409 --></div></div>
+            <div class="ClearBoth"></div>
+        </div>
+        <div class="FooterBalk">
+			<div class="footercenter">
+				<a href="/default.aspx?tabid=10530">Disclaimer</a>
+			</div>
+		</div>
+    </footer>
+</div>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" />
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadRotator, {"_itemHeight":"170px","_itemWidth":"220px","clientStateFieldID":"dnn_ctr15397_RotatorView_RadRotatorObject_ClientState","frameDuration":60000,"items":[{},{},{},{}],"rotatorType":4,"skin":"Default","slideShowAnimationSettings":{"type":4,"duration":500}}, null, null, $get("dnn_ctr15397_RotatorView_RadRotatorObject"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

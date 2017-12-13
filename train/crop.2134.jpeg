@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  
+    <title>Chlorpyrifos Protects</title>
+  	
+    <meta name="keywords" content="chlorpyrifos, crop protection, chlorpyrifos human health, chlorpyrifos benefits, chlorpyrifos resources, chlorpyrifos environment, pest management" />
+    <meta name="description" content="Chlorpyrifos is the active ingredient in a versatile approach to pest management that has protected crops in about 100 countries for more than 45 years. " />
+    <meta name="Language" content="ENGLISH" />
+    <meta name="Region" content="GLOBAL,LATIN AMERICA,NORTH AMERICA,PACIFIC,EUROPE" />
+    <meta name="Country" content="UNITED STATES" />
+    <meta name="robots" content="index,follow"/>
+	
+   <link rel="stylesheet" href="/styles/chlorpyrifos.css" type="text/css" />
+	<script type="text/javascript" src="/scripts/default.js"></script>
+
+<script src="/scripts/jquery-1.8.0.min.js "></script>
+
+<script>
+	$(function(){
+		$('.searchField').focus(function(){
+			if ( $(this).val() == 'Enter Search Term') {
+				$(this).val('');
+			}
+		});
+		$('.title a').removeAttr('href');
+	}); 
+</script>
+
+<script src="/script/share.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Oswald:300,400,700' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/style/chlorpyrifos-ie.css" />
+<![endif]-->
+
+
+	<script>!window.jQuery && document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"><\/script>');</script>
+  <script>!window.jQuery && document.write('<script src="/scripts/jquery-1.8.0.min.js"><\/script>');</script>
+	<script>!window.jQuery && document.write('<script src="/scripts/jquery.js"><\/script>');</script>
+
+  <script type="text/javascript">
+
+
+				 var _gaq = _gaq || [];
+				 _gaq.push(
+						['_setAccount', 'UA-7110831-5'],
+						['_trackPageview']
+				 );
+
+				 (function () {
+					 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				 })();
+	 
+				 
+
+
+			function doEventTrack(a){
+				
+				var href = $(a.currentTarget).attr('href');
+				//Let's check to see if we actually have an href tag.
+				if(href){
+					var category = '';
+					var event = 'click';
+					if ( (href.match(/^http/i)) && (! href.match(document.domain)) ) {
+					  category = 'outgoing';
+					  _gaq.push(['_trackEvent', category, event, href]);
+					} else if( href.match(/\.(doc|pdf|xls|ppt|zip|txt|vsd|vxd|js|css|rar|exe|wma|mov|avi|wmv|mp3|ics)$/i) ) {
+					  category = 'download';
+					  _gaq.push(['_trackEvent', category, event, href]);
+					} else if ( href.match(/^mailto:/i) ) {
+					  category = 'mailto';
+					  _gaq.push(['_trackEvent', category, event, href]);
+					}
+				}
+
+
+			}
+
+			 if (window.jQuery){
+			 	$(function(){
+				 	if (parseFloat(jQuery.fn.jquery) >= 1.7){
+						$('body').on('click','a',doEventTrack);
+					}
+					else{
+						$('a').click(doEventTrack);
+					}
+				});
+			}
+
+</script>
+
+
+<script src="/script/homepage-slider.js"></script>
+</head><body class="body-homepage">
+<div class="container container-homepage">
+<div class="main main-homepage">
+    <div class="header">
+	<a href="/index.htm"><img src="/image/chlorpyrifos_protects.png" alt="Chlorpyrifos Protects" /></a>
+	<div class="search-box"><script type="text/javascript">
+function validate_string(form) {
+
+if (form.as_q.value == "search")
+	{
+	form.as_q.value = "*" ;
+
+	}
+	return;
+}
+
+function clearText(thefield)
+
+{
+
+	if (thefield.value == "search" )
+	thefield.value="";
+
+}
+</script>
+
+<div>
+
+<form action="/search.aspx" id="cse-search-box" onsubmit="return validate_string(this);">
+  <div>
+	<input type="text" name="q" value="Enter Search Term" onfocus="clearText(this)" size="15" class="searchField" />
+    <input type="hidden" name="cx" value="012177941427172532213:lmxa29v9q1m" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="hidden" name="site" id="site" />
+    <input type="hidden" name="host" id="host" value="www.chlorpyrifos.com" />
+    <input type="hidden" name="as_sitesearch" id="as_sitesearch"/>
+    <input type="image" src="/image/search.png" class="SearchBtn" name="sa" alt="Go" border="0" />  
+    
+
+  </div>
+</form>
+
+</div>
+
+<script type="text/javascript">
+
+setSearchHost("www.chlorpyrifos.com");
+
+</script>
+</div>
+	<div class="share"><span class="fb">fb</span><span class="twitter">twitter</span><span class="googleplus">g+</span></div>
+</div>
+
+<div class="main-nav main-nav-homepage">
+<ul>
+<li class="main-nav-hnav-table-unselected"><a href="/benefits-and-uses/">Benefits &amp; Uses</a>
+<div class="dropdown">
+<a href="/benefits-and-use">Benefits &amp; Uses</a>
+<ul>
+	<li><a href="/benefits-and-use/use/">&raquo; How It's Used</a></li>
+	<li><a href="/benefits-and-use/impact/">&raquo; Impact</a></li>
+</ul>
+</div>
+</li>
+<li class="main-nav-hnav-table-unselected"><a href="/human-health/">Human Health</a>
+<div class="dropdown">
+<a href="/human-health/">Human Health</a>
+<ul>
+	<li><a href="/human-health/human-exposure/">&raquo; Human Exposure</a></li>
+	<li><a href="/human-health/protecting-people/">&raquo; Protecting People</a></li>
+	<li><a href="/human-health/health-questions/">&raquo; Health Questions</a></li>
+</ul>
+</div>
+</li>
+<li class="main-nav-hnav-table-unselected"><a href="/wildlife-and-environment/">Wildlife &amp; Environment</a>
+<div class="dropdown">
+<a href="/wildlife-and-environment/">Wildlife &amp; Environment</a>
+<ul>
+	<li><a href="/wildlife-and-environment/environmental-behavior/">&raquo; Environmental Behavior</a></li>
+	<li><a href="/wildlife-and-environment/wildlife-safety/">&raquo; Wildlife Safety</a></li>
+	<li><a href="/wildlife-and-environment/endangered-species/">&raquo; Endangered Species</a></li> 
+</ul>
+</div>
+</li>
+<li class="main-nav-hnav-table-unselected"><a href="/regulatory/">Regulatory</a>
+<div class="dropdown">
+<a href="/regulatory/">Regulatory</a>
+<ul>
+	<li><a href="/regulatory/epa-registration-review.htm">&raquo; EPA Registration Review</a></li>
+	<li><a href="/regulatory/registration-review-process.htm">&raquo; Registration Review Process</a></li>
+	<li><a href="/regulatory/evolving-regulatory-policies.htm">&raquo; Evolving Regulatory Policies</a></li>
+	<li><a href="/regulatory/chlorpyrifos-schedule.htm">&raquo; Chlorpyrifos Schedule</a></li>
+	<li><a href="/regulatory/how-you-can-help.htm">&raquo; How You Can Help</a></li>
+</ul>
+</div>
+</li>
+<li class="main-nav-hnav-table-unselected"><a href="/news-and-resources/">News &amp; Resources</a>
+<div class="dropdown">
+	<a href="/news-and-resources/">News &amp; Resources</a>
+	<ul>
+		<li><a href="/news-and-resources/news/">&raquo; Chlorpyrifos in the News</a></li>
+		<li><a href="/news-and-resources/resources/">&raquo; Resource Library</a></li>
+	</ul>
+</div>
+</li>
+<li class="main-nav-hnav-table-unselected"><a href="/faqs/">Chlorpyrifos FAQs</a></li>
+<li class="main-nav-hnav-table-unselected"><a href="/contact/">Contact Us</a></li>
+</ul>
+
+</div>
+<div class="column-wrapper column-wrapper-homepage">
+<div class="nav-area nav-area-homepage" id="content-row-navigation">
+<div class="primary-nav primary-nav-homepage">
+
+
+<!-- reg_cnt: 0 -->
+
+
+
+<!-- <ul>
+<li>
+<ul>
+</ul>
+</li>
+</ul>
+ -->
+
+</div>
+<div class="secondary-nav secondary-nav-homepage">
+</div>
+<div class="alternate_nav alternate_nav-homepage" id="alternate_nav alternate_nav-homepage"></div>
+
+
+
+
+</div>
+<div class="content-area content-area-homepage">
+<div class="title title-homepage">
+<h1 class="title-color- title-color--homepage"><a href="/index.htm"> Chlorpyrifos Protects</a></h1><br />
+</div>
+<div class="intro intro-homepage empty empty-homepage">
+</div>
+<div class="content content-homepage">
+<div class="content-A content-A-homepage" id="content-A">
+
+<div class="main-image">
+	<div class="slider-container">
+		
+		<div class="bubble-container">
+			<div class="bubble-left"></div>
+			<div class="bubble-middle">
+				<span class="left-arrow"></span>
+				<span class="right-arrow"></span>
+			</div>
+			<div class="bubble-right"></div>
+		</div>
+		
+		 <div class="slide">
+			<img src="/image/slide1.jpg" />
+			<div class="left">
+				<h2 style="color: #c1773a;">Food Security <br />
+					<span>Grounded in Science</span>
+				</h2>
+				<p>Our <a href="/news-and-resources/resources/">Resource Library</a> provides links to scientific studies, reports, and white papers related to chlorpyrifos use, regulation, environmental impacts, and human health  considerations.</p>
+			</div>
+		</div>
+		
+		 <div class="slide">
+			<img src="/image/slide2.jpg" />
+			<div class="left">
+				<h2 style="color: #d4ae50;">Crop Protection<br />
+					<span>Proven and Reliable</span>
+				</h2>
+				<p style="color: #fff;">Chlorpyrifos offers superb versatility in controlling a wide variety of pests across numerous crops, and is a reliable rotation partner in insect resistance management programs. Learn more about chlorpyrifos’ <a href="/benefits-and-use/" style="color: #d4ae50;">benefits and use</a>.</p>
+			</div>
+		</div> 
+		
+		<div class="slide">
+<a href="http://www.chlorpyrifos.com/petition" style="color:#d4ae50;">
+			<img src="/image/slide3.jpg" /></a>
+			<div class="right">
+				<h2 style="color: #ddd8c4;"><span>Chlorpyrifos questions?</span>
+				</h2>
+				<p style="color: #ddd8c4;">We have compiled a list of common questions and answers on our <a href="/faqs/" style="color: #d4ae50;">FAQs</a> page. Don't see your question answered? <a href="/contact/" style="color: #d4ae50;">Contact us</a> through our convenient submission form. </p>
+
+			</div>
+		</div>
+		
+	</div>
+
+</div>
+
+
+<div class="bottom-pods">
+	<div class="left">
+		<p class="heading">WHAT IS <span>Chlorpyrifos?</span></p>
+		<p>Chlorpyrifos has been reliably used for more than 45 years as the active ingredient in products that protect crops from damaging insect pests.</p>
+	</div>
+	
+	<div class="middle">
+		<p class="heading">RESOURCES</p>
+			<div class="human-health-home">
+				<a href="/human-health/"><img src="/image/human-health.png" alt="Human Health" /></a>
+				<p class="heading"><a href="/human-health/">HUMAN HEALTH</a></p>
+				<p><a href="/news-and-resources/resources/health-resources.htm">Studies, links, and perspectives</a> relating to <a href="/human-health/">Human Health</a> considerations.</p>
+			</div>
+			<div class="endangered-species-home">
+				<a href="/wildlife-and-environment/"><img src="/image/endangered-species.png" alt="Environment" /></a>
+				<p class="heading"><a href="/wildlife-and-environment/">ENVIRONMENT</a></p>
+				<p><a href="/news-and-resources/resources/wildlife-resources.htm">Resources and information</a> regarding <a href="/wildlife-and-environment/">Wildlife &amp; Environment</a>, including Endangered Species.</p>
+			</div>
+			<div class="regulatory-home">
+				<a href="/regulatory/"><img src="/image/regulatory.png" alt="Regulatory" /></a>
+				<p class="heading"><a href="/regulatory/">REGULATORY</a></p>
+				<p>Follow the latest assessments, correspondence, and <a href="/news-and-resources/resources/regulatory-resources.htm">documentation</a> about <a href="/regulatory/">chlorpyrifos’ registration review</a>.</p>
+			</div>
+	</div>
+	
+	<div class="right">
+		<p class="heading">LATEST NEWS</p>
+<p class="news"><a href="/news-and-resources/news/2017/20171130a.htm">Dow AgroSciences Statement on Chlorpyrifos and California Proposition 65
+</a><br/>November 30, 2017</p>
+
+<p class="news"><a href="/news-and-resources/news/2017/20170810a.htm">EPA Denial of Chlorpyrifos Ban Sets Pro-Science Precedent
+</a><br/>August 10, 2017</p>
+
+<p class="news"><a href="/news-and-resources/news/2017/20170329a.htm">U.S. EPA Denies Activist Petition and Retains all Chlorpyrifos Tolerances 
+</a><br/>March 29, 2017</p>
+
+
+<p class="news"><a href="http://www.chlorpyrifos.com/pdf/Chlorpyrifos%20NODA%20Customer%20Letter.pdf">Chlorpyrifos NODA Customer Letter
+</a></p>
+
+<p class="news"><a href="/news-and-resources/news/2016/20161110a.htm">Dow AgroSciences, U.S. Farmers Disagree with U.S. EPA Proposal to Revoke Chlorpyrifos Tolerances
+</a><br/>November 10, 2016</p>
+
+<p class="news"><a href="/news-and-resources/news/2016/20160613a.htm">Stakeholders Provide Feedback for US EPA’s Draft Biological Evaluations for Endangered Species</a><br/>June 13, 2016</p>
+
+
+		
+		<p><a href="/news-and-resources/news/">SEE ALL</a></p>
+		
+	</div>
+</div>
+
+</div>
+<div class="content-B content-B-homepage" id="content-B content-B-homepage">
+</div>
+</div>
+</div>
+<div class="clearfloats"></div>
+</div><!-- setting the footer under column-wrapper -->
+<div class="footer">
+	<ul>
+		<li><a href="http://www.dowagro.com/company/privacy/" target="_blank">Privacy Statement</a></li>
+		<li><a href="http://www.dowagro.com/company/termofuse/" target="_blank">Terms of Use</a></li>
+		<li><a href="/site-map.htm">Site Map</a></li>
+		<li><a href="http://www.dowagro.com/company/help/" target="_blank">Help</a></li>
+		<li><a href="/sponsors.htm">Sponsors</a></li>
+	</ul>
+	
+	<a class="logo" href="http://www.dowagro.com/" target="_blank"><img src="/image/dowagrosciences.png" alt="Dow AgroSciences" /></a>
+	
+	<p class="trademark">Copyright &copy; The Dow Chemical Company (1998-2017). All Rights Reserved.<br />
+	&reg;&trade;<sup>*</sup> Trademark of The Dow Chemical Company ("Dow") or an affiliated company of Dow.</p>
+	
+</div>
+</body>
+</html>
+

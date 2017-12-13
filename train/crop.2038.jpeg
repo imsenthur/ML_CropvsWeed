@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta content="True" name="HandheldFriendly">
+<meta name="viewport" content="width=device-width initial-scale=1.0001, minimum-scale=1.0001, maximum-scale=1.0001, user-scalable=no" charset="UTF-8">
+<link rel="profile" href="//gmpg.org/xfn/11">
+<link rel="pingback" href="https://clark.uwex.edu/xmlrpc.php">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans%7CDroid+Serif%7CDomine" media="screen">
+<!--[if lt IE 9]>
+<script src="https://clark.uwex.edu/wp-content/themes/ce-kayak/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<title>Clark County &#8211; University of Wisconsin-Extension</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Clark County &raquo; Feed" href="https://clark.uwex.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Clark County &raquo; Comments Feed" href="https://clark.uwex.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/clark.uwex.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cets_global_banner_frontend_css-css'  href='https://clark.uwex.edu/wp-content/plugins/cets-global-banner/css/public.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cets-global-css-css'  href='https://clark.uwex.edu/wp-content/plugins/cets-global-css/css/global.css?ver=4.9.1' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='wooslider_modifier_css-css'  href='https://clark.uwex.edu/wp-content/plugins/wooslider-modifier/css/wooslider_modifier.css?ver=4.9.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='kayak-style-css'  href='https://clark.uwex.edu/wp-content/themes/ce-kayak/style.css?ver=4.9.1' type='text/css' media='all' />
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type='text/javascript' src='https://clark.uwex.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='https://clark.uwex.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://clark.uwex.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://clark.uwex.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://clark.uwex.edu/wp-includes/wlwmanifest.xml" /> 
+<link rel="shortcut icon" type="image/x-icon" href="//counties.uwex.edu/wp-content/mu-plugins/cets_uwex_favicon/favicon.ico" />
+<script src='https://counties.uwex.edu/?dm=de7b4cf3d6f4c9faf024e1e235cb6106&amp;action=load&amp;blogid=14&amp;siteid=1&amp;t=1189427134&amp;back=https%3A%2F%2Fclark.uwex.edu%2F' type='text/javascript'></script>	<link rel="stylesheet" href="https://clark.uwex.edu/wp-content/plugins/cets-social-media-links-widget/css/cets-social-media-links-widget.css" type="text/css" />
+	<!-- CETS Open Graph --><meta name="twitter:card" content="summary"><meta property="og:site_name" content="Clark County"/>
+<meta name="twitter:site" content="Clark County"/>
+<meta property="og:title" content="Clark County"/>
+<meta name="twitter:title" content="Clark County"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="University of Wisconsin-Extension"/>
+<meta name="twitter:description" content="University of Wisconsin-Extension"/>
+<meta name="description" content="We teach, learn, lead and serve, connecting people with the University of Wisconsin, and engaging with them in transforming lives and communities."/>
+<meta property="og:url" content="https://clark.uwex.edu/"/>
+<meta property="og:image" content="https://clark.uwex.edu/wp-content/plugins/cets-open-graph/images/coop-logo.png"/>
+<meta name="twitter:image" content="https://clark.uwex.edu/wp-content/plugins/cets-open-graph/images/coop-logo.png"/>
+      
+      	  <script type="text/javascript"> jQuery(document).ready(function(){
+               jQuery("ul").parent("li").addClass("parent");
+	  }); </script>
+      
+</head>
+
+<body data-rsssl=1 class="home blog theme-kayak">
+<div id="page" class="hfeed site">
+	       
+	<header id="masthead" class="site-header nocontent">
+          <div class="top-container"> 
+			   <nav id="meta-menu" class="meta-navigation">
+				  <h1 class="menu-toggle">
+				  
+								 				   Office Information<img src="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/menu.png" alt="menu"></h1>
+				 				 <div class="menu-meta-menu-container"><ul id="menu-meta-menu" class="menu"><li class="purpose-link"><a href="https://clark.uwex.edu/purpose/">Purpose Statement</a></li><li class="map-link"><a href="https://clark.uwex.edu/office-map-and-directions/">Office Map and Directions</a></li><li class="contact-link"><a href="https://clark.uwex.edu/staff-directory/">Directory</a></li></ul></div>			  </nav><!-- #meta-menu -->
+			<div id="top-search">
+				  <h1 class="menu-toggle">Search<img src="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/search-white.png" alt="menu"></h1>
+				  <ul class='top-search-ul'>
+					  <form role="search" method="get" class="search-form" action="https://clark.uwex.edu/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+    <input type="image" alt="Search" src="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/search.png" />
+</form>
+				  </ul>
+			</div><!--#top-search -->
+			<br class="clear" /> 
+
+        </div> <!--#top-container -->
+        <div class="branding-container">
+            <div class="site-branding">
+                  
+				                     <div class="extension-kayak-logo">   
+                    
+                    <svg width="180" height="62">
+                      <image xlink:href="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/uwex-logo.svg" src="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/uwex-logo.png" width="180" height="62" />
+                    </svg>
+                  </div><!--.extension-kayak-logo -->
+			 
+			 	<div class="title-description no-logo"><h1 class="site-title"><a href="https://clark.uwex.edu/" title="Clark County">Clark County</a></h1>                     
+                                            <h2 class="site-description county-description"><a href="https://clark.uwex.edu/" title="University of Wisconsin-Extension" rel="home">University of Wisconsin-Extension</a></h2>
+                                     </div><!--title-description -->                
+               <br class="clear" />
+            </div><!-- .site-branding -->
+		</div><!-- .branding-container -->
+        
+		<nav id="site-navigation" class="main-navigation">
+			<h1 class="menu-toggle"><img src=" https://clark.uwex.edu/wp-content/themes/ce-kayak/img/menu.png" alt="menu">Menu</h1>
+			<div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+			<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-1285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1285"><a href="https://clark.uwex.edu/4-h-youth-development/">4-H Welcome to Clark County 4-H – a work in progress</a>
+<ul class="sub-menu">
+	<li id="menu-item-5456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5456"><a href="https://clark.uwex.edu/4-h-youth-development/4-h-leaders-federation-information/">4-H Leaders Federation</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6749"><a href="https://clark.uwex.edu/agendas-and-minutes/">Agendas and Minutes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5480"><a href="https://clark.uwex.edu/4-h-committees/">4-H Committees</a></li>
+	<li id="menu-item-5453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5453"><a href="https://clark.uwex.edu/clark-county-4-h-club-information/">4-H How to Enroll</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3978"><a href="https://clark.uwex.edu/4-h-online-forms/">4-H Online Forms</a></li>
+		<li id="menu-item-7257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7257"><a href="https://clark.uwex.edu/new-family-information/">New Family Information</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5537"><a href="https://clark.uwex.edu/4-h-club-information/">4-H Club Information</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5623"><a href="https://clark.uwex.edu/club-planning-with-general-leader-president-vice-president-and-secretary/">Club Planning With General Leader, President, Vice President, and Secretary</a></li>
+		<li id="menu-item-5622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5622"><a href="https://clark.uwex.edu/club-action-plan/">Club Action Plan</a></li>
+		<li id="menu-item-5621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5621"><a href="https://clark.uwex.edu/club-leader-descriptions/">Club Leader Descriptions</a></li>
+		<li id="menu-item-5620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5620"><a href="https://clark.uwex.edu/governing-documents-2/">Governing Documents</a></li>
+		<li id="menu-item-5619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5619"><a href="https://clark.uwex.edu/chartering-information-2/">Chartering Information</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5574"><a href="https://clark.uwex.edu/4-h-youth-development/project-area-information/">4-H Projects</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5662"><a href="https://clark.uwex.edu/livestock-information/">4-H Livestock Show and Sale Information</a>
+		<ul class="sub-menu">
+			<li id="menu-item-6037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6037"><a href="https://clark.uwex.edu/livestock-committee-bylaws/">Livestock Committee Bylaws</a></li>
+			<li id="menu-item-5679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5679"><a href="https://clark.uwex.edu/committee-minutes/">4-H Livestock Committee Minutes</a></li>
+			<li id="menu-item-3688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3688"><a href="https://clark.uwex.edu/4-h-youth-development/project-area-information/livestock-market-animals/">Rules &amp; Regulations, Signature Page, Bidder Slips, Drug History Form, &amp; Sale Order</a></li>
+			<li id="menu-item-5016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5016"><a href="https://clark.uwex.edu/educational-sessions/">Livestock Educational Sessions</a></li>
+			<li id="menu-item-5015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5015"><a href="https://clark.uwex.edu/animal-forms-id-cool-weigh-in/">Animal Forms (ID, COOL, Weigh In)</a></li>
+			<li id="menu-item-5690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5690"><a href="https://clark.uwex.edu/market-animal-project-summary-records/">Market Animal Project Summary Record Forms</a></li>
+			<li id="menu-item-7305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7305"><a href="https://clark.uwex.edu/livestock-sale-scholarship/">Livestock Sale Scholarship</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-5481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5481"><a href="https://clark.uwex.edu/record-book-forms/">4-H Record Book Forms</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6319"><a href="https://clark.uwex.edu/trips-excursions/">Trips / Excursions</a></li>
+		<li id="menu-item-6320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6320"><a href="https://clark.uwex.edu/wisconsin-state-fair/">Wisconsin State Fair</a></li>
+		<li id="menu-item-6186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6186"><a href="https://clark.uwex.edu/market-animal-project-record-pages/">Market Animal Project Record Pages</a></li>
+		<li id="menu-item-5768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5768"><a href="https://clark.uwex.edu/record-book-evaluation-procedure/">Record Book Evaluation Procedure</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5479"><a href="https://clark.uwex.edu/4-h-awards/">4-H Awards and Scholarships</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5762"><a href="https://clark.uwex.edu/4-h-youth-development/club-and-county-awards/">Awards – Club and County</a></li>
+		<li id="menu-item-5756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5756"><a href="https://clark.uwex.edu/3728-2/">4-H Key Award</a></li>
+		<li id="menu-item-5760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5760"><a href="https://clark.uwex.edu/4-h-scholarship/">4-H Scholarship</a></li>
+		<li id="menu-item-6636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6636"><a href="https://clark.uwex.edu/4-h-youth-development/scholarships/">Livestock Show and Sale Scholarship</a></li>
+		<li id="menu-item-6179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6179"><a href="https://clark.uwex.edu/wisconsin-4-h-foundation-scholarship/">Wisconsin 4-H Foundation Scholarship</a></li>
+		<li id="menu-item-6584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6584"><a href="https://clark.uwex.edu/thurman-a-craig-scholarship/">Thurman A Craig Scholarship</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5482"><a href="https://clark.uwex.edu/4-h-excursions-trips/">4-H Excursions / Trips</a></li>
+	<li id="menu-item-5483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5483"><a href="https://clark.uwex.edu/camps/">4-H Camps</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7168"><a href="https://clark.uwex.edu/4-h-camp-counselors/">4-H Camp Counselors</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5592"><a href="https://clark.uwex.edu/4-h-events-and-activities/">4-H Events and Activities</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6509"><a href="https://clark.uwex.edu/4-h-discovery-day/">Discovery Day</a></li>
+		<li id="menu-item-5648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5648"><a href="https://clark.uwex.edu/drama-music-speaking-contests/">Drama / Music / Speaking Contests</a></li>
+		<li id="menu-item-5649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5649"><a href="https://clark.uwex.edu/revues/">Revues – Foods, Cake Decorating and Clothing</a></li>
+		<li id="menu-item-5650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5650"><a href="https://clark.uwex.edu/sports/">Volleyball and Softball</a></li>
+		<li id="menu-item-6171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6171"><a href="https://clark.uwex.edu/4-h-bowling-tournament/">Bowling Tournament</a></li>
+		<li id="menu-item-6599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6599"><a href="https://clark.uwex.edu/4-h-shooting-sports/">4-H Shooting Sports</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5579"><a href="https://clark.uwex.edu/4-h-adult-volunteers/">4-H Adult Volunteers</a></li>
+	<li id="menu-item-6437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6437"><a href="https://clark.uwex.edu/4-h-club-officers-information/">4-H Club Officers Information (under construction)</a></li>
+	<li id="menu-item-5585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5585"><a href="https://clark.uwex.edu/4-h-junior-leaders/">4-H Junior Leaders</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5721"><a href="https://clark.uwex.edu/4-h-junior-leader-minutes/">4-H Junior Leader Minutes</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1298"><a href="https://clark.uwex.edu/agriculture/">Agriculture</a>
+<ul class="sub-menu">
+	<li id="menu-item-1300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1300"><a href="https://clark.uwex.edu/agriculture/crops-and-soils/">Crops and Soils</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7174"><a href="https://clark.uwex.edu/central-wisconsin-forage-council/">Central Wisconsin Forage Council</a></li>
+		<li id="menu-item-4778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4778"><a href="https://clark.uwex.edu/peaq-stick-readings/">PEAQ Stick Readings</a></li>
+		<li id="menu-item-4614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4614"><a href="https://clark.uwex.edu/hay-market-reports/">Hay Market Reports</a></li>
+		<li id="menu-item-5113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5113"><a href="https://clark.uwex.edu/hay-pricing/">Hay Pricing</a></li>
+		<li id="menu-item-4625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4625"><a href="https://clark.uwex.edu/horticulture-resources/">Horticulture Resources</a></li>
+		<li id="menu-item-4624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4624"><a href="https://clark.uwex.edu/agronomy-links-of-interest/">Agronomy Links of Interest</a></li>
+		<li id="menu-item-1682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1682"><a href="https://clark.uwex.edu/agriculture/crops-and-soils/growing-vegetable-tip-sheets/">Growing Vegetable – Tip Sheets</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1301"><a href="https://clark.uwex.edu/agriculture/dairy-and-livestock/">Dairy and Livestock Information</a></li>
+	<li id="menu-item-1302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1302"><a href="https://clark.uwex.edu/cash-farm-leases/">Cash Farm Leases</a></li>
+	<li id="menu-item-2243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="https://clark.uwex.edu/cash-land-rent-averages/">Cash Land Rent Averages</a></li>
+	<li id="menu-item-2204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2204"><a href="https://clark.uwex.edu/century-farm-application/">Century Farm Application</a></li>
+	<li id="menu-item-4686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4686"><a href="https://clark.uwex.edu/standing-forage-purchase-agreement-form/">Standing Forage Purchase Agreement Form</a></li>
+</ul>
+</li>
+<li id="menu-item-1303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1303"><a href="https://clark.uwex.edu/community-development/">Community Development</a></li>
+<li id="menu-item-1304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1304"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/">Family Living</a>
+<ul class="sub-menu">
+	<li id="menu-item-3458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3458"><a href="https://clark.uwex.edu/housing-information/">Housing Information</a></li>
+	<li id="menu-item-3369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3369"><a href="https://clark.uwex.edu/financial-resources/">Financial Resources</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1310"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/family-living/financial-management/">Financial Management Fact Sheets</a></li>
+		<li id="menu-item-1306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1306"><a href="https://clark.uwex.edu/managing-your-personal-finances-in-tough-times/">Personal Finances</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1312"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/family-living/parenting/">Parenting Information</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3358"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/family-living/parenting/families/">Families</a></li>
+		<li id="menu-item-3357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3357"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/family-living/parenting/teenagers/">Teenagers</a></li>
+		<li id="menu-item-3363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3363"><a href="https://clark.uwex.edu/school-age-children/">School Age Children</a></li>
+		<li id="menu-item-3360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3360"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/family-living/parenting/infants-and-toddlers/">Infants and Toddlers</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1311"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/family-living/home-community-education/">Home and Community Education (HCE) Information</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5708"><a href="https://clark.uwex.edu/hce-year-book-and-scholarship/">HCE Year Book and Scholarship</a></li>
+		<li id="menu-item-4768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4768"><a href="https://clark.uwex.edu/hce-newsletters/">HCE Newsletters</a></li>
+		<li id="menu-item-4336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4336"><a href="https://clark.uwex.edu/hce-leadership-trainings/">HCE Leadership Trainings</a></li>
+		<li id="menu-item-4488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4488"><a href="https://clark.uwex.edu/hce-day/">HCE Fall Tour</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1307"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/nutrition-education/">Foods and Nutrition</a>
+<ul class="sub-menu">
+	<li id="menu-item-4680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4680"><a href="https://clark.uwex.edu/clark-county-food-pantries-and-other-food-resources/">Clark County Food Pantries and Other Food Resources</a></li>
+	<li id="menu-item-1308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1308"><a href="https://clark.uwex.edu/family-living-and-nutrition-education/nutrition-education/food-preservation-and-safety/">Food Preservation and Safety</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4937"><a href="https://clark.uwex.edu/safe-and-healthy-preserving-food-at-home/">Safe and Healthy:  Preserving Food at Home</a></li>
+		<li id="menu-item-4942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4942"><a href="https://clark.uwex.edu/food-preservation-fact-sheets/">Food Preservation Fact Sheets</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1313"><a href="https://clark.uwex.edu/horticulture/">Horticulture</a>
+<ul class="sub-menu">
+	<li id="menu-item-1314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1314"><a href="https://clark.uwex.edu/horticulture/master-gardeners/">Over The Garden Gate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6661"><a href="https://clark.uwex.edu/club-minutes-2017/">Club Minutes – 2017</a></li>
+		<li id="menu-item-6538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6538"><a href="https://clark.uwex.edu/club-minutes-2016/">Club Minutes – 2016</a></li>
+		<li id="menu-item-6537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6537"><a href="https://clark.uwex.edu/club-minutes-2015/">Club Minutes – 2015</a></li>
+		<li id="menu-item-6536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6536"><a href="https://clark.uwex.edu/club-minutes-2014/">Club Minutes – 2014</a></li>
+		<li id="menu-item-6535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6535"><a href="https://clark.uwex.edu/club-minutes-2013/">Club Minutes – 2013</a></li>
+		<li id="menu-item-6534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6534"><a href="https://clark.uwex.edu/club-minutes-2012/">Club Minutes – 2012</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3094"><a href="https://clark.uwex.edu/newsletters/">Newsletters</a>
+<ul class="sub-menu">
+	<li id="menu-item-3098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3098"><a href="https://clark.uwex.edu/4-h-newsletters/">4-H Newsletters</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4229"><a href="https://clark.uwex.edu/woods-writings-camp-upham-woods/">Woods Writings (Camp Upham Woods)</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3108"><a href="https://clark.uwex.edu/extension-views/">Extension Views</a></li>
+	<li id="menu-item-3106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3106"><a href="https://clark.uwex.edu/grapevine/">Grapevine</a></li>
+	<li id="menu-item-3107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3107"><a href="https://clark.uwex.edu/parenting/">Parenting Newsletter and Information</a></li>
+</ul>
+</li>
+<li id="menu-item-2615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2615"><a href="https://clark.uwex.edu/county-fair-information/">County Fair Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-6684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6684"><a href="https://clark.uwex.edu/datcp-animal-health-regulations-for-fairs-and-shows-in-wisconsin-2017/">DATCP Animal Health Regulations for Fairs and Shows in Wisconsin</a></li>
+	<li id="menu-item-7036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7036"><a href="https://clark.uwex.edu/judging-schedule-junior-ffa/">Judging Schedule – Junior / FFA</a></li>
+	<li id="menu-item-3390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3390"><a href="https://clark.uwex.edu/fairbook/">Fairbook</a></li>
+	<li id="menu-item-3389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3389"><a href="https://clark.uwex.edu/entry-forms/">Entry Forms – Open and Senior Classes</a></li>
+	<li id="menu-item-3388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3388"><a href="https://clark.uwex.edu/4-h-ffa-behavior-agreement-form/">Behavior Agreement Form</a></li>
+	<li id="menu-item-3387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3387"><a href="https://clark.uwex.edu/camping-during-the-fair/">Camping During the Fair</a></li>
+	<li id="menu-item-3399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3399"><a href="https://clark.uwex.edu/fair-forms-for-4-h-ffa-leaders/">Fair Information for 4-H / FFA Leaders</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5014"><a href="https://clark.uwex.edu/barn-layouts-2/">Barn Layouts</a></li>
+		<li id="menu-item-3384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3384"><a href="https://clark.uwex.edu/recipes-for-department-25/">Recipes for Department 25</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3385"><a href="https://clark.uwex.edu/fairest-of-the-fair-information/">Fairest of the Fair Information</a></li>
+	<li id="menu-item-3386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3386"><a href="https://clark.uwex.edu/little-britches-dairy-show/">Little Britches Dairy Show</a></li>
+	<li id="menu-item-3913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3913"><a href="https://clark.uwex.edu/demollition-derby/">Demolition Derby and Truck Pull Information</a></li>
+	<li id="menu-item-5398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5398"><a href="https://clark.uwex.edu/cans-for-a-cause/">Cans for a Cause</a></li>
+	<li id="menu-item-4986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4986"><a href="https://clark.uwex.edu/chocolate-dessert-contest/">Chocolate Dessert Contest</a></li>
+	<li id="menu-item-5404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5404"><a href="https://clark.uwex.edu/clark-county-outdoor-sign-contest/">Clark County Fair Outdoor Sign Contest</a></li>
+	<li id="menu-item-6157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6157"><a href="https://clark.uwex.edu/4-h-green-thumb-challenge-2017/">4-H Green Thumb Challenge – 2017</a></li>
+</ul>
+</li>
+<li id="menu-item-3929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3929"><a href="https://clark.uwex.edu/clark-county-dairy-promotion/">Clark County Dairy Promotion Information</a></li>
+<li id="menu-item-4150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4150"><a href="https://clark.uwex.edu/clark-county-uw-extension/">Clark County Agriculture Committee Members</a></li>
+<li id="menu-item-1292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1292"><a href="https://clark.uwex.edu/4-h-youth-development/platbooks/">Platbooks</a></li>
+<li id="menu-item-4947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4947"><a href="https://clark.uwex.edu/news-from-extension/">News From Extension</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+    
+
+    
+	<div id="content" class="site-content">
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+        
+     	
+                        <div class='slogan'>
+                    We teach, learn, lead and serve, connecting people with the University of Wisconsin, and engaging with them in transforming lives and communities.                </div>
+             
+		
+						
+				
+<article id="post-7339" class="post-7339 post type-post status-publish format-standard sticky hentry category-uncategorized" >
+					<div class='excerpt-content'>
+			   	    <header class="entry-header">
+		<h1 class="entry-title"><a href="https://clark.uwex.edu/2017/11/28/dairy-management-meeting/" rel="bookmark">Dairy Management Meeting</a></h1>
+        <p class="edit-post-link">  </p>
+	</header><!-- .entry-header -->
+    
+
+	        <div class="entry-summary">
+            <p>December 13, 2017<br />
+Five Start Supply, N13539 Highway 73, Withee<br />
+10:00 a.m.<br />
+Cost is $10 per person and includes lunch and handouts<br />
+Pre-registration appreciated</p>
+            <span class="read-more"><a href="https://clark.uwex.edu/2017/11/28/dairy-management-meeting/" title="Dairy Management Meeting" >Read More...</a></span>
+        </div><!-- .entry-summary -->
+	    
+    </div><!-- .post-content -->
+    <div class="clear"></div>
+    
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-7125" class="post-7125 post type-post status-publish format-standard sticky hentry category-uncategorized" >
+					<div class='excerpt-content'>
+			   	    <header class="entry-header">
+		<h1 class="entry-title"><a href="https://clark.uwex.edu/2017/09/27/2018-century-and-sesquicentennial-farmhome-applications/" rel="bookmark">2018 Century and Sesquicentennial Farm/Home Applications</a></h1>
+        <p class="edit-post-link">  </p>
+	</header><!-- .entry-header -->
+    
+
+	        <div class="entry-summary">
+            <p>Applications now available</p>
+            <span class="read-more"><a href="https://clark.uwex.edu/2017/09/27/2018-century-and-sesquicentennial-farmhome-applications/" title="2018 Century and Sesquicentennial Farm/Home Applications" >Read More...</a></span>
+        </div><!-- .entry-summary -->
+	    
+    </div><!-- .post-content -->
+    <div class="clear"></div>
+    
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-7116" class="post-7116 post type-post status-publish format-standard sticky hentry category-4-h-home-page category-cnred category-crops-and-soils category-dairy-and-livestock category-family-living" >
+					<div class='excerpt-content'>
+			   	    <header class="entry-header">
+		<h1 class="entry-title"><a href="https://clark.uwex.edu/2017/09/25/continue-to-check-your-credit-report/" rel="bookmark">Continue to Check Your Credit Report</a></h1>
+        <p class="edit-post-link">  </p>
+	</header><!-- .entry-header -->
+    
+
+	        <div class="entry-summary">
+            <p>The recent data breach in the news comes from Equifax, one of the three major credit bureaus in the U.S. This breach involves computer hackers accessing personal data – social security numbers, birth dates, addresses, and potentially more information – of 143 million U.S. consumers.</p>
+            <span class="read-more"><a href="https://clark.uwex.edu/2017/09/25/continue-to-check-your-credit-report/" title="Continue to Check Your Credit Report" >Read More...</a></span>
+        </div><!-- .entry-summary -->
+	    
+    </div><!-- .post-content -->
+    <div class="clear"></div>
+    
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-5549" class="post-5549 post type-post status-publish format-standard sticky hentry category-uncategorized" >
+					<div class='excerpt-content'>
+			   	    <header class="entry-header">
+		<h1 class="entry-title"><a href="https://clark.uwex.edu/2016/02/11/2013-clark-county-platbook-price-reduced/" rel="bookmark">2016/2017 Clark County Platbook Now Available</a></h1>
+        <p class="edit-post-link">  </p>
+	</header><!-- .entry-header -->
+    
+
+	        <div class="entry-summary">
+            <p>$30.00</p>
+            <span class="read-more"><a href="https://clark.uwex.edu/2016/02/11/2013-clark-county-platbook-price-reduced/" title="2016/2017 Clark County Platbook Now Available" >Read More...</a></span>
+        </div><!-- .entry-summary -->
+	    
+    </div><!-- .post-content -->
+    <div class="clear"></div>
+    
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-4589" class="post-4589 post type-post status-publish format-standard has-post-thumbnail hentry category-4-h-home-page category-cnred category-crops-and-soils category-dairy-and-livestock category-family-living" >
+						<div class="post-thumbnail"><a href="https://clark.uwex.edu/2015/03/12/check-us-out-on-facebook/"><img width="150" height="150" src="https://clark.uwex.edu/files/2015/03/blue-facebook-logo-150x150.png" class="attachment-square-thumbnail size-square-thumbnail wp-post-image" alt="" srcset="https://clark.uwex.edu/files/2015/03/blue-facebook-logo-e1426271523777.png 150w, https://clark.uwex.edu/files/2015/03/blue-facebook-logo-300x300.png 300w" sizes="(max-width: 150px) 100vw, 150px" /></a></div>
+					<div class='excerpt-content-thumbnail'>
+			   	    <header class="entry-header">
+		<h1 class="entry-title"><a href="https://clark.uwex.edu/2015/03/12/check-us-out-on-facebook/" rel="bookmark">Check us out on Facebook!</a></h1>
+        <p class="edit-post-link">  </p>
+	</header><!-- .entry-header -->
+    
+
+	        <div class="entry-summary">
+            <p>Check out our new Clark County University of Wisconsin Extension Facebook page weekly for activities and events happening throughout Clark County. Make sure to &#8220;like&#8221; us!</p>
+            <span class="read-more"><a href="https://clark.uwex.edu/2015/03/12/check-us-out-on-facebook/" title="Check us out on Facebook!" >Read More...</a></span>
+        </div><!-- .entry-summary -->
+	    
+    </div><!-- .post-content -->
+    <div class="clear"></div>
+    
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-3454" class="post-3454 post type-post status-publish format-standard hentry category-uncategorized" >
+					<div class='excerpt-content'>
+			   	    <header class="entry-header">
+		<h1 class="entry-title"><a href="https://clark.uwex.edu/2014/01/31/housing-information/" rel="bookmark">Housing Information</a></h1>
+        <p class="edit-post-link">  </p>
+	</header><!-- .entry-header -->
+    
+
+	        <div class="entry-summary">
+            <p>UW-Extension About the House Home and Consumer Solutions Consumer Handbook of Credit Protection Laws</p>
+            <span class="read-more"><a href="https://clark.uwex.edu/2014/01/31/housing-information/" title="Housing Information" >Read More...</a></span>
+        </div><!-- .entry-summary -->
+	    
+    </div><!-- .post-content -->
+    <div class="clear"></div>
+    
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+
+</article><!-- #post-## -->
+
+			
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area nocontent" role="complementary">
+		        
+ 
+		<aside class='kayak-map widget'><h1 class='widget-title'>Our Location</h1><div id='sidebar-map' style='width: 270px; height: 260px;'>&nbsp;</div> <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?key=AIzaSyAYbR7nTJfkAcXTbt7EWa-0Pvu0vERl-A4&sensor=false'></script>
+						<script type='text/javascript'>
+						  function initialize() {
+							var mapOptions = {
+							  zoomControl: true,
+							  center: new google.maps.LatLng(44.560041,-90.594787),
+							  mapTypeId: google.maps.MapTypeId.ROADMAP,
+							  streetViewControl: false,
+							  disableDefaultUI: true,
+							  zoom: 15
+	 						};
+
+							var map = new google.maps.Map(document.getElementById('sidebar-map'),
+								mapOptions);
+					
+							var MyPlace = new google.maps.LatLng(44.560041,-90.594787);
+					
+							var marker = new google.maps.Marker({
+								position: MyPlace,
+								url: 'https://clark.uwex.edu/office-map-and-directions/',
+								title: 'Office Map and Directions',
+								map: map
+							});
+					
+							google.maps.event.addListener(marker, 'click', function() {
+							  window.location.href = marker.url;
+							});
+
+						  }
+						  google.maps.event.addDomListener(window, 'load', initialize);
+						</script><p><span style="font-size: 14px; line-height: 25.7399997711182px;">Clark County – UW Extension</span><br style="font-size: 14px; line-height: 25.7399997711182px;" /><span style="font-size: 14px; line-height: 25.7399997711182px;">517 Court Street, Room 104</span><br style="font-size: 14px; line-height: 25.7399997711182px;" /><span style="font-size: 14px; line-height: 25.7399997711182px;">Neillsville, WI 54456</span><br style="font-size: 14px; line-height: 25.7399997711182px;" /><span style="font-size: 14px; line-height: 25.7399997711182px;">Phone:  715-743-5121</span><br style="font-size: 14px; line-height: 25.7399997711182px;" /><span style="font-size: 14px; line-height: 25.7399997711182px;">Fax:   715-743-5154</span></p>
+</aside><aside id="text-4" class="widget widget_text"><h1 class="widget-title">Resources</h1>			<div class="textwidget"><p><a href="http://counties.uwex.edu/clark/files/2017/05/4H-Calendar-2017.pdf">4-H Calendar</a><br />
+(updated 5-30-17)</p>
+<p><a href="https://counties.uwex.edu/clark/files/2017/10/Clark-County-Food-Resource-Brochure.pub_.pdf">Clark County Food Resource</a><br />
+(updated 10-19-17)</p>
+<p><a href="http://counties.uwex.edu/clark/files/2017/03/2017.pdf">Family Resource Guide</a><br />
+(updated 3-29-17)</p>
+<p><a href="https://counties.uwex.edu/clark/files/2017/11/Health-Resource-Guide-2013.pdf">Clark County Health Resource Book</a><br />
+(updated 11-2017)</p>
+</div>
+		</aside><aside id="categories-3" class="widget widget_categories"><h1 class="widget-title">Categories</h1>		<ul>
+	<li class="cat-item cat-item-32271"><a href="https://clark.uwex.edu/category/4-h-home-page/" >4-H</a>
+</li>
+	<li class="cat-item cat-item-32278"><a href="https://clark.uwex.edu/category/cnred/" >CNRED</a>
+</li>
+	<li class="cat-item cat-item-32274"><a href="https://clark.uwex.edu/category/crops-and-soils/" >Crops and Soils</a>
+</li>
+	<li class="cat-item cat-item-32273"><a href="https://clark.uwex.edu/category/dairy-and-livestock/" >Dairy and Livestock</a>
+</li>
+	<li class="cat-item cat-item-32272"><a href="https://clark.uwex.edu/category/family-living/" >Family Living</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://clark.uwex.edu/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"></div>
+		</aside>        
+        
+           
+                <aside class='forced-content widget'>
+                    <a href='https://goo.gl/1WWU04' target='_blank'><img src='https://clark.uwex.edu/wp-content/plugins/cets-forced-sidebar-content/images/tap-into-it-blue.png' alt='Tap Into It: help us share our story by sharing yours'></a><br /><div class='ad-panda-ad nocontent' style='background-color: #009ac6; padding: 0; padding-bottom: 1px;'>
+	<a style='display: inline-block; background-color: #000; width: 100%; text-align: center;' href='http://wiscontext.org/' target='_blank'><img src=/wp-content/plugins/cets-forced-sidebar-content/images/wiscontext-headlines.jpg alt='WisContext' style='max-width: 100%;' /></a>
+	<ul style='padding-top: 10px; padding-bottom: 4px; list-style: none; margin: 1%; padding: 1%;'><li style='border-bottom: none; padding: 0 10px 10px 10px; line-height: 1.6em'><a href='https://www.wiscontext.org/canned-baked-goods-can-bring-botulism-home-holidays' target='_blank' style='color: #fff; font-weight: normal;' >&#039;Canned&#039; Baked Goods Can Bring Botulism Home For The Holidays</a> </li><li style='border-bottom: none; padding: 0 10px 10px 10px; line-height: 1.6em'><a href='https://www.wiscontext.org/transformation-wisconsins-cranberry-harvest' target='_blank' style='color: #fff; font-weight: normal;' >The Transformation Of Wisconsin&#039;s Cranberry Harvest</a> </li><li style='border-bottom: none; padding: 0 10px 10px 10px; line-height: 1.6em'><a href='https://www.wiscontext.org/safely-stuffing-family-starts-safely-stuffing-birds' target='_blank' style='color: #fff; font-weight: normal;' >Safely Stuffing Family Starts With Safely Stuffing Birds</a> </li></ul></div>                </aside>
+                    	</div><!-- #secondary -->
+    </div><!-- #content -->
+    
+    <div class="after-content"></div>
+	<div class="above-footer"></div>
+
+	<footer id="footer" class="site-footer" role="contentinfo">
+    			<div id="footer-widgets">
+        		<div class="container">
+            <div class="block">
+<!--              <div class="widget nocontent">
+                  <h1 class="widget-title">University of Wisconsin-Extension</h1>
+                  <p class='ada'>An EEO/AA employer, University of Wisconsin-Extension provides equal opportunities in employment and programming, including Title VI, Title IX, and the Americans with Disabilities Act (ADA) requirements.
+   </p>
+              </div>-->
+              				  <div class="widget kayak-social-links">
+					<h1 class="widget-title">Connect with Us</h1>
+					  						  <a href="http://www.facebook.com/wisconsincooperativeextension"><img src="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/facebook.png" width="48" height="48" alt="Our Facebook" /></a>					  						  <a href="http://twitter.com/UWEXCoopExt"><img src="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/twitter.png"  width="48" height="48" alt="Our Twitter" /></a>					  					  					  					  					  					  						  <a href="https://clark.uwex.edu/feed/"><img src="https://clark.uwex.edu/wp-content/themes/ce-kayak/img/rss.png"  width="48" height="48" alt="Our RSS Feed" /></a>				  </div>
+             
+              
+              		           
+            </div>
+            
+            <div class="block nocontent">
+            
+            			           
+            </div>
+            <div class="block">
+                		           
+            </div>
+            <div class="block last">
+		                   		           
+            </div>
+   			<div class="kayak-fix"></div>
+		</div>    <!-- footer widgets -->
+    </div> <!-- footer widgets -->
+    
+		
+	</footer><!-- #footer -->
+</div><!-- #page -->
+
+<!-- network analytics --><script type='text/javascript'>
+
+					  var _gaq = _gaq || [];
+					  _gaq.push(['_setAccount', 'UA-31424873-1']);
+					  _gaq.push(['_trackPageview']);
+
+					  (function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					  })();
+
+					</script><!-- cets-global-banner-output -->
+<div id="ces-mm">
+
+
+	          	<div id="ces-mm-bar">	
+	    
+        <a href="http://www.uwex.edu" id="ces-mm-uwexlink" class="mm-link left">University of Wisconsin-Extension</a>
+        <div id="ces-mm-ceslink" class="mm-link right">Cooperative Extension</div>
+        <br class="clear" />
+    </div> <!-- /#ces-mm-bar -->
+    <div id="ces-mm-menu" style="display:none;">
+        <div id="ces-mm-menu-inner">
+        
+            <div id="ces-mm-ces" class="mm-item">
+                <div class="title">
+                    <div class="inner">
+                        <a href="http://www.uwex.edu/ces/">Home</a>
+                    </div>
+                </div>
+                <div class="content">
+                    <div class="inner">
+                        <p>We teach, learn, lead and serve, connecting people with the University of Wisconsin, and engaging with them in transforming lives and communities.</p>
+                        <p><a href="http://www.uwex.edu/ces/">Explore Extension &raquo;</a></p>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="ces-mm-learningstore" class="mm-item">
+                <div class="title">
+                    <div class="inner">
+                        <a href="http://learningstore.uwex.edu">The Learning Store</a>
+                    </div>
+                </div>
+                <div class="content">
+                    <div class="inner">
+                        <p>Publications for your life, organizations, and communities</p>
+                        <div class="mm-item-image"><a href="http://learningstore.uwex.edu"><img src="https://clark.uwex.edu/wp-content/plugins/cets-global-banner/images/learningstore.png" alt="Sample publications" border="0" /></a></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="ces-mm-fyi" class="mm-item">
+                <div class="title">
+                    <div class="inner">
+                        <a href="http://fyi.uwex.edu">For Your Information</a>
+                    </div>
+                </div>
+                <div class="content">
+                    <div class="inner">
+                        <ul class="mm-fyi-list" style="margin-right: 03.2258064516129%;">
+                            <li><a href="http://fyi.uwex.edu/topic/youth/">4-H and Youth</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/business/">Business and Economic Development</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/community/">Community and Government</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/resources/">Educational Resources</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/environment/">Environment and Natural Resources</a></li>
+                        </ul>
+                        <ul class="mm-fyi-list">
+                            <li><a href="http://fyi.uwex.edu/topic/farming/">Farming</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/health/">Food, Nutrition, and Health</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/family/">Home and Family</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/garden/">Lawn and Garden</a></li>
+                            <li><a href="http://fyi.uwex.edu/topic/news/">News and Communications</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+          <div id="ces-mm-counties" class="mm-item">
+            <div class="title">
+                <a href="http://counties.uwex.edu">Counties</a>
+            </div>
+            <div class="content">
+                <div class="inner">
+                    <p><a href="http://counties.uwex.edu" id="ces-mm-countylink">Connect with your County Extension Office</a></p>
+                    <div id="ces-mm-countymap" class="mm-item-image"><a href="http://counties.uwex.edu/"><img src="https://clark.uwex.edu/wp-content/plugins/cets-global-banner/images/countiesmap.png" alt="Map of Wisconsin counties" border="0" /></a></div>
+                </div>
+            </div>
+          </div>
+          
+          
+          <div id="ces-mm-search">
+            <form action='https://ces.uwex.edu/'>
+            	<label class="hidden" for="s">Search all sites</label>
+                <input type="text" placeholder="Search all sites" class="searchbox" name="s" id="s" />
+                <input type="submit" value="Search" />
+            </form>
+          </div><!-- /#ces-mm-search -->
+          
+        
+        </div>  
+    </div><!-- /#ces-mm-menu -->
+</div><!-- /#ces-mm -->
+
+ <script>
+        jQuery(document).ready(function() {
+        
+        // menu toggle 
+        jQuery("#ces-mm-ceslink").click(function() {
+            jQuery('#ces-mm-menu').slideToggle("fast", function() {
+                // animation complete
+            });
+        });
+
+        //move banner to start of body
+        jQuery('body').prepend( jQuery('#ces-mm') );    
+    });
+    </script>
+
+
+<!-- /cets-global-banner-output -->
+
+<div id="fyiFooter" class='nocontent'>
+    <p>
+		Clark County is part of the <a href="http://ces.uwex.edu">University of Wisconsin-Extension, Cooperative Extension</a>. 
+	<br />
+        <span class="copyright"><a href="http://blogs.ces.uwex.edu/copyright/">&copy; Board of Regents of the University of Wisconsin System</a> | <a href="http://fyi.uwex.edu/terms-and-conditions-of-use/">Terms of Use</a> | <a href="http://fyi.uwex.edu/privacy-policy/">Privacy Policy</a> | <a href="http://www.uwex.uwc.edu/about/office-diversity-inclusion/about-oedi/policies">Non-Discrimination Policy</a> | <a href="https://inclusion.uwex.uwc.edu/content/disability-accommodation-requests">Accommodation Requests</a> | <a href="https://blogs.ces.uwex.edu/civilrightsleadership/files/2015/11/How-to-File-a-Discrimination-Complaint-Program-Participants.pdf">Discrimination and Harassment Complaints</a></span>
+    </p>
+    <p>
+    An EEO/AA employer, University of Wisconsin-Extension provides equal opportunities in employment and programming, including Title VI, Title IX, and the Americans with Disabilities Act (ADA) requirements.
+    </p>
+</div>
+
+
+
+<script type='text/javascript'>
+
+					  var _gaq = _gaq || [];
+					  _gaq.push(['_setAccount', 'UA-42674060-1']);
+					  _gaq.push(['_trackPageview']);
+
+					  (function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					  })();
+
+					</script><script type='text/javascript' src='https://clark.uwex.edu/wp-content/themes/ce-kayak/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='https://clark.uwex.edu/wp-content/themes/ce-kayak/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='https://clark.uwex.edu/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+
+</body>
+</html>

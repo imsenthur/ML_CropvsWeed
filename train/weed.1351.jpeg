@@ -1,0 +1,2498 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-AT" lang="de-AT">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta http-equiv="cache-control" content="no-cache"/>
+<meta http-equiv="pragma" content="no-cache"/>
+<meta http-equiv="expires" content="-1"/>
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<meta name="robots" content="index, follow"/>
+<meta name="copyright" content="&copy; copyright 2017 BASF SE"/>
+<meta name="DC.date" scheme="W3CDTF" content="2017-07-25"/>
+<meta name="DC.format" content="text/html;charset=UTF-8"/>
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.agrar.basf.at/agroportal/at/de/startpage.html"/>
+<meta name="DC.language" scheme="RFC1766" content="de"/>
+<meta name="DC.publisher" content="BASF SE"/>
+<meta name="DC.title" lang="de" content="BASF Pflanzenschutz Österreich"/>
+<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text"/>
+<meta name="google-site-verification" content="nnM7oNUf2VDLfGg79zR9N2AWTzS6LCPZxWE8w8yeRJk"/>
+<meta name="WT.cg_n" content="desktop"/>
+<meta name="WT.cg_s" content=""/>
+<meta name="WT.ti" content="BASF Pflanzenschutz Österreich"/>
+<meta name="WT.rv" content=""/>
+<title>BASF Pflanzenschutz Österreich - BASF Pflanzenschutz Österreich</title>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="canonical" href="https://www.agrar.basf.at/agroportal/at/de/startpage.html"/>
+<link rel="shortcut icon" type="image/x-icon" href="/agroportal/media/common/favicons/BASF-fav-lg.ico"/>
+<link rel="icon" type="image/x-icon" href="/agroportal/media/common/favicons/BASF-fav-lg.ico"/>
+<link rel="stylesheet" type="text/css" href="/agroportal/media/common/css/phase_1/style_phase1.css"/>
+<link rel="stylesheet" type="text/css" media="screen, projection" href="/agroportal/media/common/css/phase_1/modules/personalize.css?ver=1512678574320" />
+<link rel="stylesheet" type="text/css" media="all" href="/agroportal/media/common/css/phase_1/colors/phase1~3.css?ver=1512730078519"/>
+<link rel="stylesheet" type="text/css" media="print" href="/agroportal/media/common/css/print/print.css?ver=1409818268944"/>
+<link rel="stylesheet" type="text/css" media="print" href="/agroportal/media/common/css/print/print_product_catalogue.css?ver=1409818268944"/>
+<link rel="stylesheet" type="text/css" media="print" href="/agroportal/media/common/css/print/print_lgreen.css?ver=1409818268944"/>
+<!--[if IE]><link rel="stylesheet" type="text/css" media="all" href="/agroportal/media/common/css/style_ie_fix/ie_fix_all.css?ver=1409818268944"/><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" type="text/css" media="all" href="/agroportal/media/common/css/style_ie_fix/ie_fix_9.css?ver=1409818268944"/><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/agroportal/at/media/js/html5shimjs.js"></script><![endif]-->
+<script type="text/javascript" src="/agroportal/media/resource/js/basf-agro-min.js?ver=1425291646383"></script>
+<script type="text/javascript" src="/agroportal/at/media/js/phase1/agro-scripts.js?ver=1512680911760"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/phase1.js"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/plugins/ow-lcarousel-min.js?ver=1416903801944"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/vendor_js/jquery-placeholder.js?ver=1456841495062"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/vendor_js/jquery-columnizer.js?ver=1456841495062"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/vendor_js/modernizr-custom-min.js?ver=1456841495062"></script>
+<script type="text/javascript" src="/agroportal/at/media/l1/js/psz/psz_framework.js?ver=1465974932833"></script>
+<script type="text/javascript" src="/agroportal/at/media/js/phase1/agro-scripts~1.js?ver=1512680911758"></script>
+<script type="text/javascript" src="/agroportal/at/media/l1/js/psz/locationsuggest.js?ver=1512680911764"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/plugins/jquery_carousel_lite.js"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/plugins/graph/d3-min.js?ver=1427804242682"></script>
+<script type="text/javascript" src="/agroportal/media/resource/js/plugins/graph/xchartsmin.js?ver=1427804242682"></script>
+<script type="text/javascript" src="/agroportal/at/media/l1/js/commodity-prices.js?ver=1481803904452"></script>
+</head>
+<body>
+<div class="page">
+<div class="header-container">
+<div id="companyLogo" class="bc-cc">
+<a href="/agroportal" title="BASF Pflanzenschutz Österreich"><img class="logo" src="/agroportal/media/common/img/nav/BASF_smallLogo_transparent.png" alt="BASF Pflanzenschutz Österreich" title="BASF Pflanzenschutz Österreich"/></a>
+</div>
+<a id="top" name="top"></a>
+<div id="header" class=" psz">
+<div id="service" class="serviceBar">
+<div class="header-navMenu">
+<ul>
+<li id="homeBtn">
+<a class="tc-cc"> <i class="icon-new-style icon-phase1 icon-home"></i></a>
+</li>
+<li id="siteIdentifier">
+<a class="tc-cc" href="/agroportal" title="BASF Pflanzenschutz Österreich">
+BASF Pflanzenschutz Österreich
+</a>
+</li>
+<li id="serviceNavigationWrapper">
+<ul>
+<li id="serviceNavigation">
+<ul>
+<li id="searchIco">
+<a class="searchBar" id="serviceSearchSubmitLink">
+<i class="searchform-submit icon-new-style icon-phase1 icon-search-new"></i>
+</a>
+</li>
+<li id="LangIco">
+<a class="tc-cc"> <i class="icon-new-style icon-world icon-phase1"></i></a>
+</li>
+<li id="activeShare">
+<a href="javascript:;" class="share-trigger">
+<i class="icon-new-style icon-phase1 icon-share-new">
+</i>
+</a>
+<ul id="shareIcons">
+<li id="facebookIco">
+<a class="tc-cc" href="" data-share="https://www.facebook.com/sharer/sharer.php?u="> <i class="icon icon-phase1 icon-new-style theme-txt icon-facebook"></i></a>
+</li>
+<li id="linkedinIco">
+<a class="tc-cc" href="" data-share="http://www.linkedin.com/shareArticle?mini=true&url="> <i class="icon icon-phase1 icon-new-style theme-txt icon-linkedin"></i></a>
+</li>
+<li id="twitterIco">
+<a class="tc-cc" href="" data-share="https://twitter.com/intent/tweet?url="> <i class="icon icon-phase1 icon-new-style theme-txt icon-twitter"></i></a>
+</li>
+<li id="googleIco">
+<a class="tc-cc" href="" data-share="https://plus.google.com/share?url="> <i class="icon icon-phase1 icon-new-style theme-txt icon-google"></i></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</ul>
+</div>
+<div class="searchForm">
+<form id="searchForm" method="post" action="/agroportal/at/../search/de/search.action">
+<div class="input-search-container container-fluid">
+<input class="searchform-input" name="query" type="text" placeholder="Suchen...">
+<button class="searchform-reset icon icon-typ-1 icon-close-sign opac" value="close" type="reset"></button>
+</div>
+</form>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+$('#loupe').pageZoom();
+$('#siteIdentifier').width($('#service').width()-$('#serviceNavigationWrapper').width()-$('#homeBtn'));
+psz.placeOverlay();
+var url = window.location.href;
+$('#shareIcons a').each(function() {
+$(this).attr('href', $(this).data('share') + url);
+});
+});
+//]]>>
+</script>
+</div>
+</div>
+<div class="receiver">
+<div class="meta-navigation flyout">
+<div class="view-selector-headline">
+<div class="countries">
+<h3 class="flyoutHeader">Choose a country</h3>
+<div class="continents noShow">
+<ul class="region-nav">
+<li class="eur">
+<a class="">Europe</a>
+<div class="region-languages clearfix">
+<div class="column-flag">
+<ul class="theme-txt">
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agrar.basf.at" class="country-item">Austria</a>
+<a target="_blank" href="https://www.agrar.basf.at" class="multilang">Deutsch</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.by" class="country-item">Belarus</a>
+<a target="_blank" href="https://www.agro.basf.by" class="multilang">Belarusian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.be/agroportal/be/nl/startpage.html" class="country-item">Belgium </a>
+<a target="_blank" href="https://www.agro.basf.be/agroportal/be/fr/startpage.html" class="multilang">Francais |</a>
+<a target="_blank" href="https://www.agro.basf.be/agroportal/be/nl/startpage.html" class="multilang">Dutch</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.bg" class="country-item">Bulgaria</a>
+<a target="_blank" href="https://www.agro.basf.bg" class="multilang">Bulgare</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.hr" class="country-item">Croatia</a>
+<a target="_blank" href="https://www.agro.basf.hr" class="multilang">Croatian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.cz" class="country-item">Czech Republic</a>
+<a target="_blank" href="https://www.agro.basf.cz" class="multilang">Czech</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.dk" class="country-item">Denmark</a>
+<a target="_blank" href="https://www.agro.basf.dk" class="multilang">Danish</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.ee" class="country-item">Estonia</a>
+<a target="_blank" href="https://www.agro.basf.ee" class="multilang">Estonian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.fi" class="country-item">Finland</a>
+<a target="_blank" href="https://www.agro.basf.fi" class="multilang">Finnish</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.fr" class="country-item">France</a>
+<a target="_blank" href="https://www.agro.basf.fr" class="multilang">Francais</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agrar.basf.de" class="country-item">Germany</a>
+<a target="_blank" href="https://www.agrar.basf.de" class="multilang">Deutsch</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.gr" class="country-item">Greece</a>
+<a target="_blank" href="https://www.agro.basf.gr" class="multilang">Greek</a>
+</span>
+</li>
+</ul>
+</div>
+<div class="column-flag">
+<ul class="theme-txt">
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.hu" class="country-item">Hungary</a>
+<a target="_blank" href="https://www.agro.basf.hu" class="multilang">Magyar</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agricentre.basf.ie" class="country-item">Ireland</a>
+<a target="_blank" href="https://www.agricentre.basf.ie" class="multilang">Irish</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.it" class="country-item">Italy</a>
+<a target="_blank" href="https://www.agro.basf.it" class="multilang">Italian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.kz" class="country-item">Kazahstan</a>
+<a target="_blank" href="https://www.agro.basf.kz" class="multilang">Kazakh</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.lv" class="country-item">Latvia</a>
+<a target="_blank" href="https://www.agro.basf.lv" class="multilang">Latvian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.lt" class="country-item">Lithuania</a>
+<a target="_blank" href="https://www.agro.basf.lt" class="multilang">Lithuanian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.md" class="country-item">Moldova</a>
+<a target="_blank" href="https://www.agro.basf.md" class="multilang">Romanian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.nl" class="country-item">Netherlands</a>
+<a target="_blank" href="https://www.agro.basf.nl" class="multilang">Dutch</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.no" class="country-item">Norway</a>
+<a target="_blank" href="https://www.agro.basf.no" class="multilang">Norse</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.pl" class="country-item">Poland</a>
+<a target="_blank" href="https://www.agro.basf.pl" class="multilang">Polish</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.pt" class="country-item">Portugal</a>
+<a target="_blank" href="https://www.agro.basf.pt" class="multilang">Portuguese</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.ro" class="country-item">Romania</a>
+<a target="_blank" href="https://www.agro.basf.ro" class="multilang">Romanian</a>
+</span>
+</li>
+</ul>
+</div>
+<div class="column-flag">
+<ul class="theme-txt">
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.ru" class="country-item">Russia</a>
+<a target="_blank" href="https://www.agro.basf.ru" class="multilang">Russian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.rs" class="country-item">Serbia</a>
+<a target="_blank" href="https://www.agro.basf.rs" class="multilang">Serbian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.sk" class="country-item">Slovakia</a>
+<a target="_blank" href="https://www.agro.basf.sk" class="multilang">Slovakian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.si" class="country-item">Slowenia</a>
+<a target="_blank" href="https://www.agro.basf.si" class="multilang">Slowenian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.es" class="country-item">Spain</a>
+<a target="_blank" href="https://www.agro.basf.es" class="multilang">Spanish</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.se" class="country-item">Sweden</a>
+<a target="_blank" href="https://www.agro.basf.se" class="multilang">Swedish</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.ch/agroportal/ch/de/startpage.html" class="country-item">Switzerland</a>
+<a target="_blank" href="https://www.agro.basf.ch/agroportal/ch/de/startpage.html" class="multilang">Deutsch |</a>
+<a target="_blank" href="https://www.agro.basf.ch/agroportal/ch/fr/startpage.html" class="multilang">Francais |</a>
+<a target="_blank" href="https://www.agro.basf.ch/agroportal/ch/it/startpage.html" class="multilang">Italian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.com.tr" class="country-item">Turkey</a>
+<a target="_blank" href="https://www.agro.basf.com.tr" class="multilang">Turkish</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.ro" class="country-item">Ukraine</a>
+<a target="_blank" href="https://www.agro.basf.ro" class="multilang">Ukrainian</a>
+</span>
+</li>
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://agriculture.basf.com/gb/en.html" class="country-item">United Kingdom</a>
+<a target="_blank" href="https://agriculture.basf.com/gb/en.html" class="multilang">English</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="afr">
+<a>Middle East - Africa</a>
+<div class="region-languages clearfix">
+<div class="column-flag">
+<ul class="theme-txt">
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.co.ma" class="country-item">Morocco</a>
+<a target="_blank" href="https://www.agro.basf.co.ma" class="multilang">Arabic</a>
+</span>
+</li>
+</ul>
+</div>
+<div class="column-flag">
+<ul class="theme-txt">
+<li class="country-language-item">
+<span>
+<a target="_blank" href="https://www.agro.basf.co.za/agroportal/za/en/startpage.html" class="country-item">South Africa</a>
+<a target="_blank" href="https://www.agro.basf.co.za/agroportal/za/en/startpage.html" class="multilang">English |</a>
+<a target="_blank" href="https://www.agro.basf.co.za/agroportal/za/af/startpage.html" class="multilang">African</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="availableLanguages">
+<ul class="langs">
+<li>
+<a class="globalSite globalSitebar" target="_blank" href="https://www.basf.com/en.html"><i class="icon-new-style icon-world icon-typ-2"></i> BASF Global</a>
+</li>
+<li>
+<a class="globalSite" target="_blank" href="https://agriculture.basf.com/en.html"><i class="icon-new-style icon-world icon-typ-2"></i> BASF Agriculture Global</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="visualPictureHeader" class="visualHeader stage">
+<div id="visualHeaderContainer">
+<div id="stageSlider" class="slide-wrapper france-header po-r po-b">
+<ul class="slides">
+<li class="slide whiteText first">
+<img class="pictureHeader" src="/agroportal/at/media/migrated/at/startseite_neu_1/10_2017/header_getreide-aussaat_09_960x340_header960x340px_header960x340px.jpg" usemap="#map14585351468416_13" alt=""/>
+<map name="map14585351468416_13">
+<area href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_71763.html" title="Stomp® Aqua" coords="0,0,1112,267" shape="rect"/>
+</map>
+<div class="caption-bg"></div>
+<div class="caption">
+<h3>Stomp Aqua<sup>&reg;</sup> + Lentipur<sup>&reg;</sup> 500 </h3>
+<p>Breite und lange Wirksamkeit gegen Ungräser und Unkräuter!</p>
+<a class="link icon-internal" href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_71763.html">Mehr erfahren...</a>
+</div>
+</li>
+<li class="slide whiteText">
+<img class="pictureHeader" src="/agroportal/at/media/migrated/at/banner/Stage-Header-Pontos_KeyVisual_header960x340px.jpg" usemap="#map14106631468416_13" alt="" title="Mehr erfahren..."/>
+<map name="map14106631468416_13">
+<area href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_257782.html" coords="0,0,6340,2242" shape="rect"/>
+<area href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_272768.html" coords="0,0,6331,2295" shape="rect"/>
+</map>
+<div class="caption-bg"></div>
+<div class="caption">
+<h3>Pontos<sup>&reg;</sup></h3>
+<p>Mit dreifacher Traktion gegen Ungräser und Unkräuter</p>
+<a class="link icon-internal" href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_257782.html">Mehr erfahren...</a>
+</div>
+</li>
+<li class="slide whiteText">
+<img class="pictureHeader" src="/agroportal/at/media/migrated/at/startseite_neu_1/header_06_2016/regionalberatung_header960x340px.jpg" usemap="#map11894171468416_13" alt="Anmeldung zur BASF Regionalberatung - Pflanzenschutz" title="Anmeldung zur BASF Regionalberatung - Pflanzenschutz"/>
+<map name="map11894171468416_13">
+<area href="/agroportal/at/de/aktuell_at/aktuell_atregionalempfehlungen_at/anmeldung_regionalberatung/anmeldung.html" title="Anmeldung BASF Regionalberatung Pflanzenschutz" coords="0,0,1059,344" shape="rect"/>
+</map>
+<div class="caption-bg"></div>
+<div class="caption">
+<h3>Regionalberatung Pflanzenschutz</h3>
+<p><a class="link icon-internal" href="/agroportal/at/de/aktuell_at/aktuell_atregionalempfehlungen_at/anmeldung_regionalberatung/anmeldung.html" title="Anmeldung BASF Regionalberatung Pflanzenschutz">Melden Sie sich jetzt an und erhalten Sie Ihr persönliche regionale Beratung!</a></p>
+</div>
+</li>
+</ul>
+<ol class="tabs">
+<li class="tab"><a href="#"></a></li>
+<li class="tab"><a href="#" title="Mehr erfahren..."></a></li>
+<li class="tab"><a href="#" title="Anmeldung zur BASF Regionalberatung - Pflanzenschutz"></a></li>
+</ol>
+</div>
+<script type="text/javascript">$(function(){$('.slide-wrapper').flexslider({animationSpeed:1000,directionNav:false,manualControls:'.tabs li a',pauseOnHover:true,slideshowSpeed:5000})});</script>
+</div>
+</div>
+</div>
+<div id="mainNavigationIdentifier">
+<ul>
+<li id="navTitle"><a href="/agroportal" >BASF Pflanzenschutz Österreich</a></li>
+<li id="navContact">
+<a href="/agroportal/at/de/Contacts_overview.html">
+<i class="icon icon-contact-person icon-typ-0 size"></i> Kontakt
+</a>
+</li>
+</ul>
+</div>
+<div class="main_navigation">
+<nav id="mainNavigation" class="pn-ProductNav dragscroll collapsed" data-overflowing="right">
+<ul id="navContents" class="pn-ProductNav_Contents pn-ProductNav_Contents-no-transition" style="transform: none;">
+<li><a aria-selected="true" style="display:none;"></a></li>
+<li id="409848" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/Aktuelles_1.html"
+title="Aktuell"
+>Aktuell
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/aktuell_at/Aktuelles_1.html"
+title="Aktuell"
+><i class="toplevel"></i>Aktuell</a>
+<li id="1112476" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/regionalberatung/ps_news_regional_advice_cp.html"
+title="Regionalberatung"
+>Regionalberatung
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="835575" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/veranstaltungen/event_overview.html"
+title="Veranstaltungen"
+>Veranstaltungen
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="1112460" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/ps_news_agro_market/ps_news_agro_market_cp.html"
+title="Agrar-News"
+>Agrar-News
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="1112464" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/presse/ps_news_basf_agro_cp.html"
+title="Pressemitteilungen"
+>Pressemitteilungen
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="413818" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/wussten_sie_schon/wussten_sie_schon_1.html"
+title="Wussten Sie schon...?"
+>Wussten Sie schon...?
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="894335" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/landwirt_wichtigster_beruf/wichtigster_beruf_1.html"
+title="Landwirt, der wichtigste Beruf der Erde"
+>Landwirt, der wichtigste Beruf der Erde
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="968562" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/feldtage_2015/feldtage_1.html"
+title="Feldtage"
+>Feldtage
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/aktuell_at/feldtage_2015/feldtage_1.html"
+title="Feldtage"
+><i class="toplevel"></i>Feldtage</a>
+<li id="968563" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/feldtage_2015/impressionen_betaexpo/betaexpo_2015.html"
+title="Impressionen Betaexpo"
+>Impressionen Betaexpo
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="968564" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/feldtage_2015/impressionen_weikendorf/feldtag_weikendorf_2015.html"
+title="Impressionen Weikendorf"
+>Impressionen Weikendorf
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="1046002" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/weinbau_dosierrechner/weinbau_dosierrechner.html"
+title="Weinbau Dosierrechner"
+>Weinbau Dosierrechner
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="823435" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/weinbaufoerderpreis/weinbaufoerderpreis_2015.html"
+title="Weinbauförderpreis"
+>Weinbauförderpreis
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="975566" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/spiel_satz_signum/spiel_satz_signum_1.html"
+title="Spiel Satz Signum&reg;"
+>Spiel Satz Signum<sup>&reg;</sup>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="985389" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/aktuell_at/gewinnspiel_rapstechnologie_2015/gewinner_rapstechnologie_2016.html"
+title="Rapstechnologie - Gewinner"
+>Rapstechnologie - Gewinner
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="409731" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/_Produkte_Einstiegsseite_AT.html"
+title="Produkte"
+>Produkte
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/produkte/_Produkte_Einstiegsseite_AT.html"
+title="Produkte"
+><i class="toplevel"></i>Produkte</a>
+<li id="409742" class=" mainNavFirstLvl">
+<a href="/agroportal/at/../productfiles/de/400445/productfiles.action"
+title="Gebrauchsanleitung / Sicherheitsdatenblatt"
+>Gebrauchsanleitung / Sicherheitsdatenblatt
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="1112456" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/zulassungen/ps_news_agro_field_cp.html"
+title="Zulassungen"
+>Zulassungen
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="900293" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/kulturen_1.html"
+title="Kulturen"
+>Kulturen
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/produkte/kulturen/kulturen_1.html"
+title="Kulturen"
+><i class="toplevel"></i>Kulturen</a>
+<li id="1002033" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/gemuese/kultur_gemuese.html"
+title="Gemüse"
+>Gemüse
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="900294" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/getreide/kultur_getreide.html"
+title="Getreide "
+>Getreide
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="918595" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/kartoffeln/kultur_kartoffeln.html"
+title="Kartoffeln"
+>Kartoffeln
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="918978" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/mais/kultur_mais.html"
+title="Mais"
+>Mais
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="919673" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/obst/kultur_obst.html"
+title="Obst"
+>Obst
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="900295" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/raps/kultur_raps.html"
+title="Raps"
+>Raps
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="915674" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/rueben/kultur_rueben.html"
+title="Rüben"
+>Rüben
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="924819" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/wein/kultur_wein.html"
+title="Wein"
+>Wein
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="1362074" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/kulturen/leguminosen/kultur_leguminosen.html"
+title="Leguminosen"
+>Leguminosen
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="410171" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/ecokanister_at/EcoKanister_uebersicht.html"
+title="EcoKanister"
+>EcoKanister
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/produkte/ecokanister_at/EcoKanister_uebersicht.html"
+title="EcoKanister"
+><i class="toplevel"></i>EcoKanister</a>
+<li id="410205" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/ecokanister_at/warum_at/EcoKanister_Warum.html"
+title="Warum"
+>Warum
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410200" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/ecokanister_at/vorteile_at/EcoKanister_Vorteile.html"
+title="Vorteile"
+>Vorteile
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410172" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/ecokanister_at/der_einsatz_in_der_praxis/EcoKanister_Einsatz.html"
+title="Der Einsatz in der Praxis"
+>Der Einsatz in der Praxis
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410195" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/ecokanister_at/nachhaltigkeit_durch_oekoeffizienz/EcoKanister_Nachhaltigkeit.html"
+title="Nachhaltigkeit durch Ökoeffizienz"
+>Nachhaltigkeit durch Ökoeffizienz
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410180" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/ecokanister_at/groessen/EcoKanister_groessen.html"
+title="Größen"
+>Größen
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="412023" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/produkte/clearfield_2/clearfield_3.html"
+title="Clearfield"
+>Clearfield
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="409748" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/services_neu_/Services_Einstieg_1.html"
+title="Beratung"
+>Beratung
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/services_neu_/Services_Einstieg_1.html"
+title="Beratung"
+><i class="toplevel"></i>Beratung</a>
+<li id="715040" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/services_neu_/ansprechpartner/contact_3.html"
+title="Ansprechpartner"
+>Ansprechpartner
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="799443" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/services_neu_/mobile_website/mobile_webseite_1.html"
+title="Mobile Webseite"
+>Mobile Webseite
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="715146" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/services_neu_/notfallkontakt/emergency_contact.html"
+title="Notfallkontakt"
+>Notfallkontakt
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="1287798" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/services_neu_/rohstoffpreise/rohstoffpreise.html"
+title="Rohstoffpreise"
+>Rohstoffpreise
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="409759" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/weather_/prognose/agrarwetter.html"
+title="Agrarwetter"
+>Agrarwetter
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/weather_/prognose/agrarwetter.html"
+title="Agrarwetter"
+><i class="toplevel"></i>Agrarwetter</a>
+<li id="414218" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/weather_/prognose/agrarwetter.html"
+title="Prognose"
+>Prognose
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="411597" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/../weather/de/europemap_precipitation.action"
+title="Wetterkarte"
+>Wetterkarte
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/../weather/de/europemap_precipitation.action"
+title="Wetterkarte"
+><i class="toplevel"></i>Wetterkarte</a>
+<li id="411598" class=" mainNavFirstLvl">
+<a href="/agroportal/at/../weather/de/europemap_precipitation.action"
+title="Niederschlagsmenge"
+>Niederschlagsmenge
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="411599" class=" mainNavFirstLvl">
+<a href="/agroportal/at/../weather/de/europemap_tempmax.action"
+title="Temperatur Max"
+>Temperatur Max
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="411600" class=" mainNavFirstLvl">
+<a href="/agroportal/at/../weather/de/europemap_tempmin.action"
+title="Temperatur Min"
+>Temperatur Min
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="412253" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/nachhaltigkeit_einstieg.html"
+title="Nachhaltigkeit"
+>Nachhaltigkeit
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/nachhaltigkeit/nachhaltigkeit_einstieg.html"
+title="Nachhaltigkeit"
+><i class="toplevel"></i>Nachhaltigkeit</a>
+<li id="412830" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/agbalance/agbalance_2.html"
+title="AgBalance"
+>AgBalance
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="412839" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/produktverantwortung/produktverantwortung_1.html"
+title="Produktverantwortung"
+>Produktverantwortung
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="412255" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/honigbienen_und_pflanzenschutz/honigbienen_1.html"
+title="Honigbienen und Landwirtschaft"
+>Honigbienen und Landwirtschaft
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="412863" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/wasser/wasser_1.html"
+title="Wasser"
+>Wasser
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/nachhaltigkeit/wasser/wasser_1.html"
+title="Wasser"
+><i class="toplevel"></i>Wasser</a>
+<li id="412256" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/wasser/gewaesserschutz/gewaesserschutz_1.html"
+title="Gewässerschutz"
+>Gewässerschutz
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="412855" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/gesundheit_und_sicherheit/gesundheit_und_sicherheit_1.html"
+title="Gesundheit und Sicherheit"
+>Gesundheit und Sicherheit
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="412845" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/biodiversitaet/biodiversitaet_1.html"
+title="Biodiversität"
+>Biodiversität
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="413709" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/nachhaltigkeit/videos/videos_1.html"
+title="Videos"
+>Videos
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="409765" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/infothek/Overview_Infothek_1.html"
+title="Infothek"
+>Infothek
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/infothek/Overview_Infothek_1.html"
+title="Infothek"
+><i class="toplevel"></i>Infothek</a>
+<li id="409766" class=" mainNavFirstLvl">
+<a href="/agroportal/at/../infomaterialorder/de/400482/displayOrderForm.action"
+title="Infomaterial"
+>Infomaterial
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="409754" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/infothek/pest_lexikon_1/pest_lexicon_249611.html"
+title="Schaderreger-Lexikon"
+>Schaderreger-Lexikon
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="409781" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/infothek/infotheklexikon_/glossary_249611.html"
+title="Lexikon"
+>Lexikon
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="409776" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/infothek/infotheklinkliste/linklisting_1_249611.html"
+title="Linkliste"
+>Linkliste
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="409787" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/presse_at/Presse_AT.html"
+title="Presse"
+>Presse
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/presse_at/Presse_AT.html"
+title="Presse"
+><i class="toplevel"></i>Presse</a>
+<li id="410155" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/presse_at/pressematerial_at/Pressematerial_1.html"
+title="Pressematerial"
+>Pressematerial
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410150" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/presse_at/pressekontakt_at/Pressekontakt_1.html"
+title="Pressekontakt"
+>Pressekontakt
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+<li id="409794" class="hasSubmenu mainNavFirstLvl">
+<a href="/agroportal/at/de/ueber_uns/Ueber_uns_2.html"
+title="Über uns"
+>Über uns
+<i class="menuArrows"></i>
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+<li >
+<a href="/agroportal/at/de/ueber_uns/Ueber_uns_2.html"
+title="Über uns"
+><i class="toplevel"></i>Über uns</a>
+<li id="864805" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/ueber_uns/basf_pflanzenschutz/basf_pflanzenschutz.html"
+title="BASF Pflanzenschutz"
+>BASF Pflanzenschutz
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410485" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/ueber_uns/kontakt_at/Kontakt_1.html"
+title="Kontakt"
+>Kontakt
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="866237" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/ueber_uns/agb/allgemeine_geschaeftsbedingungen.html"
+title="AGB"
+>AGB
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="409795" class=" mainNavFirstLvl">
+<a href="/agroportal/at/../feedback/de/viewFeedback.action"
+title="Feedback"
+>Feedback
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410480" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/ueber_uns/jobs_praktikas/Jobs.html"
+title="Jobs &amp; Praktika"
+>Jobs &amp; Praktika
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+<li id="410475" class=" mainNavFirstLvl">
+<a href="/agroportal/at/de/ueber_uns/anfahrt_at/Anfahrt_1.html"
+title="Anfahrt"
+>Anfahrt
+<i class="triangle"></i>
+</a>
+<div class="subMenu-slider">
+<a class="backNav">Back</a>
+<ul>
+</ul></div>
+</li>
+</li>
+</ul></div>
+</li>
+
+<span id="pnIndicator" class="pn-ProductNav_Indicator" style="transform: translateX(0px) scaleX(0.794844); background-color: rgb(134, 113, 0);"></span>
+</ul>
+</nav>
+<button id="pnAdvancerLeft" class="pn-Advancer pn-Advancer_Left pn-Advancer_Icon navIcons bounce1" type="button">
+<i class="icon_back"></i>
+</button>
+<button id="pdAdvancerLeft" class="pn-Advancer pn-Advancer_Left pn-Advancer_Icon navIcons staticAdvancerLeft" type="button">
+</button>
+<button id="pnAdvancerRight" class="pn-Advancer pn-Advancer_Right pn-Advancer_Icon navIcons bounce" type="button">
+<i class="icon_forward"></i>
+</button>
+<button id="pdAdvancerRight" class="pn-Advancer pn-Advancer_Right pn-Advancer_Icon navIcons staticAdvancerRight" type="button">
+</button>
+</div>
+<!-- hier sollte die pb sein -->
+<script type="text/javascript" src="/agroportal/media/resource/js/vendor_js/jquery-color-min.js"></script>
+<script type="text/javascript">$(function(){var locationSuggest = new LocationSuggest($('#personalizationBar #input_city'), $('#personalizationBar'));$('#geodataselector').parent().hide();})</script>
+<div id="personalizationBar" class="psz_ajaxwidget personalizationBar clearfix">
+<div id="profsection" class="sectionwrapper">
+<span id="profpic"></span>
+<div id="textsection">Website jetzt regionalisieren!:</div>
+</div>
+<div id="city" class="sectionwrapper">
+<div id="cityinput">
+<form id="form_city" onSubmit="return false;">
+<div class="pb_button btn_cancel btn_darkgrey" id="btn_clearcity" tabIndex="-1" style="display: inline-block; width: 3px;">&nbsp;</div><input type="text" class="psz_input_city" id="input_city" autocomplete="off" placeholder="PLZ oder Ort"><div id="localizebtn" class="pb_button btn_local" style="display: inline-block;" title="Lassen Sie Ihren Browser Ihren Standort automatisch erkennen.">&nbsp;</div>
+<div id="savelocation" class="pb_button btn_go btn_go btn_darkgrey" tabIndex="-1" style="display: inline-block; width: 3px;">&nbsp;</div>
+</form>
+</div>
+<div id="cityswitch">
+<div class="switchframe" data-textpart="textcity" title="Schalten Sie die Anpassung an Ihre Region temporär AN/AUS.">
+<div class="pos">Ein</div>
+<div class="pos">Aus</div>
+<div class="switch" data-state="Off"></div>
+</div>
+</div>
+<span id="textcity" class="rewrite"></span>
+</div>
+<div id="crops" class="sectionwrapper">
+<div id="cropinput">
+<div class="pb_button btn_darkgrey" id="btn_addcrops">Kulturen speichern<img src="/agroportal/media/common/img/personalize/plus.png" /></div>
+</div>
+<span id="textcrops" class="rewrite"></span>
+<div id="cropswitch">
+<div class="switchframe" data-textpart="textcrops" title="Temporarily switch the adaption to your crops ON/OFF.">
+<div class="pos">Ein</div>
+<div class="pos">Aus</div>
+<div class="switch" data-state="Off"></div>
+</div>
+</div>
+</div>
+<div id="listwrapper">
+<div id="cropslist" class="">
+<div id="section_left">
+<ul id="list_cropgroups" class="brandColorText">
+<li data-cropgroup="216841" data-cropgroupname="Baumnüsse"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Baumnüsse</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216837" data-cropgroupname="Baumwolle"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Baumwolle</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="234242" data-cropgroupname="Bäume und Sträucher"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Bäume und Sträucher</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216836" data-cropgroupname="Gemüse"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Gemüse</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216838" data-cropgroupname="Gemüse-Hülsenfrüchte"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Gemüse-Hülsenfrüchte</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216846" data-cropgroupname="Getreide"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Getreide</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216852" data-cropgroupname="Gräser"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Gräser</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216853" data-cropgroupname="Hopfen"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Hopfen</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216850" data-cropgroupname="Kartoffeln"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Kartoffeln</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="234241" data-cropgroupname="Kräuter"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Kräuter</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216843" data-cropgroupname="Leguminosen"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Leguminosen</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216851" data-cropgroupname="Mais"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Mais</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="234243" data-cropgroupname="Nicht Agrarland"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Nicht Agrarland</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216848" data-cropgroupname="Obst"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Obst</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="234240" data-cropgroupname="Plantagen"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Plantagen</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216833" data-cropgroupname="Raps"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Raps</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216847" data-cropgroupname="Reis"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Reis</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216845" data-cropgroupname="Rüben"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Rüben</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216840" data-cropgroupname="Sojabohne, Soja"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Sojabohne, Soja</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216844" data-cropgroupname="Tabak"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Tabak</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216832" data-cropgroupname="Trauben"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Trauben</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216842" data-cropgroupname="Weidepflanzen"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Weidepflanzen</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216839" data-cropgroupname="Zierpflanzen"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Zierpflanzen</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216835" data-cropgroupname="Zuckerrohr"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Zuckerrohr</span><span class="icon-arrow-right"></span></li>
+<li data-cropgroup="216834" data-cropgroupname="Ölsaaten"><span class="custom_checkbox flcb" name="cropgroup"></span><span class="cropgroupname">Ölsaaten</span><span class="icon-arrow-right"></span></li>
+</ul>
+</div>
+<div id="section_right" class="clearfix">
+<button class="pb_button btn_cancel btn_grey" id="btn_reset_all_forms">Alle löschen</button>
+<div class="list_crops">
+<ul class="crop_group" data-cropgroup="216841">
+<li data-crop="216884" data-cropname="Buchecker"><span class="custom_checkbox slcb" name="crop">Buchecker</span></li>
+<li data-crop="216924" data-cropname="Cashewnuss"><span class="custom_checkbox slcb" name="crop">Cashewnuss</span></li>
+<li data-crop="216914" data-cropname="Erdnuss"><span class="custom_checkbox slcb" name="crop">Erdnuss</span></li>
+<li data-crop="216854" data-cropname="Esskastanie"><span class="custom_checkbox slcb" name="crop">Esskastanie</span></li>
+<li data-crop="216909" data-cropname="Haselnuss"><span class="custom_checkbox slcb" name="crop">Haselnuss</span></li>
+<li data-crop="216906" data-cropname="Macadamianuss"><span class="custom_checkbox slcb" name="crop">Macadamianuss</span></li>
+<li data-crop="216932" data-cropname="Mandel"><span class="custom_checkbox slcb" name="crop">Mandel</span></li>
+<li data-crop="216916" data-cropname="Paranuss"><span class="custom_checkbox slcb" name="crop">Paranuss</span></li>
+<li data-crop="216892" data-cropname="Pecannuss"><span class="custom_checkbox slcb" name="crop">Pecannuss</span></li>
+<li data-crop="216889" data-cropname="Pistazie"><span class="custom_checkbox slcb" name="crop">Pistazie</span></li>
+<li data-crop="216871" data-cropname="Sonstige Nussfrüchte"><span class="custom_checkbox slcb" name="crop">Sonstige Nussfrüchte</span></li>
+<li data-crop="216885" data-cropname="Walnuss"><span class="custom_checkbox slcb" name="crop">Walnuss</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216837">
+</ul>
+<ul class="crop_group" data-cropgroup="234242">
+<li data-crop="216869" data-cropname="Baumschule"><span class="custom_checkbox slcb" name="crop">Baumschule</span></li>
+<li data-crop="216900" data-cropname="Bäume und Sträucher"><span class="custom_checkbox slcb" name="crop">Bäume und Sträucher</span></li>
+<li data-crop="234275" data-cropname="Eiche"><span class="custom_checkbox slcb" name="crop">Eiche</span></li>
+<li data-crop="234244" data-cropname="Fichte"><span class="custom_checkbox slcb" name="crop">Fichte</span></li>
+<li data-crop="234247" data-cropname="Kiefer"><span class="custom_checkbox slcb" name="crop">Kiefer</span></li>
+<li data-crop="234255" data-cropname="Laubbäume"><span class="custom_checkbox slcb" name="crop">Laubbäume</span></li>
+<li data-crop="234263" data-cropname="Lärche"><span class="custom_checkbox slcb" name="crop">Lärche</span></li>
+<li data-crop="234276" data-cropname="Nadelbaum"><span class="custom_checkbox slcb" name="crop">Nadelbaum</span></li>
+<li data-crop="234279" data-cropname="Tanne"><span class="custom_checkbox slcb" name="crop">Tanne</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216836">
+<li data-crop="216931" data-cropname="Blattgemüse"><span class="custom_checkbox slcb" name="crop">Blattgemüse</span></li>
+<li data-crop="234289" data-cropname="Champignon"><span class="custom_checkbox slcb" name="crop">Champignon</span></li>
+<li data-crop="216920" data-cropname="Fruchtgemüse"><span class="custom_checkbox slcb" name="crop">Fruchtgemüse</span></li>
+<li data-crop="216874" data-cropname="Gemüse"><span class="custom_checkbox slcb" name="crop">Gemüse</span></li>
+<li data-crop="234290" data-cropname="Halm & Stängel"><span class="custom_checkbox slcb" name="crop">Halm & Stängel</span></li>
+<li data-crop="216921" data-cropname="Kohl"><span class="custom_checkbox slcb" name="crop">Kohl</span></li>
+<li data-crop="216883" data-cropname="Kürbis"><span class="custom_checkbox slcb" name="crop">Kürbis</span></li>
+<li data-crop="216922" data-cropname="Wurzel- und Knollengemüse"><span class="custom_checkbox slcb" name="crop">Wurzel- und Knollengemüse</span></li>
+<li data-crop="216928" data-cropname="Zwiebelgemüse"><span class="custom_checkbox slcb" name="crop">Zwiebelgemüse</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216838">
+<li data-crop="216860" data-cropname="Bohnen"><span class="custom_checkbox slcb" name="crop">Bohnen</span></li>
+<li data-crop="216907" data-cropname="Erbsen"><span class="custom_checkbox slcb" name="crop">Erbsen</span></li>
+<li data-crop="234252" data-cropname="Futtererbsen"><span class="custom_checkbox slcb" name="crop">Futtererbsen</span></li>
+<li data-crop="216893" data-cropname="Linsen"><span class="custom_checkbox slcb" name="crop">Linsen</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216846">
+<li data-crop="216901" data-cropname="Dinkel"><span class="custom_checkbox slcb" name="crop">Dinkel</span></li>
+<li data-crop="216930" data-cropname="Gerste"><span class="custom_checkbox slcb" name="crop">Gerste</span></li>
+<li data-crop="216864" data-cropname="Getreide"><span class="custom_checkbox slcb" name="crop">Getreide</span></li>
+<li data-crop="216937" data-cropname="Hafer"><span class="custom_checkbox slcb" name="crop">Hafer</span></li>
+<li data-crop="234280" data-cropname="Hirse"><span class="custom_checkbox slcb" name="crop">Hirse</span></li>
+<li data-crop="216858" data-cropname="Roggen"><span class="custom_checkbox slcb" name="crop">Roggen</span></li>
+<li data-crop="216925" data-cropname="Triticale"><span class="custom_checkbox slcb" name="crop">Triticale</span></li>
+<li data-crop="216926" data-cropname="Weizen"><span class="custom_checkbox slcb" name="crop">Weizen</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216852">
+<li data-crop="234260" data-cropname="Bockshornklee"><span class="custom_checkbox slcb" name="crop">Bockshornklee</span></li>
+<li data-crop="216870" data-cropname="Chinaschilf"><span class="custom_checkbox slcb" name="crop">Chinaschilf</span></li>
+<li data-crop="234270" data-cropname="Gewöhnlicher Glatthafer"><span class="custom_checkbox slcb" name="crop">Gewöhnlicher Glatthafer</span></li>
+<li data-crop="234259" data-cropname="Goldhafer"><span class="custom_checkbox slcb" name="crop">Goldhafer</span></li>
+<li data-crop="234288" data-cropname="Gras-Klee Mischung"><span class="custom_checkbox slcb" name="crop">Gras-Klee Mischung</span></li>
+<li data-crop="216915" data-cropname="Gräser"><span class="custom_checkbox slcb" name="crop">Gräser</span></li>
+<li data-crop="234271" data-cropname="Hahnenfuß"><span class="custom_checkbox slcb" name="crop">Hahnenfuß</span></li>
+<li data-crop="234248" data-cropname="Lieschgras"><span class="custom_checkbox slcb" name="crop">Lieschgras</span></li>
+<li data-crop="234293" data-cropname="Schwingel"><span class="custom_checkbox slcb" name="crop">Schwingel</span></li>
+<li data-crop="216923" data-cropname="Sorghumhirsen"><span class="custom_checkbox slcb" name="crop">Sorghumhirsen</span></li>
+<li data-crop="234249" data-cropname="Straußgras"><span class="custom_checkbox slcb" name="crop">Straußgras</span></li>
+<li data-crop="216882" data-cropname="Weidelgras"><span class="custom_checkbox slcb" name="crop">Weidelgras</span></li>
+<li data-crop="234268" data-cropname="Wiesen-Rispengras"><span class="custom_checkbox slcb" name="crop">Wiesen-Rispengras</span></li>
+<li data-crop="234281" data-cropname="Wiesenfuchsschwanz"><span class="custom_checkbox slcb" name="crop">Wiesenfuchsschwanz</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216853">
+<li data-crop="216935" data-cropname="Hopfen"><span class="custom_checkbox slcb" name="crop">Hopfen</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216850">
+<li data-crop="216891" data-cropname="Kartoffel "><span class="custom_checkbox slcb" name="crop">Kartoffel </span></li>
+<li data-crop="234267" data-cropname="Kartoffelerzeugnisse"><span class="custom_checkbox slcb" name="crop">Kartoffelerzeugnisse</span></li>
+<li data-crop="216938" data-cropname="Kartoffeln (Saatgut)"><span class="custom_checkbox slcb" name="crop">Kartoffeln (Saatgut)</span></li>
+<li data-crop="234283" data-cropname="Kartoffelstärke"><span class="custom_checkbox slcb" name="crop">Kartoffelstärke</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="234241">
+<li data-crop="234256" data-cropname="Aromatische Gewürze"><span class="custom_checkbox slcb" name="crop">Aromatische Gewürze</span></li>
+<li data-crop="216934" data-cropname="Frische Kräuter"><span class="custom_checkbox slcb" name="crop">Frische Kräuter</span></li>
+<li data-crop="234287" data-cropname="Gewürze"><span class="custom_checkbox slcb" name="crop">Gewürze</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216843">
+<li data-crop="221056" data-cropname="Ackerbohnen"><span class="custom_checkbox slcb" name="crop">Ackerbohnen</span></li>
+<li data-crop="221057" data-cropname="Futtererbsen"><span class="custom_checkbox slcb" name="crop">Futtererbsen</span></li>
+<li data-crop="234251" data-cropname="Leguminosen Samen"><span class="custom_checkbox slcb" name="crop">Leguminosen Samen</span></li>
+<li data-crop="216895" data-cropname="Lupine"><span class="custom_checkbox slcb" name="crop">Lupine</span></li>
+<li data-crop="216917" data-cropname="Luzerne"><span class="custom_checkbox slcb" name="crop">Luzerne</span></li>
+<li data-crop="216890" data-cropname="Rotklee"><span class="custom_checkbox slcb" name="crop">Rotklee</span></li>
+<li data-crop="234245" data-cropname="Saat-/Futter-Esperette"><span class="custom_checkbox slcb" name="crop">Saat-/Futter-Esperette</span></li>
+<li data-crop="234269" data-cropname="Serradella/Vogelfuß"><span class="custom_checkbox slcb" name="crop">Serradella/Vogelfuß</span></li>
+<li data-crop="234277" data-cropname="Stein/Honigklee"><span class="custom_checkbox slcb" name="crop">Stein/Honigklee</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216851">
+<li data-crop="216896" data-cropname="Körnermais"><span class="custom_checkbox slcb" name="crop">Körnermais</span></li>
+<li data-crop="257648" data-cropname="Mais"><span class="custom_checkbox slcb" name="crop">Mais</span></li>
+<li data-crop="216897" data-cropname="Mais-Trait"><span class="custom_checkbox slcb" name="crop">Mais-Trait</span></li>
+<li data-crop="216857" data-cropname="Maissilage"><span class="custom_checkbox slcb" name="crop">Maissilage</span></li>
+<li data-crop="216902" data-cropname="Zuckermais"><span class="custom_checkbox slcb" name="crop">Zuckermais</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="234243">
+<li data-crop="234257" data-cropname="Boden nach Ernte"><span class="custom_checkbox slcb" name="crop">Boden nach Ernte</span></li>
+<li data-crop="234262" data-cropname="Brachland"><span class="custom_checkbox slcb" name="crop">Brachland</span></li>
+<li data-crop="216855" data-cropname="Erde/Boden"><span class="custom_checkbox slcb" name="crop">Erde/Boden</span></li>
+<li data-crop="234292" data-cropname="Lagerprodukte"><span class="custom_checkbox slcb" name="crop">Lagerprodukte</span></li>
+<li data-crop="216877" data-cropname="Mehrjährige Pflanzen"><span class="custom_checkbox slcb" name="crop">Mehrjährige Pflanzen</span></li>
+<li data-crop="234285" data-cropname="Saatbett Erde"><span class="custom_checkbox slcb" name="crop">Saatbett Erde</span></li>
+<li data-crop="234265" data-cropname="Unkultiviertes Land"><span class="custom_checkbox slcb" name="crop">Unkultiviertes Land</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216848">
+<li data-crop="216929" data-cropname="Banane"><span class="custom_checkbox slcb" name="crop">Banane</span></li>
+<li data-crop="216861" data-cropname="Beeren"><span class="custom_checkbox slcb" name="crop">Beeren</span></li>
+<li data-crop="216886" data-cropname="Kernobst"><span class="custom_checkbox slcb" name="crop">Kernobst</span></li>
+<li data-crop="234253" data-cropname="Obstgärten"><span class="custom_checkbox slcb" name="crop">Obstgärten</span></li>
+<li data-crop="216927" data-cropname="Steinobst"><span class="custom_checkbox slcb" name="crop">Steinobst</span></li>
+<li data-crop="234272" data-cropname="Tropical Fruits"><span class="custom_checkbox slcb" name="crop">Tropical Fruits</span></li>
+<li data-crop="216865" data-cropname="Zitrusfrüchte"><span class="custom_checkbox slcb" name="crop">Zitrusfrüchte</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="234240">
+<li data-crop="234282" data-cropname="Acacia"><span class="custom_checkbox slcb" name="crop">Acacia</span></li>
+<li data-crop="234264" data-cropname="Cacao"><span class="custom_checkbox slcb" name="crop">Cacao</span></li>
+<li data-crop="234273" data-cropname="Eucalyptus"><span class="custom_checkbox slcb" name="crop">Eucalyptus</span></li>
+<li data-crop="234246" data-cropname="Kaffee"><span class="custom_checkbox slcb" name="crop">Kaffee</span></li>
+<li data-crop="234278" data-cropname="Rubber"><span class="custom_checkbox slcb" name="crop">Rubber</span></li>
+<li data-crop="234291" data-cropname="Tea"><span class="custom_checkbox slcb" name="crop">Tea</span></li>
+<li data-crop="234284" data-cropname="Ölpalme"><span class="custom_checkbox slcb" name="crop">Ölpalme</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216833">
+<li data-crop="216881" data-cropname="Clearfield Raps"><span class="custom_checkbox slcb" name="crop">Clearfield Raps</span></li>
+<li data-crop="216908" data-cropname="Raps"><span class="custom_checkbox slcb" name="crop">Raps</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216847">
+<li data-crop="216894" data-cropname="Clearfield Reis"><span class="custom_checkbox slcb" name="crop">Clearfield Reis</span></li>
+<li data-crop="216911" data-cropname="Herkömmlicher Reis"><span class="custom_checkbox slcb" name="crop">Herkömmlicher Reis</span></li>
+<li data-crop="234258" data-cropname="Reis Bereitstellung???"><span class="custom_checkbox slcb" name="crop">Reis Bereitstellung???</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216845">
+<li data-crop="216872" data-cropname="Futterrüben"><span class="custom_checkbox slcb" name="crop">Futterrüben</span></li>
+<li data-crop="216888" data-cropname="Zuckerrübe"><span class="custom_checkbox slcb" name="crop">Zuckerrübe</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216840">
+<li data-crop="216879" data-cropname="Sojabohne, Soja"><span class="custom_checkbox slcb" name="crop">Sojabohne, Soja</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216844">
+<li data-crop="216863" data-cropname="Tabak"><span class="custom_checkbox slcb" name="crop">Tabak</span></li>
+<li data-crop="234274" data-cropname="Tabak Saatbeet"><span class="custom_checkbox slcb" name="crop">Tabak Saatbeet</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216832">
+<li data-crop="234261" data-cropname="Rebschule"><span class="custom_checkbox slcb" name="crop">Rebschule</span></li>
+<li data-crop="216866" data-cropname="Wein, Tafeltrauben"><span class="custom_checkbox slcb" name="crop">Wein, Tafeltrauben</span></li>
+<li data-crop="216859" data-cropname="Weinbeere"><span class="custom_checkbox slcb" name="crop">Weinbeere</span></li>
+<li data-crop="216867" data-cropname="Weintrauben"><span class="custom_checkbox slcb" name="crop">Weintrauben</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216842">
+<li data-crop="216880" data-cropname="Weidepflanzen"><span class="custom_checkbox slcb" name="crop">Weidepflanzen</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216839">
+<li data-crop="216904" data-cropname="Chrysanthemen"><span class="custom_checkbox slcb" name="crop">Chrysanthemen</span></li>
+<li data-crop="234266" data-cropname="Distel"><span class="custom_checkbox slcb" name="crop">Distel</span></li>
+<li data-crop="234254" data-cropname="Nelke"><span class="custom_checkbox slcb" name="crop">Nelke</span></li>
+<li data-crop="216933" data-cropname="Rasen"><span class="custom_checkbox slcb" name="crop">Rasen</span></li>
+<li data-crop="216910" data-cropname="Rosen"><span class="custom_checkbox slcb" name="crop">Rosen</span></li>
+<li data-crop="216899" data-cropname="Schnittblumen"><span class="custom_checkbox slcb" name="crop">Schnittblumen</span></li>
+<li data-crop="216905" data-cropname="Topfpflanzen"><span class="custom_checkbox slcb" name="crop">Topfpflanzen</span></li>
+<li data-crop="216913" data-cropname="Topfpflanzen"><span class="custom_checkbox slcb" name="crop">Topfpflanzen</span></li>
+<li data-crop="216887" data-cropname="Zierkürbis"><span class="custom_checkbox slcb" name="crop">Zierkürbis</span></li>
+<li data-crop="216878" data-cropname="Zierpflanzen"><span class="custom_checkbox slcb" name="crop">Zierpflanzen</span></li>
+<li data-crop="216862" data-cropname="Zwiebelgemüse"><span class="custom_checkbox slcb" name="crop">Zwiebelgemüse</span></li>
+</ul>
+<ul class="crop_group" data-cropgroup="216835">
+</ul>
+<ul class="crop_group" data-cropgroup="216834">
+<li data-crop="234286" data-cropname="Flax/Leinsamen"><span class="custom_checkbox slcb" name="crop">Flax/Leinsamen</span></li>
+<li data-crop="216898" data-cropname="Leindotter"><span class="custom_checkbox slcb" name="crop">Leindotter</span></li>
+<li data-crop="216873" data-cropname="Meerkohl"><span class="custom_checkbox slcb" name="crop">Meerkohl</span></li>
+<li data-crop="234250" data-cropname="Mohn"><span class="custom_checkbox slcb" name="crop">Mohn</span></li>
+<li data-crop="216903" data-cropname="Senf"><span class="custom_checkbox slcb" name="crop">Senf</span></li>
+<li data-crop="216918" data-cropname="Sonnenblumen"><span class="custom_checkbox slcb" name="crop">Sonnenblumen</span></li>
+</ul>
+</div>
+<div id="croprbtn_wrapper">
+<button id="cancelcrops" class="pb_button btn_go btn_grey">Abbruch</button>
+<button id="savecrops" class="pb_button btn_go btn_ok bc-cc">OK</button><br/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content" class="bc-ccs">
+<div id="contentContainer" class="content-contain" >
+<noscript><p class="error java-script">Damit Sie diese Website in vollem Umfang nutzen können, müssen Sie JavaScript aktivieren.</p></noscript>
+<a id="2___2_grid_width_section" name="2___2_grid_width_section"></a>
+<a id="s412269" name="s412269"></a>
+<div class="contentSection" >
+<div class="gridColumn Column_2">
+<!-- #!#template-text# -->
+<div class="gridItem gridWidth_2 gridHeight_1 white" >
+<div class="textBox">
+<h1>Willkommen bei BASF Pflanzenschutz Österreich</h1>
+<div><p class="intro-teaser introText"><strong>Mehr Ertrag und Qualität - für Ihren Erfolg</strong></p>
+</div>
+<div><p>Als verlässlicher Partner der Landwirtschaft bietet der Bereich Pflanzenschutz der BASF bewährte und innovative Fungizide, Insektizide und Herbizide an. Produkte und Dienstleistungen helfen Landwirten, den Ertrag und die Qualität ihrer Erzeugnisse zu verbessern.</p></div>
+</div>
+</div>
+</div>
+<div class="gridColumn Column_2">
+<div class="quickSearchProducts pc-quick-selector gridItem gridHeight_1 gridWidth_1 lightGrey" data-qstype="product_types_and_products">
+<div class="formBox psz_ajaxwidget quickSearchProducts" id="quickSearchProducts_412269">
+<h3 ><span class="profilePic quickSearchProductsProfpic" title="Diese Information wurde an Ihre Region und Kulturen, die Sie anbauen, angepasst."></span> Produktauswahl</h3>
+<p class="description" >Hier finden Sie detaillierte Informationen zu unseren Produkten.</p>
+<form action="#">
+<fieldset>
+<label for="indication412269_2"> Produktgruppe (<span id="quickSearchCount_indication412269_2">0</span>)</label>
+<select id="indication412269_2" class="indication-select dynamic-select412269_2" data-elementtype="indication">
+<option value="-1">&lt;Bitte wählen Sie&gt;</option>
+</select>
+<label for="product412269_2">Produkte (<span id="quickSearchCount_product412269_2">0</span>)<span id="ajax-loader-products412269_2" style="display:none" class="loader"></span></label>
+<select id="product412269_2" class="quickBoxSelection dynamic-select412269_2" data-elementtype="product">
+<option value="-1">&lt;Bitte wählen Sie&gt;</option>
+</select>
+</fieldset>
+</form>
+</div>
+<script type="text/javascript">
+function loadSearchItems412269_2(elementType, cropGroupIdParam, indicationIdParam, cropSubgroupIdParam, initPhase, whoCalls, actionID) {
+var soloCropGroupId;
+var requestData = {
+filterElementType: elementType,
+language: 'de',
+cropGroupIdFilter: cropGroupIdParam,
+cropSubgroupIdFilter: cropSubgroupIdParam,
+cropGroupId: [],
+cropSubgroupId: [],
+indicationId: indicationIdParam
+};
+if (typeof psz !== 'undefined' && psz.cropsState() && psz.cropsId() !== null) {
+$.each(psz.cropsId(), function(cropGroup, cropSubgroups) {
+if (cropSubgroups === 1 || elementType === 'product') {
+requestData.cropGroupId.push(cropGroup);
+}
+$.each(cropSubgroups, function(i, cropSubgroup) {
+requestData.cropSubgroupId.push(cropSubgroup);
+});
+});
+} else {
+requestData.cropGroupId.push(cropGroupIdParam);
+requestData.cropSubgroupId.push(cropSubgroupIdParam);
+}
+$.ajax({
+method: 'POST',
+url: '/app/controller/getPersonalizeFilterElements',
+data: requestData,
+dataType: 'json',
+data: requestData,
+traditional: true
+})
+.done(function( response ) {
+$('#quickSearchCount_' + elementType + '412269_2').text(response.length);
+var $el = $('#' + elementType + '412269_2');
+$el.empty().append('<option value="-1">&lt;Bitte wählen Sie&gt;</option>');
+$.each(response, function(k, e) {
+$el.append('<option value="' + e.id + '"' + (elementType === 'product' ? 'data-url="' + e.url + '"' : '') + '>' + e.name + '</option>');
+});
+if (elementType === 'indication') {
+loadSearchItems412269_2('product');
+}
+});
+}
+function onChangeCropGroup412269_2() {
+}
+function onChangeIndication412269_2(){
+if(this.value != -1){
+loadSearchItems412269_2('product',
+undefined,
+$('.dynamic-select412269_2[data-elementtype="indication"]').val(),
+undefined,
+false,
+'indication',
+undefined
+);
+}else if(this.value == -1){
+$(this).trigger('blur');
+loadSearchItems412269_2('product',
+undefined,
+undefined,
+undefined,
+true
+);
+}
+}
+function onChangeCropSubGroup412269_2() {
+loadSearchItems412269_2('product',
+undefined,
+undefined,
+$('.dynamic-select412269_2[data-elementtype="cropsubgroup"]').val());
+}
+function onChangeProduct412269_2(){
+document.location = window.location.href.split("/")[0] + $(this).find('option:selected').attr('data-url');
+}
+function refresh412269_2() {
+if (typeof psz !== 'undefined') {
+if(psz.cropsState() === null || !psz.cropsState()){
+$(".quickSearchProducts .quickSearchProductsProfpic").hide();
+}else{
+$(".quickSearchProducts .quickSearchProductsProfpic").show();
+}
+} else {
+$(".quickSearchProducts .quickSearchProductsProfpic").hide();
+}
+loadSearchItems412269_2('indication', undefined, undefined, undefined, true, undefined);
+$('.dynamic-select412269_2[data-elementtype="cropgroup"]').unbind('change');
+$('.dynamic-select412269_2[data-elementtype="indication"]').unbind('change');
+$('.dynamic-select412269_2[data-elementtype="cropsubgroup"]').unbind('change');
+$("#product412269_2").unbind('change');
+$('.dynamic-select412269_2[data-elementtype="cropgroup"]').bind('change', onChangeCropGroup412269_2);
+$('.dynamic-select412269_2[data-elementtype="indication"]').bind('change', onChangeIndication412269_2);
+$('.dynamic-select412269_2[data-elementtype="cropsubgroup"]').bind('change', onChangeCropSubGroup412269_2);
+$("#product412269_2").bind('change', onChangeProduct412269_2);
+}
+$(function() {
+if (typeof psz !== 'undefined') {
+psz.registerWidgetFunction(refresh412269_2);
+}
+refresh412269_2();
+});
+</script>
+</div>
+<!-- #!#template-teaser# -->
+<div class="gridItem gridWidth_1 gridHeight_1 lightGrey" >
+<div class="teaser-img-box" >
+<a class="internalImageLink" href="/agroportal/at/de/aktuell_at/aktuell_atregionalempfehlungen_at/anmeldung_regionalberatung/anmeldung.html" title="Newsletter Regionalberatung: Die direkte Beratung - immer aktuell und regional">
+<img class="grid-img" src="/agroportal/at/media/migrated/at/aktuell_neu/newsletter-regionalberatung-170x80_thumbnail_170x80px.jpg" title="Newsletter Regionalberatung" alt="Newsletter Regionalberatung"/>
+</a>
+</div>
+<div class="teaser-content-box teaserBox">
+<h3>
+<a href="/agroportal/at/de/aktuell_at/aktuell_atregionalempfehlungen_at/anmeldung_regionalberatung/anmeldung.html" title="Newsletter Regionalberatung: Die direkte Beratung - immer aktuell und regional">
+Newsletter Regionalberatung</a></h3>
+<div><p>Die direkte Beratung - immer aktuell und regional</p></div>
+<div><a class="link icon-internal" href="/agroportal/at/de/aktuell_at/aktuell_atregionalempfehlungen_at/anmeldung_regionalberatung/anmeldung.html" title="Newsletter Regionalberatung: Die direkte Beratung - immer aktuell und regional">Jetzt anmelden</a></div>
+</div>
+</div>
+</div>
+<div class="clearer"></div>
+</div>
+<a id="3___1_grid_width_section" name="3___1_grid_width_section"></a>
+<a id="s414691" name="s414691"></a>
+<div class="contentSection" >
+<div class="gridColumn Column_3">
+<script type="text/javascript">
+var cockpit414691 = {
+numberOfContacts: 0,
+init: function() {
+cockpit414691.bindEvents();
+this.placeCityList();
+var args = [];
+args.push("WT.ti");
+args.push($("meta[name='WT.ti']").attr("content"));
+args.push("WT.z_pbgeozip_status");
+args.push(psz.locationState() ? "localized_on" : "localized_off");
+args.push("WT.z_pbcropsel_status");
+args.push(psz.cropsState() ? "cropalized_on" : "cropalized_off");
+args.push("WT.z_pblocalized");
+args.push(psz.locationDisplay() ? "localized_1_result" : "not_localized");
+args.push("WT.z_pbcropalized");
+args.push(psz.cropsDisplay() ? "cropalized" : "no_cropalization");
+args.push("WT.z_pcomponentdisplay");
+args.push("PersonalizeCockpit");
+args.push("WT.z_weathertversion");
+args.push("weather_contact_news");
+args.push("WT.z_pcontactscount");
+args.push(pszfw.getContactCount());
+},
+bindEvents: function() {
+$("#cp_listwrapper li").hover(function(){
+$(this).addClass("cBackgroundColorStrip");
+}, function() {
+$(this).removeClass("cBackgroundColorStrip");
+});
+$("#cp_location_display, #cp_location .rewrite").click(function() {
+psz.scrollToBar(false, "PersonalizeCockpit");
+});
+$("#cockpit_414691").delegate(".btn_zipcode", "click", function(event){
+event.preventDefault();
+psz.scrollToBar(false, "PersonalizeCockpit");
+});
+$("#cockpit_414691").delegate(".hasChargeTooltip", "mouseover", function(event) {
+var el = $(this);
+var myTop = el.offset().top;
+var myLeft = el.offset().left;
+$(".chargetooltip").css('top', myTop- $(".chargetooltip").outerHeight()-10);
+$(".chargetooltip").css('left', myLeft);
+var index = el.parents("div:first").attr('data-index');
+var tooltip = $('.chargetooltip[data-contactindex="'+index+'"]');
+tooltip.show();
+});
+$("#cockpit_414691").delegate(".hasChargeTooltip", "mouseout", function(event) {
+var index = $(this).parents("div:first").attr('data-index');
+var tooltip = $('.chargetooltip[data-contactindex="'+index+'"]');
+tooltip.hide();
+});
+$("#cockpit_414691").delegate(".widget_btn_avatar", "click", function(event) {
+event.preventDefault();
+psz.scrollToBar(false, "PersonalizeCockpit");
+});
+$("#cockpit_414691").delegate(".contact-slider .btn_go", "click", function(event){
+var args = [];
+args.push("WT.ti");
+args.push($("meta[name='WT.ti']").attr("content"));
+args.push("WT.z_pbgeozip_status");
+args.push(psz.locationState() ? "localized_on" : "localized_off");
+args.push("WT.z_pbcropsel_status");
+args.push(psz.cropsState() ? "cropalized_on" : "cropalized_off");
+args.push("WT.z_pblocalized");
+args.push(psz.locationDisplay() ? "localized_1_result" : "not_localized");
+args.push("WT.z_pbcropalized");
+args.push(psz.cropsDisplay() ? "cropalized" : "no_cropalization");
+args.push("WT.z_pcomponent");
+args.push("PersonalizeCockpit");
+args.push("WT.z_weathertversion");
+args.push("weather_contact_news");
+args.push("WT.z_pcontactscount");
+args.push(cockpit414691.numberOfContacts);
+args.push("WT.z_contactsliderclick");
+args.push("1");
+args.push("WT.z_contactsliderdetailtype");
+args.push("phone");
+});
+$("#cockpit_414691 .weather .forecast-item").click(function() {
+var args = [];
+args.push("WT.ti");
+args.push($("meta[name='WT.ti']").attr("content"));
+args.push("WT.z_pbgeozip_status");
+args.push(psz.locationState() ? "localized_on" : "localized_off");
+args.push("WT.z_pbcropsel_status");
+args.push(psz.cropsState() ? "cropalized_on" : "cropalized_off");
+args.push("WT.z_pblocalized");
+args.push(psz.locationDisplay() ? "localized_1_result" : "not_localized");
+args.push("WT.z_pbcropalized");
+args.push(psz.cropsDisplay() ? "cropalized" : "no_cropalization");
+args.push("WT.z_pcomponent");
+args.push("PersonalizeCockpit");
+args.push("WT.z_weathertversion");
+args.push("weather_contact_news");
+args.push("WT.z_pcontactscount");
+args.push(cockpit414691.numberOfContacts);
+args.push("WT.z_weathertclick");
+args.push("1");
+});
+$("#cockpit_414691 .contact").hover(function(e){
+psz.mouseover_interval = setInterval(function () {
+++psz.mouseovertime_contact;
+}, psz.mouseovertime_interval);
+}, function(e) {
+clearInterval(psz.mouseover_interval);
+});
+},
+updateCockpitNewsWidget: function(status, list1) {
+$("#cockpit_414691 .widget_desc").hide();
+$("#cockpit_414691 .widget_btn").hide();
+$("#cockpit_414691 .cp_news_all_news").show();
+var list1MetaTemplate = '';
+list1MetaTemplate += '<div class="regional_advice"><h3 class="widget_caption">Regionalberatung für '+ psz.locationDisplay() +'</h3></div>';
+list1MetaTemplate += '<div id="newsOverviewContent414691_4" class="newsOverviewContent" style="margin-top:10px; overflow: hidden; max-height: 238px;"><div><ul></ul></div></div>';
+list1MetaTemplate += '<div class="newsBottomLink"><a href="/agroportal/at/de/aktuell_at/regionalberatung/ps_news_regional_advice_cp.html?personalize=true" class="brandColorText"><span class="cp_dbl_arrow"></span></a><a href="/agroportal/at/de/aktuell_at/regionalberatung/ps_news_regional_advice_cp.html?personalize=true" class="brandColorText">Alle Regionalberatungen</a></div>';
+$("#cockpit_414691 .news").empty();
+$("#cockpit_414691 .news").append(list1MetaTemplate);
+if(status.localized && status.localized_on) {
+$('#newsOverviewContent414691_4 ul').html('');
+$(list1.content).each(function(i, news_item) {
+if (i >= 9) {
+return false;
+}
+$("#newsOverviewContent414691_4 ul").append(news_item.newsTickerSnippet);
+});
+} else {
+var list2MetaTemplate = '';
+list2MetaTemplate += '<h3 class="widget_caption">Regionalberatung<\/h3>';
+list2MetaTemplate += '<p style="" class="widget_desc">Für Ihre persönliche Regionalberatung jetzt einmalig PLZ speichern!<\/p>';
+list2MetaTemplate += '<a style="margin: 10px 0;" class="widget_btn btn_zipcode bc-cc" href="#" title="PLZ eingeben!"><span class="widget_btn_avatar"><\/span>PLZ eingeben!<\/a>';
+list2MetaTemplate += '<h4>Vorteile auf einen Blick:</h4><ul class="bullet-point-list"> <li>Professionelle Pflanzenschutz-Beratung</li> <li>Aktuelle Befallssituation</li> <li>Einsatzempfehlungen</li> <li>Informative Beratungsvideos</li> </ul>';
+$("#cockpit_414691 .news").empty();
+$("#cockpit_414691 .news").append(list2MetaTemplate);
+$("#cockpit_414691 .widget_desc").show();
+$("#cockpit_414691 .widget_btn").show();
+$("#cockpit_414691 .cp_news_all_news").hide();
+}
+},
+updateCockpitWeatherWidget: function(status, data) {
+if(status.localized_on) {
+cockpit414691.renderCockpitWeatherLocalized(status, data);
+$("#cockpit_414691 #cp_location_display").text(psz.locationId()+' '+psz.locationDisplay());
+} else if (!status.localized_on) {
+$("#cockpit_414691 .weather").addClass("unlocalized");
+$("#cockpit_414691 .forecast-items").empty();
+cockpit414691.renderCockpitDefaultCities();
+$("#cockpit_414691 .cp_weather_loc").html("Agrarwetter");
+$("#cockpit_414691 #cp-details").hide();
+}
+},
+placeCityList: function() {
+var list = $("[data-ownerid = 'cockpit_414691']");
+if(list.length > 0) {
+var left = $("#cockpit_414691").offset().left;
+list.css("left", left);
+}
+},
+updateCockpitMeta: function(status) {
+var cockpit = $("#cockpit_414691");
+if(status.localized_on || status.cropalized_on) {
+cockpit.find(".cp_prof").show();
+cockpit.addClass("personalized");
+if(status.localized_on && status.cropalized_on) {
+cockpit.find(".cp_headline").html("Website regionalisiert");
+} else if(status.localized_on) {
+cockpit.find(".cp_headline").html("Infos für Ihre Region");
+} else {
+cockpit.find(".cp_headline").html("Infos für Ihre Kulturen");
+}
+cockpit.find(".cp_headline").attr("title", "Diese Information wurde an Ihre Region und Kulturen, die Sie anbauen, angepasst.");
+} else {
+cockpit.find(".cp_prof").hide();
+cockpit.find(".cp_headline").html("Website jetzt regionalisieren!");
+cockpit.find(".cp_headline").attr("title", "");
+cockpit.removeClass("personalized");
+}
+if(!status.localized_on && !status.cropalized_on) {
+cockpit.find("#cp_enter_zip").show();
+cockpit.find("#cp_enter_zip_short").hide();
+} else {
+cockpit.find("#cp_enter_zip_short").show();
+cockpit.find("#cp_enter_zip").hide();
+}
+cockpit.removeClass("localized_only");
+if (status.localized_on) {
+cockpit.find("#cp_localization").hide();
+cockpit.find("#cp_location").css("display", "inline-block");
+cockpit.removeClass("unlocalized");
+if(!status.cropalized_on) {
+cockpit.addClass("localized_only");
+}
+} else {
+cockpit.find("#cp_localization").css("display", "inline-block");
+cockpit.find("#cp_location").hide();
+cockpit.addClass("unlocalized");
+}
+if(status.cropalized_on) {
+$("#cockpit_414691 #cp_crops_display").text(psz.cropsDisplay());
+cockpit.find("#cp_crops").css("display", "inline-block");
+} else {
+cockpit.find("#cp_crops").hide();
+}
+},
+renderCockpitDefaultCities: function() {
+$("#cockpit_414691 .weather").addClass("small");
+var iconWidth = "35";
+var forecastData = pszfw.getDefaultCityData();
+for(var i = 0; i < forecastData.forecasts.length; i++) {
+var forecast = forecastData.forecasts[i];
+fciTemplate = '';
+fciTemplate += '<div class="forecast-item" data-lat="' + forecast.lat + '" data-lon="' + forecast.lon + '" data-city="' + forecast.city + '">';
+fciTemplate += '<p class="item_caption">'+ forecast.city +'</p>';
+fciTemplate += '<div class="weather-'+ iconWidth +' center">';
+fciTemplate += '<div title="'+ forecast.desc +'" class="weather-icon '+ forecast.icon +'"></div>';
+fciTemplate += '</div>';
+fciTemplate += '<p class="temperature">'+ forecast.temp +'&deg;C</p>';
+fciTemplate += '<p class="probability">'+ parseInt(forecast.humidity) +'%&nbsp;/&nbsp;'+ parseInt(forecast.precipitation) +'mm</p>';
+fciTemplate += '<span class="cp_weather_details"><a href="#" class="brandColorText"><span class="cp_dbl_arrow"></span><span>Details</span></a></span>';
+fciTemplate += '</div>';
+$("#cockpit_414691 .forecast-items").append(fciTemplate);
+}
+$("#cockpit_414691 .weather .forecast-item").click(function() {
+window.location = "/agroportal/at/de/weather_/prognose/agrarwetter.html?lat=" + $(this).data("lat") + "&lon=" + $(this).data("lon") + "&city=" + $(this).data("city");
+});
+},
+renderCockpitWeatherLocalized: function(status, data) {
+$("#cockpit_414691 .weather").removeClass("unlocalized small");
+if(!status.localized_on) {
+$("#cockpit_414691 .weather").addClass("small");
+}
+$("#cockpit_414691 .cp_weather_loc").html("Agrarwetter "+data.location);
+$("#cockpit_414691 #cp-details").show();
+$("#cockpit_414691 .forecast-items").empty();
+for (var i=0; i<data.forecasts.length;i++) {
+var iconWidth = "35";
+var first="";
+if(i==0 && status.localized_on) {
+iconWidth = "50";
+first = " fci_first";
+}
+fciTemplate = '';
+fciTemplate += '<div class="forecast-item'+ first +'">';
+fciTemplate += '<p class="item_caption">'+ data.forecasts[i].time +'</p>'
+fciTemplate += '<div class="weather-'+ iconWidth +' center">';
+fciTemplate += '<div title="'+ data.forecasts[i].desc +'" class="weather-icon '+ data.forecasts[i].icon +'"></div>';
+fciTemplate += '</div>';
+fciTemplate += '<p class="temperature">'+ data.forecasts[i].temp +'&deg;C</p>';
+fciTemplate += '<p class="probability">'+ parseInt(data.forecasts[i].humidity) +'%&nbsp;/&nbsp;'+ parseInt(data.forecasts[i].precipitation) +'mm</p>';
+fciTemplate += '</div>';
+$("#cockpit_414691 .forecast-items").append(fciTemplate);
+}
+$("#cockpit_414691 .weather .forecast-item").click(function() {
+window.location = "/agroportal/at/de/weather_/prognose/agrarwetter.html";
+});
+},
+updateCockpitContactWidget: function(status, data) {
+if(!data) {
+return;
+}
+$(".chargetooltip").remove();
+if(data.length == 0) {
+$("#cockpit_414691 .contact-slider").hide();
+$("#cockpit_414691 .default-contact").show();
+var tooltip = "";
+tooltip += "<div class='chargetooltip' data-contactindex=0>";
+tooltip += "<div class='arrow_bottom'></div>"
+tooltip += "";
+tooltip += "</div>";
+$("body").append(tooltip);
+return;
+}
+if(status.localized_on || status.cropalized_on) {
+$("#cockpit_414691 .owl-carousel").empty();
+$("#cockpit_414691 .contact-slider").show();
+$("#cockpit_414691 .default-contact").hide();
+$.each(data, function(index, itemData) {
+var $item = $("<div>").addClass("contact-slide");
+if(itemData.img != "") {
+$item.append($("<img>").attr("src", itemData.img).attr("alt", "profile picture"));
+}
+var $itemMeta = $("<span>").addClass("cp_prof_meta");
+$itemMeta.append($("<span>").addClass("git brandColorText").html(itemData.firstname + " " + itemData.lastname));
+$itemMeta.append($("<span>").addClass("cw_further_information").html(itemData.jobtitle));
+$itemMeta.append($("<span>").addClass("cw_call").html("Mobil:&nbsp;"));
+$itemMeta.append($("<span>").addClass("cp_tel").html(itemData.phone));
+$item.append($itemMeta);
+$("#cockpit_414691 .owl-carousel").append($item);
+if(itemData.charge != ""){
+$item.find('.cp_tel').addClass('hasChargeTooltip');
+$item.attr('data-index', index);
+var tooltip = "";
+tooltip += "<div class='chargetooltip' data-contactindex="+index+">";
+tooltip += "<div class='arrow_bottom'></div>"
+tooltip += itemData.charge;
+tooltip += "</div>";
+$("body").append(tooltip);
+}
+});
+$("#cockpit_414691 .owl-carousel").owlCarousel({items: 1, rewindNav: true, responsive: false});
+var owl = $("#cockpit_414691 .owl-carousel").data("owlCarousel");
+$("#cockpit_414691 #contact-slider-prev").show();
+$("#cockpit_414691 #contact-slider-next").show();
+$("#cockpit_414691 #contact-slider-prev").off("click").click(function(){owl.prev()});
+$("#cockpit_414691 #contact-slider-next").off("click").click(function(){owl.next()});
+owl.reinit({items: 1, rewindNav: true, responsive: false});
+} else {
+$("#cockpit_414691 .contact-slider").hide();
+$("#cockpit_414691 .default-contact").show();
+var tooltip = "";
+tooltip += "<div class='chargetooltip' data-contactindex=0>";
+tooltip += "<div class='arrow_bottom'></div>"
+tooltip += "";
+tooltip += "</div>";
+$("body").append(tooltip);
+}
+}
+}
+$(function(){
+var locationSuggest = new LocationSuggest($("#cockpit_414691").find("#input_city"), $("#cockpit_414691"));
+cockpit414691.init();
+});
+pszfw.registerCockpitNewsFunction(cockpit414691.updateCockpitNewsWidget, 214211);
+pszfw.registerWeatherFunction(cockpit414691.updateCockpitWeatherWidget);
+pszfw.registerContactFunction(cockpit414691.updateCockpitContactWidget);
+pszfw.registerCockpitFunction(cockpit414691.updateCockpitMeta);
+</script>
+<div class="gridItem gridWidth_3 gridHeight_2 bc-lgy" >
+<div id="cockpit_414691" class="psz_ajaxwidget cockpit clearfix vis_news">
+<div class="left">
+<div class="cp_meta">
+<h3 class="cp_headline"></h3>
+<span class="cp_prof" style="display: none;" title="Diese Information wurde an Ihre Region und Kulturen, die Sie anbauen, angepasst."></span>
+<div id="cp_personalized">
+<div id="cp_location">
+Ihr Ort:<br/>
+<h3 class="brandColorText" id="cp_location_display"></h3>
+<div class="rewrite"></div>
+</div>
+<div id="cp_localization">
+<span id="cp_enter_zip">Geben Sie hier einmalig Ihre PLZ ein, um regionale Informationen zu erhalten:</span>
+<span id="cp_enter_zip_short">PLZ eingeben!</span>
+<form id="form_city" onsubmit="return false;">
+<input type="text" class="psz_input_city" id="input_city" autocomplete="off" placeholder="PLZ oder Ort"><div id="localizebtn" class="pb_button btn_local" style="display: inline-block; width: 3px;" title="Lassen Sie Ihren Browser Ihren Standort automatisch erkennen.">&nbsp;</div>
+<div id="savelocation" class="pb_button btn_go btn_go btn_darkgrey" tabindex="-1" style="display: inline-block; padding: 0;">&nbsp;</div>
+</form>
+</div>
+<div id="cp_crops">
+Ihre Kulturen:<br/>
+<h3 class="brandColorText" id="cp_crops_display"></h3>
+<div class="rewrite"></div>
+</div>
+</div>
+</div>
+<div class="weather white">
+<div id="cp_weather_headline">
+<h3 class="cp_weather_loc">Agrarwetter</h3>
+</div>
+<div class="forecast-items"></div>
+<span id="cp-details"><span class="cp_dbl_arrow"></span><a href="/agroportal/at/de/weather_/prognose/agrarwetter.html" class="brandColorText">Detailliertes Agrarwetter</a></span>
+</div>
+<div class="contact contact-slider">
+<span id="contact-slider-prev" class="pb_button btn_go btn_go btn_darkgrey"></span>
+<div class="owl-carousel contact-carousel-wrapper"></div>
+<span id="contact-slider-next" class="pb_button btn_go btn_go btn_darkgrey"></span>
+</div>
+<div data-index=0 class="contact default-contact">
+<div class="dummy_prof"></div>
+<span class="cp_prof_meta">
+<span class="git brandColorText">Fachberater</span>
+Kennen Sie schon die Kontaktdaten zu Ihrem Fachberater?
+<a class="link icon-internal tc-cc cp_mail" href="/agroportal/at/de/services_neu_/ansprechpartner/contact_3.html">Kontakt-Übersicht</a>
+</span>
+</div>
+</div>
+<div class="right">
+<div class="news"></div>
+</div>
+</div>
+</div>
+<!-- #!#template-teaser# -->
+<div class="gridItem gridWidth_1 gridHeight_1 lightGrey" >
+<div class="teaser-img-box" >
+<a class="internalImageLink" href="/agroportal/at/media/migrated/at/infomaterial_publicrelations_1/broschueren/2017/FirstSpirit_1486643471822__4BA_Produktindex_2017_final.pdf" target="_blank">
+<img class="grid-img" src="/agroportal/at/media/migrated/de/aktuell_neu_1/kulturenratgeber_fj_2010/Kulturenratgeber_BWRPSL_thumbnail_170x80px.jpg" title="Produktindex" alt="Produktindex"/>
+</a>
+</div>
+<div class="teaser-content-box teaserBox">
+<h3>
+<a href="/agroportal/at/media/migrated/at/infomaterial_publicrelations_1/broschueren/2017/FirstSpirit_1486643471822__4BA_Produktindex_2017_final.pdf" target="_blank">
+Produktindex Pflanzenschutz BASF</a></h3>
+<div><p>Alle Produkte auf einen Blick.</p></div>
+<div><a class="link icon-pdf-file" href="/agroportal/at/media/migrated/at/infomaterial_publicrelations_1/broschueren/2017/FirstSpirit_1486643471822__4BA_Produktindex_2017_final.pdf" target="_blank">Herunterladen<span class="fileSize"> (1,9 MB)</span></a></div>
+</div>
+</div>
+<!-- #!#template-teaser# -->
+<div class="gridItem gridWidth_1 gridHeight_1 lightGrey" >
+<div class="teaser-img-box" >
+<a class="internalImageLink" href="/agroportal/at/de/services_neu_/mobile_website/mobile_webseite_1.html" title="Mehr ...">
+<img class="grid-img" src="/agroportal/at/media/migrated/at/startseite_neu_1/mobile-website-170x80_thumbnail_170x80px.jpg" title="Mobile Website " alt="Mobile Website "/>
+</a>
+</div>
+<div class="teaser-content-box teaserBox">
+<h3>
+<a href="/agroportal/at/de/services_neu_/mobile_website/mobile_webseite_1.html" title="Mehr ...">
+Mobile Website </a></h3>
+<div><p>Bestens und persönlich informiert.</p></div>
+<div><a class="link icon-internal" href="/agroportal/at/de/services_neu_/mobile_website/mobile_webseite_1.html" title="Mehr ...">Mehr ...</a></div>
+</div>
+</div>
+<!-- #!#template-teaser# -->
+<div class="gridItem gridWidth_1 gridHeight_1 lightGrey" >
+<div class="teaser-img-box" >
+<a class="internalImageLink" href="/agroportal/at/de/weather_/prognose/agrarwetter.html" title="Mehr ...">
+<img class="grid-img" src="/agroportal/at/media/migrated/at/startseite_neu_1/agrarwetter-170x80_thumbnail_170x80px.jpg" title="Agrarwetter" alt="Agrarwetter"/>
+</a>
+</div>
+<div class="teaser-content-box teaserBox">
+<h3>
+<a href="/agroportal/at/de/weather_/prognose/agrarwetter.html" title="Mehr ...">
+Agrarwetter</a></h3>
+<div><p>Detaillierte Wetterprognosen für Ihren Erfolg im Pflanzenbau.</p></div>
+<div><a class="link icon-internal" href="/agroportal/at/de/weather_/prognose/agrarwetter.html" title="Mehr ...">Mehr ...</a></div>
+</div>
+</div>
+</div>
+<div class="gridColumn Column_1">
+<div class="gridItem gridHeight_2 gridWidth_1 lightGrey" >
+<div class="newsBox">
+<h3>Agrar-News</h3>
+<div id="newsOverviewContent414691_8" class="newsOverviewContent" style="margin-top:10px; overflow: hidden;"><div><ul></ul></div></div>
+</div>
+<div class="newsBottomLink gridWidth_1 lightGrey">
+<a class="link icon-internal" href="/agroportal/at/de/aktuell_at/ps_news_agro_market/ps_news_agro_market_cp.html" title="Alle News">Alle News</a>
+</div>
+<script type="text/javascript">
+var newsTickerAnim414691_8 = {
+slideSpeed: 2500,
+slideInterval: 3000,
+direction: top,
+ul: $(".newsBox #newsOverviewContent414691_8 div ul"),
+init : function(speed, interval, direction) {
+newsTickerAnim414691_8.ul.css({'position' : 'relative'});
+newsTickerAnim414691_8.slideSpeed = speed;
+newsTickerAnim414691_8.slideInterval = interval;
+newsTickerAnim414691_8.direction = direction;
+setInterval(function(){
+if(newsTickerAnim414691_8.ul.is(':animated')){
+return;
+}
+var first = $('li:first', newsTickerAnim414691_8.ul),
+last = $('li:last', newsTickerAnim414691_8.ul);
+switch (newsTickerAnim414691_8.direction) {
+case 'top':
+newsTickerAnim414691_8.animateToTop(first);
+break;
+case 'bottom':
+newsTickerAnim414691_8.animateToBottom(last)
+break;
+default:
+newsTickerAnim414691_8.animateToTop(first);
+}
+}, newsTickerAnim414691_8.slideInterval);
+},
+animateToTop : function animateToTop(firstItem) {
+newsTickerAnim414691_8.ul.animate({'top': - firstItem.outerHeight(true)}, newsTickerAnim414691_8.slideSpeed, function(){
+$(this).append(firstItem).css('top', 0)
+});
+},
+animateToBottom : function animateToBottom(lastItem) {
+newsTickerAnim414691_8.ul.css('top', -lastItem.outerHeight(true)).prepend(lastItem).animate({'top': 0}, newsTickerAnim414691_8.slideSpeed);
+}
+}
+function getNews414691_8(all) {
+var requestData = new Object;
+requestData.page = 0;
+requestData.count = all != true ? 4 : 1000;
+requestData.ticker = true;
+requestData.topNewsOnly = false;
+requestData.language = 'L1';
+requestData.newsCategoryId = [214209];
+var latitude = $.getCookie('psz.loc.lat');
+var longitude = $.getCookie('psz.loc.lon');
+$.ajax({
+method: "POST",
+url: "/app/controller/getNewsSnippets",
+data: requestData,
+dataType: "json",
+traditional: true
+})
+.done(function( response ) {
+var i = 0;
+if (all === true) {
+$('#newsOverviewContent414691_8').html('');
+$('#newsOverviewContent414691_8').append('<div><ul></ul></div>');
+}
+$('#newsOverviewContent414691_8 ul').html('');
+$(response.content).each(function(i, news_item) {
+if (all !== true && i >= 4) {
+return false;
+}
+$("#newsOverviewContent414691_8 ul").append(news_item.newsTickerSnippet);
+});
+newsTickerAnim414691_8.init(2000, 4000, 'top')
+});
+}
+$(document).ready(function() {
+getNews414691_8(false);
+pszfw.registerCockpitFunction(getNews414691_8);
+});
+</script>
+</div>
+<!-- #!#template-teaser# -->
+<div class="gridItem gridWidth_1 gridHeight_1 lightGrey" >
+<div class="teaser-img-box" >
+<a class="internalImageLink" href="/agroportal/at/de/produkte/kulturen/raps/rapstechnologie_1/rapstechnologie_2.html">
+<img class="grid-img" src="/agroportal/at/media/migrated/at/aktuell_neu/gewinnspiel_rapstechnologie_2015/keyvisual-rapstechnologie-basf-170x80_thumbnail_170x80px.jpg" title="Herbstanbau" alt="Herbstanbau"/>
+</a>
+</div>
+<div class="teaser-content-box teaserBox">
+<h3>
+<a href="/agroportal/at/de/produkte/kulturen/raps/rapstechnologie_1/rapstechnologie_2.html">
+Raps Herbstanbau</a></h3>
+<div><p>Ihr Technologie-Vorsprung im Raps</p></div>
+<div><a class="link icon-internal" href="/agroportal/at/de/produkte/kulturen/raps/rapstechnologie_1/rapstechnologie_2.html">Mehr...</a></div>
+</div>
+</div>
+</div>
+<div class="clearer"></div>
+</div>
+<a id="4_grid_width_section" name="4_grid_width_section"></a>
+<a id="s1287863" name="s1287863"></a>
+<div class="contentSection" >
+<div class="gridColumn Column_4">
+<div id="cp-teaser1287863_10" class="cp-teaser gridItem bc-lgy gridWidth_2 gridHeight_1">
+<div class="cp-commodities gridWidth_1 gridHeight_1">
+<h3>Rohstoffpreise</h3>
+<ul class="cp-commodity-tabs gridWidth_1">
+<li id="c11000101" data-id="11000101" class="first">
+<a href="#c1287863_100"><dl><dt>Weizen</dt><dd class="cp-price">-</dd></dl><span class="arrow a1"></span><span class="arrow a2"></span><span class="tarrow right"></span></a>
+</li>
+<li id="c21000101" data-id="21000101" >
+<a href="#c1287863_101"><dl><dt>Mais</dt><dd class="cp-price">-</dd></dl><span class="arrow a1"></span><span class="arrow a2"></span><span class="tarrow right"></span></a>
+</li>
+<li id="c43000101" data-id="43000101" >
+<a href="#c1287863_102"><dl><dt>Raps</dt><dd class="cp-price">-</dd></dl><span class="arrow a1"></span><span class="arrow a2"></span><span class="tarrow right"></span></a>
+</li>
+<li id="c92000108" data-id="92000108" >
+<a href="#c1287863_103"><dl><dt>Rohöl</dt><dd class="cp-price">-</dd></dl><span class="arrow a1"></span><span class="arrow a2"></span><span class="tarrow right"></span></a>
+</li>
+</ul>
+<div id="c1287863_100" class="c11000101 cp-charts gridWidth_1 gridHeight_1 first">
+<ul class="cp-chart-tabs">
+<li data-period="t"><a href="#t1287863_100">Gesamt</a></li>
+<li data-period="w"><a href="#w1287863_100">Woche</a></li>
+<li data-period="m"><a href="#m1287863_100">Monat</a></li>
+</ul>
+<div id="t1287863_100" class="cp-ct cp-chart-container first"></div>
+<div id="w1287863_100" class="cp-cw cp-chart-container"></div>
+<div id="m1287863_100" class="cp-cm cp-chart-container"></div>
+</div>
+<div id="c1287863_101" class="c21000101 cp-charts gridWidth_1 gridHeight_1 hidden">
+<ul class="cp-chart-tabs">
+<li data-period="t"><a href="#t1287863_101">Gesamt</a></li>
+<li data-period="w"><a href="#w1287863_101">Woche</a></li>
+<li data-period="m"><a href="#m1287863_101">Monat</a></li>
+</ul>
+<div id="t1287863_101" class="cp-ct cp-chart-container first"></div>
+<div id="w1287863_101" class="cp-cw cp-chart-container"></div>
+<div id="m1287863_101" class="cp-cm cp-chart-container"></div>
+</div>
+<div id="c1287863_102" class="c43000101 cp-charts gridWidth_1 gridHeight_1 hidden">
+<ul class="cp-chart-tabs">
+<li data-period="t"><a href="#t1287863_102">Gesamt</a></li>
+<li data-period="w"><a href="#w1287863_102">Woche</a></li>
+<li data-period="m"><a href="#m1287863_102">Monat</a></li>
+</ul>
+<div id="t1287863_102" class="cp-ct cp-chart-container first"></div>
+<div id="w1287863_102" class="cp-cw cp-chart-container"></div>
+<div id="m1287863_102" class="cp-cm cp-chart-container"></div>
+</div>
+<div id="c1287863_103" class="c92000108 cp-charts gridWidth_1 gridHeight_1 hidden">
+<ul class="cp-chart-tabs">
+<li data-period="t"><a href="#t1287863_103">Gesamt</a></li>
+<li data-period="w"><a href="#w1287863_103">Woche</a></li>
+<li data-period="m"><a href="#m1287863_103">Monat</a></li>
+</ul>
+<div id="t1287863_103" class="cp-ct cp-chart-container first"></div>
+<div id="w1287863_103" class="cp-cw cp-chart-container"></div>
+<div id="m1287863_103" class="cp-cm cp-chart-container"></div>
+</div>
+<div class="cp-info">
+<a class="link tc-cc" href="/agroportal/at/de/services_neu_/rohstoffpreise/rohstoffpreise.html"><span class="icon icon-internal"></span>Alle Details</a>
+<dl><dt>Stand</dt><dd class="cp-updated">-</dd><dt>Quelle</dt><dd>Kaack Terminhandel GmbH, Cloppenburg, www.kaack-terminhandel.de, Angaben ohne Gewähr.</dd></dl>
+</div>
+</div>
+</div>
+<!-- #!#template-teaser# -->
+<div class="gridItem gridWidth_1 gridHeight_1 lightGrey" >
+<div class="teaser-img-box" >
+<a class="internalImageLink" href="/agroportal/at/de/aktuell_at/veranstaltungen/event_overview.html" title="Mehr ...">
+<img class="grid-img" src="/agroportal/at/media/migrated/at/veranstaltungen/veranstaltungen-170x80_thumbnail_170x80px.jpg" title="Veranstaltungen" alt="Veranstaltungen"/>
+</a>
+</div>
+<div class="teaser-content-box teaserBox">
+<h3>
+<a href="/agroportal/at/de/aktuell_at/veranstaltungen/event_overview.html" title="Mehr ...">
+Veranstaltungen</a></h3>
+<div><p>Besuchen Sie uns auf einer unserer Veranstaltungen.</p></div>
+<div><a class="link icon-internal" href="/agroportal/at/de/aktuell_at/veranstaltungen/event_overview.html" title="Mehr ...">Mehr ...</a></div>
+</div>
+</div>
+<!-- #!#template-teaser# -->
+<div class="gridItem gridWidth_1 gridHeight_1 lightGrey" >
+<div class="teaser-img-box" >
+<a class="internalImageLink" href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_257782.html" title="Produktsteckbrief Carax®">
+<img class="grid-img" src="/agroportal/at/media/productcatalogue/products/Pontos_KeyVisual-4480x2240px_thumbnail_170x80px.jpg" title="Pontos&reg;" alt="Pontos&reg;"/>
+</a>
+</div>
+<div class="teaser-content-box teaserBox">
+<h3>
+<a href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_257782.html" title="Produktsteckbrief Carax®">
+Pontos<sup>&reg;</sup></a></h3>
+<div><p>Das neue Getreide-Herbizid im Herbst!</p></div>
+<div><a class="link icon-internal" href="/agroportal/at/de/produkte/produkteproduktempfehlungen_/product_details_257782.html" title="Produktsteckbrief Carax&reg;">Zur Produktseite</a></div>
+</div>
+</div>
+</div>
+<div class="clearer"></div>
+</div>
+<a id="1___1___2_grid_width_section" name="1___1___2_grid_width_section"></a>
+</div>
+</div>
+<div class="warning_eu-law cBackgroundColorFull">
+<ul class="linkList">
+<li>
+<div class="linkListHeaderIcon"></div>
+<div class="linkListHeaderText">
+<span class="warningeulawTitle" >Hinweis</span>
+</div>
+</li>
+</ul>
+<p class="warningeulawText" >Pflanzenschutzmittel vorsichtig verwenden. Vor Verwendung stets Etikett und Produktinformation lesen. Warnhinweise und Warnsymbole beachten.</p>
+</div>
+<footer class="footer">
+<div class="footer-innerwrapper">
+<div class="social-navigation">
+<div class="block-quarter" id="title-col">
+<span class="title">Visit us</span>
+</div>
+<div class="social-scroll wrapper-scroll">
+<ul class="item-wrapper-scroll">
+<li class="item-scroll"><a data-wtid="WT.soc"
+data-wtvalue="facebook;https://www.facebook.com/basf/"
+href="https://www.facebook.com/basf/" target="_blank"
+title="facebook">
+<i class="icon-typ-bigicon icon-new-style icon-facebook" title="Join us on facebook"></i>
+</a></li>
+<li class="item-scroll"><a data-wtid="WT.soc"
+data-wtvalue="twitter;https://twitter.com/BASFAgro"
+href="https://twitter.com/BASFAgro" target="_blank"
+title="twitter">
+<i class="icon-typ-bigicon icon-new-style icon-twitter" title="Join us on twitter"></i>
+</a></li>
+<li class="item-scroll"><a data-wtid="WT.soc"
+data-wtvalue="youtube;https://www.youtube.com/user/BASFAgro"
+href="https://www.youtube.com/user/BASFAgro" target="_blank"
+title="youtube">
+<i class="icon-typ-bigicon icon-new-style icon-youtube" title="Join us on youtube"></i>
+</a></li>
+<li class="item-scroll"><a data-wtid="WT.soc"
+data-wtvalue="linkedin;https://www.linkedin.com/company/basf"
+href="https://www.linkedin.com/company/basf" target="_blank"
+title="linkedin">
+<i class="icon-typ-bigicon icon-new-style icon-linkedin" title="Join us on linkedin"></i>
+</a></li>
+<li class="item-scroll"><a data-wtid="WT.soc"
+data-wtvalue="slideshare;https://www.slideshare.net/basf"
+href="https://www.slideshare.net/basf" target="_blank"
+title="slideshare">
+<i class="icon-typ-bigicon icon-new-style icon-slideshare" title="Join us on slideshare"></i>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-innerwrapper footer-navigation">
+<div class="footernavigationauto block-quarter">
+<div class="footer-wrapper" data-accordion-group-id="0">
+<h3>
+<span class="footer-headline">General Info</span>
+</h3>
+<ul class="accordion-content">
+<li>
+<a href="/agroportal/at/de/ueber_uns/Ueber_uns_2.html">About us</a>
+</li>
+<li>
+<a href="/agroportal/at/de/ueber_uns/jobs_praktikas/Jobs.html">Careers</a>
+</li>
+<li>
+<a href="/agroportal/at/de/presse_at/Presse_AT.html">Press release agriculture</a>
+</li>
+<li>
+<a href="/agroportal/at/de/special/sitemap.html">Sitemap</a>
+</li>
+</ul>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="footer-innerwrapper">
+<div class="legal-footer">
+<div class="copy-right block-quarter">
+<ul>
+<li>Copyright &copy; BASF SE 2017</li>
+</ul>
+</div>
+<div class="legal-items">
+<ul>
+<li><a href="/agroportal/at/de/special/general_information/Disclaimer_2.html" title="Disclaimer">Disclaimer</a></li>
+<li><a href="/agroportal/at/de/special/general_information/Data_Protection_2.html" title="Datenschutz">Datenschutz</a></li>
+<li><a href="/agroportal/at/de/special/general_information/PictureCredits_2.html" title="Bildnachweis">Bildnachweis</a></li>
+<li><a href="/agroportal/at/de/special/general_information/Credits_2.html" title="Impressum">Impressum</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a name="bottom" id="bottom"></a>
+</div>
+<script src="/agroportal/at/media/js/webtrends.js" type="text/javascript"></script>
+<script type="text/javascript">var _tag=new WebTrends();_tag.dcsGetId();</script>
+<script type="text/javascript">_tag.dcsCustom=function(){_tag.DCS.dcscfg='1';var parameters = $.getUrlVars();$.each(parameters, function(index,value){if('WT.mc_id' == value){_tag.WT.mc_id = parameters[value];}});var WT_z_apedtabvisit = $.getCookie('WT_z_apedtabvisit');if(null != WT_z_apedtabvisit){_tag.WT.z_apedtabvisit = WT_z_apedtabvisit;}
+_tag.WT.z_pbgeozip_status = psz.locationState() ? 'localized_on' : 'localized_off';
+_tag.WT.z_pbcropsel_status = psz.cropsState() ? 'cropalized_on' : 'cropalized_off';
+_tag.WT.z_pblocalized = psz.locationDisplay() ? 'localized_1_result' : 'not_localized';
+_tag.WT.z_pbcropalized = psz.cropsDisplay() ? 'cropalized' : 'no_cropalization';
+_tag.WT.z_pcomponentdisplay = 'PersonalizeBar';
+if (psz.locationDisplay()) {
+_tag.WT.z_pbgeozip_value = psz.locationDisplay();
+}
+if (psz.cropsDisplay()) {
+_tag.WT.z_pbcropsel_value = psz.cropsDisplay();
+}
+};_tag.dcsCollect();</script>
+<noscript><div><img alt="DCSIMG410463" id="DCSIMG410463" width="1" height="1" src="http://statse.webtrendslive.com/dcsushh8j10000ou7xmdradyn_2s2o/njs.gif?dcsuri=/nojavascript&amp;dcsdat=410463&amp;WT.js=No&amp;DCS.dcscfg=1&amp;WT.tv=9.4.0&amp;WT.dcssip=agrar.basf.at&amp;WT.ti=BASF%20Pflanzenschutz%20%C3%96sterreich"/></div></noscript>
+<div id="locationDialog"></div>
+<script type="text/javascript">
+$(function() {
+CommodityPrices.initTeaser('#cp-teaser1287863_10',[11000101,21000101,43000101,92000108]);
+});
+</script>
+</body>
+</html>

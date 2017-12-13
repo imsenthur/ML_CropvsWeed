@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Page not found! MU Extension</title>
+<meta name="description" content="MU Extension, University of Missouri" />
+<meta name="keywords" content="extension, university, Missouri, MU, Mizzou, education, research, services" />
+<link href="/_global/css/0main.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/_global/css/0mainprint.css" rel="stylesheet" type="text/css" media="print" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+<script src="/_global/js/AC_RunActiveContent.js" type="text/javascript"></script>
+
+<!-- skip -->
+       <div class="offset">
+            <a href="#columnonetop">Skip to section navigation</a>
+        </div>
+        <div class="offset">
+            <a href="#text">Skip to body content</a>
+        </div>
+
+<div id="flagprint">
+<img src="/_global/images/muxlogoprint.jpg" alt="MU Extension logo" width="150" height="36" hspace="0" vspace="0" border="0" align="left" />
+<br clear="all"/>
+</div>
+
+<div id="mu"><p><a href="http://www.missouri.edu/">University of Missouri</a></p>
+</div>
+
+<div class="navshadow">
+<div id="topnav">
+
+<div id="notab">
+<p><a href="/index.aspx">Home</a>&nbsp; | &nbsp;<a href="/directory/People.aspx">People</a>&nbsp; | &nbsp;<a href="/directory/Places.aspx">Locations</a>&nbsp; | &nbsp;<a href="/main/programs.aspx">Program index</a>&nbsp; | &nbsp;<a href="/calendar/DisplayEvents.aspx?R=Y">Calendar</a>&nbsp; |  &nbsp;<a href="/news/news.aspx?R=Y">News</a>&nbsp; | &nbsp;<a href="/publications/">Publications</a>&nbsp; 
+<!-- | &nbsp;<a href="/explore/shop">Store</a> --></p>
+</div>
+
+<div id="fourh">
+<p><a href="http://4h.missouri.edu">4-H</a></p>
+</div>
+
+<div id="degree">
+<p>
+<!-- <a href="/education/index.aspx">Continuing education &#149; Seminars</a></p> -->
+<a href="/education/index.aspx">Continuing education &#149; Seminars &#149; Courses</a></p>
+</div>
+
+</div>
+</div>
+
+<div id="flag">
+<a href="/index.aspx"> <img class="screenlogo" src="/_global/images/muxlogo.jpg" alt="University of Missouri Extension"  hspace="0" vspace="0" border="0" align="left" width="190" height="44" /> <img class="printlogo" src="/_global/images/muxlogoprint.jpg" alt="University of Missouri Extension" width="150" height="36" hspace="0" vspace="0" border="0" align="left" /></a><a href="/centennial/"><img class="centennial" alt="MU Extension celebrates 100 years" src="/_global/images/centennial-ribbon2.png" /></a>
+
+
+
+<ul>
+
+<li><br />Search MU Extension &nbsp; 
+<input name="q" id ="q" type="text" size="18" onKeyPress="return SubmitOnEnter(this,event)" /> 
+<input class="gobutton" type="button" name="sa" value="Go" onclick="SearchSite();" alt="Search" align="top" width="27" height="21" vspace="1" />
+</li></ul>
+
+<script type="text/javascript">
+// Function retrieved from: http://cass- hacks.com/articles/code/js_url_encode_decode/ 
+function URLEncode (clearString) { 
+  var output = ''; 
+  var x = 0; 
+  clearString = clearString.toString(); 
+  var regex = /(^[a-zA-Z0-9_.]*)/; 
+  while (x < clearString.length) { 
+    var match = regex.exec(clearString.substr(x)); 
+    if (match != null && match.length > 1 && match[1] != '') { 
+      output += match[1]; 
+      x += match[1].length; 
+    } else { 
+      if (clearString[x] == ' ') 
+        output += '+'; 
+      else { 
+        var charCode = clearString.charCodeAt(x); 
+        var hexVal = charCode.toString(16); 
+        output += '%' + ( hexVal.length < 2 ? '0' : '' ) + hexVal.toUpperCase(); 
+      } 
+      x++; 
+    } 
+  } 
+  return output; 
+} 
+// Retrieved from: http://www.htmlcodetutorial.com/forms/index_famsupp_157.html 
+function SubmitOnEnter(myfield, e) 
+{ 
+  var keycode; 
+  if (window.event) 
+    keycode = window.event.keyCode; 
+  else if (e) 
+    keycode = e.which; 
+  else 
+    return true; 
+  if (keycode == 13) 
+  { 
+    SearchSite(); 
+    return false; 
+  } 
+  else 
+    return true; 
+  } 
+function SearchSite() 
+{ 
+document.location.href='/search-results.html?cx=011326408287753474406:fpxzwyo07ji&cof=FORID%3A11&ie=UTF-8&q=' + URLEncode(document.getElementById('q').value) + '&sa=Search'; 
+} 
+</script>
+
+
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+<br clear="all"/>
+</div>
+<br clear="all"/>
+<div id="content">
+<div class="navigation02" id="navigation02">
+<ul>
+<li id="nav-category1_nav"><a href="/main/DisplayCategory.aspx?C=1"><br/>Agriculture</a></li>
+<li id="nav-category2_nav"><a href="/main/DisplayCategory.aspx?C=3">Natural<br/>resources</a></li>
+<li id="nav-category3_nav"><a href="/main/DisplayCategory.aspx?C=2">Lawn<br/>and garden</a></li>
+<li id="nav-category4_nav"><a href="/main/DisplayCategory.aspx?C=4">Home and<br/>consumer life</a></li>
+<li id="nav-category5_nav"><a href="/main/DisplayCategory.aspx?C=5">Nutrition<br/>and health</a></li>
+<li id="nav-category6_nav"><a href="/main/DisplayCategory.aspx?C=6">Families and<br/>relationships</a></li>
+<li id="nav-category7_nav"><a href="/main/DisplayCategory.aspx?C=8">Community<br/>and leadership</a></li>
+<li id="nav-category8_nav"><a href="/main/DisplayCategory.aspx?C=9">Business<br/>and workforce</a></li>
+<li id="nav-category9_nav"><a href="/main/DisplayCategory.aspx?C=10">Emergency<br/>management</a></li>
+</ul>
+</div>
+
+
+<div id="columnall">
+<h2>404 error - page not found</h2>
+<p class="breadcrumb"><a href="/">home</a> &gt; <b>page not found</b></p>
+
+
+
+
+</div>
+<br clear="all"/>
+<div id="columnonetwothree">
+
+<h1>Sorry! </h1>
+<p><b>The page you have requested is not available. It may have been moved or deleted as we update our website. </b></p>
+
+<p>To find related information, you can
+<ul>
+<li>Use the navigation tools above</li>
+	<li>Go to the <a href="http://extension.missouri.edu">MU Extension front page</a> </li>
+<li><a href="http://extension.missouri.edu/scripts/explore/feedback.asp?g=http://extension.missouri.edu/mux404.htm">Contact MU Extension for help</a>   </li>
+</ul>
+</p>
+
+<p>MU Extension apologizes for any inconvenience.</p>
+
+</div>
+<div id="columnfour">
+
+<p class="blackongold">Here for you</p>
+<p>Interdisciplinary teams of campus and extension field faculty and state and federal agencies make campus educational, creative, and research efforts accessible to citizens throughout the state.</p>
+
+</div>
+<br clear="all"/>
+<div id="footer">
+<div id="footerscreen">
+
+<div class="footerleft" style="float:left; margin-left:-10px">
+Find MU Extension on&nbsp;&nbsp;<a href="http://www.facebook.com/MUExtension" target="_blank"><img src="/_global/images/facebook-icon.jpg" width="20" height="20" alt="Find us on Facebook" style="vertical-align:middle;" border="0" /></a>&nbsp;
+<a href="http://www.twitter.com/MUExtension" target="_blank"><img src="/_global/images/twitter-icon.jpg" width="20" height="20" alt="Follow us on Twitter" style="vertical-align:middle;" border="0" /></a>
+</div>
+
+<p class="footerlinks"><a href="/about/home.aspx">About</a> | <a
+href="/about/jobs.aspx">Jobs</a> | <a
+href="/extcouncil/">Extension councils</a> | <a
+href="/staff/">For faculty and staff</a> | <a href="/researchers/home.aspx">For researchers</a> | <a href="/main/giving/">Giving</a>
+| <a href="/main/aae.aspx">Ask an expert</a> | <a
+href="/scripts/explore/feedback.asp?g=muxbottom">Contact</a></p>
+
+<p class="blurbsmall">&copy; 1993 to <label id="lblCurrentYear"></label> <a href="http://www.umsystem.edu/">Curators
+of the University of Missouri,</a> all rights reserved, <a
+href="http://www.missouri.edu/dmca/">DMCA</a> and <a
+href="http://missouri.edu/copyright.php">other copyright information</a><br/>
+<a href="/">University of Missouri Extension</a> is an <a
+href="/main/about/nondiscrimination.aspx">equal opportunity/access/affirmative action/pro-disabled and veteran employer</a>.
+</p>
+
+</div>
+
+<div id="footerprint">
+
+<p><strong>University of Missouri Extension</strong><br/>
+<a href="http://www.missouri.edu/copyright.htm">&copy; 1993 to <label id="lblCurrentYearSecond"></label></a>
+Curators of the University of Missouri, all rights reserved</p>
+
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+document.getElementById("lblCurrentYear").innerHTML = new Date().getFullYear();
+    document.getElementById("lblCurrentYearSecond").innerHTML = new Date().getFullYear();
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2973578-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+</div>
+<br clear="all"/>
+</div>
+</div>
+</body>
+</html>
